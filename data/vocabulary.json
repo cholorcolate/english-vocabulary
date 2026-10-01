@@ -840,7 +840,7 @@
     {
       "word": "compared with",
       "pos": "",
-      "meaning": "与.....·相比",
+      "meaning": "与……相比",
       "year": 2010,
       "kind": "phrase",
       "sources": [
@@ -1043,8 +1043,8 @@
     },
     {
       "word": "consist",
-      "pos": "",
-      "meaning": "由.........·构成,由··组成",
+      "pos": "v.",
+      "meaning": "由……构成；由……组成",
       "year": 2010,
       "kind": "word",
       "sources": [
@@ -1054,9 +1054,10 @@
           "column": 1
         }
       ],
-      "review": true,
+      "review": false,
       "confidence": 0.576,
-      "id": "547065ff5e9a88ad"
+      "id": "547065ff5e9a88ad",
+      "verification": "proofread"
     },
     {
       "word": "content",
@@ -1309,9 +1310,10 @@
           "column": 1
         }
       ],
-      "review": true,
+      "review": false,
       "confidence": 0.551,
-      "id": "0ad401147ca5a1a1"
+      "id": "0ad401147ca5a1a1",
+      "verification": "proofread"
     },
     {
       "word": "foremost",
@@ -1707,7 +1709,7 @@
     {
       "word": "marvel at",
       "pos": "",
-      "meaning": "对.....感到惊奇",
+      "meaning": "对……感到惊奇",
       "year": 2010,
       "kind": "phrase",
       "sources": [
@@ -1741,7 +1743,7 @@
     {
       "word": "be removed from",
       "pos": "",
-      "meaning": "被从......·中移除,删除",
+      "meaning": "从……移除；被从……中删除",
       "year": 2010,
       "kind": "phrase",
       "sources": [
@@ -1751,9 +1753,10 @@
           "column": 0
         }
       ],
-      "review": true,
+      "review": false,
       "confidence": 0.799,
-      "id": "7d58ce79a3659db9"
+      "id": "7d58ce79a3659db9",
+      "verification": "proofread"
     },
     {
       "word": "take for granted",
@@ -1807,9 +1810,9 @@
       "id": "06d9a30c52766753"
     },
     {
-      "word": "define...as",
+      "word": "define ... as ...",
       "pos": "",
-      "meaning": "把...····定义为",
+      "meaning": "把……定义为……",
       "year": 2010,
       "kind": "phrase",
       "sources": [
@@ -1819,9 +1822,10 @@
           "column": 1
         }
       ],
-      "review": true,
+      "review": false,
       "confidence": 0.631,
-      "id": "459c39180d7f34c3"
+      "id": "459c39180d7f34c3",
+      "verification": "proofread"
     },
     {
       "word": "long before",
@@ -2142,9 +2146,9 @@
           "column": 1
         }
       ],
-      "review": true,
+      "review": false,
       "confidence": 0.989,
-      "verification": "second-pass",
+      "verification": "proofread",
       "id": "c5be39a68759c398"
     },
     {
@@ -2422,7 +2426,7 @@
     {
       "word": "hostility",
       "pos": "n.",
-      "meaning": "敌意,对抗；敌对,敌意",
+      "meaning": "敌意；敌对；对抗",
       "year": 2010,
       "kind": "word",
       "sources": [
@@ -2597,7 +2601,7 @@
     {
       "word": "immune to",
       "pos": "",
-      "meaning": "免疫,不受...影响",
+      "meaning": "免疫,不受……影响",
       "year": 2010,
       "kind": "phrase",
       "sources": [
@@ -3039,7 +3043,7 @@
     {
       "word": "exemplify",
       "pos": "v.",
-      "meaning": "是.....·的典范;举例说明",
+      "meaning": "是……的典范；举例说明",
       "year": 2010,
       "kind": "word",
       "sources": [
@@ -3049,9 +3053,10 @@
           "column": 1
         }
       ],
-      "review": true,
+      "review": false,
       "confidence": 0.799,
-      "id": "319a3a4d7205d72d"
+      "id": "319a3a4d7205d72d",
+      "verification": "proofread"
     },
     {
       "word": "validity",
@@ -3192,7 +3197,7 @@
     {
       "word": "have impact on",
       "pos": "",
-      "meaning": "对....·产生影响",
+      "meaning": "对……产生影响",
       "year": 2010,
       "kind": "phrase",
       "sources": [
@@ -3226,7 +3231,7 @@
     {
       "word": "has little to do with",
       "pos": "",
-      "meaning": "与...关系不大",
+      "meaning": "与……关系不大",
       "year": 2010,
       "kind": "phrase",
       "sources": [
@@ -3243,7 +3248,7 @@
     {
       "word": "relate to",
       "pos": "",
-      "meaning": "与...··相关",
+      "meaning": "与……相关",
       "year": 2010,
       "kind": "phrase",
       "sources": [
@@ -3871,8 +3876,8 @@
     },
     {
       "word": "likewise",
-      "pos": "adj.",
-      "meaning": "同样地,相似地",
+      "pos": "adv.",
+      "meaning": "同样地；相似地",
       "year": 2010,
       "kind": "word",
       "sources": [
@@ -3882,9 +3887,9 @@
           "column": 1
         }
       ],
-      "review": true,
+      "review": false,
       "confidence": 0.933,
-      "verification": "second-pass",
+      "verification": "proofread",
       "id": "4fc0bf0e8a4f264e"
     },
     {
@@ -3900,9 +3905,9 @@
           "column": 1
         }
       ],
-      "review": true,
+      "review": false,
       "confidence": 0.893,
-      "verification": "second-pass",
+      "verification": "proofread",
       "id": "71a8b501d9aa7788"
     },
     {
@@ -3918,15 +3923,15 @@
           "column": 1
         }
       ],
-      "review": true,
+      "review": false,
       "confidence": 0.885,
-      "verification": "second-pass",
+      "verification": "proofread",
       "id": "54422cb469021401"
     },
     {
       "word": "take aim at",
       "pos": "",
-      "meaning": "瞄准以.····为目标",
+      "meaning": "瞄准；以……为目标",
       "year": 2010,
       "kind": "phrase",
       "sources": [
@@ -3936,9 +3941,10 @@
           "column": 0
         }
       ],
-      "review": true,
+      "review": false,
       "confidence": 0.689,
-      "id": "ae384eec5e23325d"
+      "id": "ae384eec5e23325d",
+      "verification": "proofread"
     },
     {
       "word": "force sb. to",
@@ -3960,7 +3966,7 @@
     {
       "word": "essential to",
       "pos": "",
-      "meaning": "对.....必不可少爱版",
+      "meaning": "对……必不可少",
       "year": 2010,
       "kind": "phrase",
       "sources": [
@@ -3970,14 +3976,15 @@
           "column": 0
         }
       ],
-      "review": true,
+      "review": false,
       "confidence": 0.573,
-      "id": "9645809f349d59f8"
+      "id": "9645809f349d59f8",
+      "verification": "proofread"
     },
     {
       "word": "encounter with",
       "pos": "",
-      "meaning": "遭遇be #",
+      "meaning": "遭遇；邂逅",
       "year": 2010,
       "kind": "phrase",
       "sources": [
@@ -4004,9 +4011,10 @@
           "column": 0
         }
       ],
-      "review": true,
+      "review": false,
       "confidence": 0.541,
-      "id": "914ad1928e9b6d0d"
+      "id": "914ad1928e9b6d0d",
+      "verification": "proofread"
     },
     {
       "word": "rush through",
@@ -4123,9 +4131,10 @@
           "column": 0
         }
       ],
-      "review": true,
+      "review": false,
       "confidence": 0.512,
-      "id": "282c5187f51ec393"
+      "id": "282c5187f51ec393",
+      "verification": "proofread"
     },
     {
       "word": "give in",
@@ -4196,9 +4205,9 @@
       "id": "6ba1042bb56a1952"
     },
     {
-      "word": "contrary adj./",
-      "pos": "n.",
-      "meaning": "相反",
+      "word": "contrary",
+      "pos": "adj./n.",
+      "meaning": "相反的；相反",
       "year": 2011,
       "kind": "word",
       "sources": [
@@ -4385,7 +4394,7 @@
     {
       "word": "precious to",
       "pos": "",
-      "meaning": "对.....·来说很珍贵",
+      "meaning": "对……来说很珍贵",
       "year": 2011,
       "kind": "phrase",
       "sources": [
@@ -4402,7 +4411,7 @@
     {
       "word": "have influence on",
       "pos": "",
-      "meaning": "对·....·有影响",
+      "meaning": "对……有影响",
       "year": 2011,
       "kind": "phrase",
       "sources": [
@@ -6073,7 +6082,7 @@
     {
       "word": "in response to",
       "pos": "",
-      "meaning": "对......的反应",
+      "meaning": "对……的反应",
       "year": 2011,
       "kind": "word",
       "sources": [
@@ -6107,7 +6116,7 @@
     {
       "word": "be cautious of",
       "pos": "",
-      "meaning": "留心.....,谨防",
+      "meaning": "留心……,谨防",
       "year": 2011,
       "kind": "word",
       "sources": [
@@ -7110,7 +7119,7 @@
     {
       "word": "delight",
       "pos": "n.",
-      "meaning": "快乐,高兴；高兴;v.使高兴",
+      "meaning": "快乐；高兴；使高兴",
       "year": 2011,
       "kind": "word",
       "sources": [
@@ -7278,9 +7287,9 @@
           "column": 0
         }
       ],
-      "review": true,
+      "review": false,
       "confidence": 0.957,
-      "verification": "second-pass",
+      "verification": "proofread",
       "id": "d835423d8826bf39"
     },
     {
@@ -7507,7 +7516,7 @@
     {
       "word": "feature",
       "pos": "v.",
-      "meaning": "以..为特色,特写",
+      "meaning": "以……为特色；重点介绍",
       "year": 2011,
       "kind": "word",
       "sources": [
@@ -8049,9 +8058,10 @@
           "column": 1
         }
       ],
-      "review": true,
+      "review": false,
       "confidence": 0.66,
-      "id": "4b2f24e62b6a4ecb"
+      "id": "4b2f24e62b6a4ecb",
+      "verification": "proofread"
     },
     {
       "word": "liberty",
@@ -8194,7 +8204,7 @@
     {
       "word": "convincing",
       "pos": "adj.",
-      "meaning": "令人信服的，有说服力的；有说服力的;使人信服的",
+      "meaning": "令人信服的；有说服力的",
       "year": 2012,
       "kind": "word",
       "sources": [
@@ -9200,9 +9210,9 @@
       "id": "7fbbb93c675e9952"
     },
     {
-      "word": "fiti",
+      "word": "fit in",
       "pos": "n.",
-      "meaning": "相处融洽",
+      "meaning": "相处融洽；适应",
       "year": 2012,
       "kind": "word",
       "sources": [
@@ -9564,7 +9574,7 @@
     {
       "word": "provoke",
       "pos": "v.",
-      "meaning": "引|起,挑拨;煽动；引起,激起;煽动",
+      "meaning": "引起；激起；煽动",
       "year": 2012,
       "kind": "word",
       "sources": [
@@ -10130,7 +10140,7 @@
     {
       "word": "live by",
       "pos": "",
-      "meaning": "信守;靠.....过活",
+      "meaning": "信守;靠……过活",
       "year": 2012,
       "kind": "phrase",
       "sources": [
@@ -10385,7 +10395,7 @@
     {
       "word": "reward",
       "pos": "n./v.",
-      "meaning": "奖赏;值得；奖赏;酬劳;值得",
+      "meaning": "奖赏；酬劳；值得",
       "year": 2012,
       "kind": "word",
       "sources": [
@@ -10655,9 +10665,9 @@
           "column": 1
         }
       ],
-      "review": true,
+      "review": false,
       "confidence": 0.985,
-      "verification": "second-pass",
+      "verification": "proofread",
       "id": "72052bf0b239e23e"
     },
     {
@@ -10673,9 +10683,9 @@
           "column": 1
         }
       ],
-      "review": true,
+      "review": false,
       "confidence": 0.987,
-      "verification": "second-pass",
+      "verification": "proofread",
       "id": "a750eb550dce1d2c"
     },
     {
@@ -10691,9 +10701,9 @@
           "column": 1
         }
       ],
-      "review": true,
+      "review": false,
       "confidence": 0.915,
-      "verification": "second-pass",
+      "verification": "proofread",
       "id": "b363ab58797318cc"
     },
     {
@@ -10801,7 +10811,7 @@
     {
       "word": "deceptiveness",
       "pos": "n.",
-      "meaning": "虚伪:迷惑骗人",
+      "meaning": "欺骗性；迷惑性",
       "year": 2012,
       "kind": "word",
       "sources": [
@@ -10869,7 +10879,7 @@
     {
       "word": "similar to",
       "pos": "",
-      "meaning": "与.....类似",
+      "meaning": "与……类似",
       "year": 2012,
       "kind": "phrase",
       "sources": [
@@ -11310,8 +11320,8 @@
     },
     {
       "word": "backload",
-      "pos": "adv.",
-      "meaning": "间接增加;回程载货",
+      "pos": "v.",
+      "meaning": "回程载货；间接增加",
       "year": 2012,
       "kind": "word",
       "sources": [
@@ -11787,7 +11797,7 @@
     {
       "word": "fight against",
       "pos": "",
-      "meaning": "与...作斗争",
+      "meaning": "与……作斗争",
       "year": 2012,
       "kind": "word",
       "sources": [
@@ -11797,9 +11807,10 @@
           "column": 0
         }
       ],
-      "review": true,
+      "review": false,
       "confidence": 0.646,
-      "id": "85b6de0971a98bc9"
+      "id": "85b6de0971a98bc9",
+      "verification": "proofread"
     },
     {
       "word": "get rid of",
@@ -11889,7 +11900,7 @@
     {
       "word": "information",
       "pos": "n.",
-      "meaning": "信息；信息;情报",
+      "meaning": "信息；情报",
       "year": 2013,
       "kind": "word",
       "sources": [
@@ -12438,7 +12449,7 @@
     {
       "word": "in conjunction with",
       "pos": "",
-      "meaning": "与.....·相结合",
+      "meaning": "与……相结合",
       "year": 2013,
       "kind": "phrase",
       "sources": [
@@ -12557,7 +12568,7 @@
     {
       "word": "advertise",
       "pos": "v.",
-      "meaning": "为.....做广告;宣传",
+      "meaning": "为……做广告;宣传",
       "year": 2013,
       "kind": "word",
       "sources": [
@@ -12710,7 +12721,7 @@
     {
       "word": "name",
       "pos": "v.",
-      "meaning": "给....取名,为.....定名",
+      "meaning": "给……取名；为……定名",
       "year": 2013,
       "kind": "word",
       "sources": [
@@ -12720,9 +12731,10 @@
           "column": 0
         }
       ],
-      "review": true,
+      "review": false,
       "confidence": 0.771,
-      "id": "a9a27ca0b1a30b52"
+      "id": "a9a27ca0b1a30b52",
+      "verification": "proofread"
     },
     {
       "word": "decade",
@@ -12795,7 +12807,7 @@
     {
       "word": "feverish",
       "pos": "adj.",
-      "meaning": "狂热的;兴奋的;发烧的；狂热的,极度兴奋的",
+      "meaning": "发烧的；狂热的；兴奋的",
       "year": 2013,
       "kind": "word",
       "sources": [
@@ -12849,8 +12861,8 @@
       "id": "f15e5b9ce8d1e435"
     },
     {
-      "word": "precisely ady",
-      "pos": "",
+      "word": "precisely",
+      "pos": "adv.",
       "meaning": "精确地",
       "year": 2013,
       "kind": "word",
@@ -13003,8 +13015,8 @@
     },
     {
       "word": "plus",
-      "pos": "adj.",
-      "meaning": "略高一些的 prep.外加",
+      "pos": "adj./prep.",
+      "meaning": "略高一些的；外加",
       "year": 2013,
       "kind": "word",
       "sources": [
@@ -13191,7 +13203,7 @@
     {
       "word": "combat",
       "pos": "n.",
-      "meaning": "搏斗;争论,反对v与...作斗争;防止",
+      "meaning": "搏斗;争论,反对v与……作斗争;防止",
       "year": 2013,
       "kind": "word",
       "sources": [
@@ -13310,7 +13322,7 @@
     {
       "word": "at odds with",
       "pos": "",
-      "meaning": "与...不一致",
+      "meaning": "与……不一致",
       "year": 2013,
       "kind": "phrase",
       "sources": [
@@ -13410,9 +13422,9 @@
       "id": "d28c8fe7ac5e0d27"
     },
     {
-      "word": "online adj.&",
-      "pos": "adv.",
-      "meaning": "在线的(地)",
+      "word": "online",
+      "pos": "adj./adv.",
+      "meaning": "在线的；在线地",
       "year": 2013,
       "kind": "word",
       "sources": [
@@ -14289,7 +14301,7 @@
     {
       "word": "misplace",
       "pos": "v.",
-      "meaning": "把......放错位置",
+      "meaning": "把……放错位置",
       "year": 2013,
       "kind": "word",
       "sources": [
@@ -15392,8 +15404,8 @@
       "id": "7d2790b472fba1e1"
     },
     {
-      "word": "deliberately ady",
-      "pos": "",
+      "word": "deliberately",
+      "pos": "adv.",
       "meaning": "故意地;审慎地",
       "year": 2013,
       "kind": "word",
@@ -15445,7 +15457,7 @@
     {
       "word": "intrude",
       "pos": "v.",
-      "meaning": "侵人;侵扰;闯人",
+      "meaning": "侵人;侵扰;闯入",
       "year": 2013,
       "kind": "word",
       "sources": [
@@ -15632,7 +15644,7 @@
     {
       "word": "overstep",
       "pos": "vt.",
-      "meaning": "逾越;超出..·的限度",
+      "meaning": "逾越;超出……的限度",
       "year": 2013,
       "kind": "word",
       "sources": [
@@ -15732,24 +15744,6 @@
       "id": "f6e9bdee47cfc11b"
     },
     {
-      "word": "deliberately",
-      "pos": "adv.",
-      "meaning": "故意地;审慎地",
-      "year": 2013,
-      "kind": "word",
-      "sources": [
-        {
-          "page": 18,
-          "section": "T4",
-          "column": 0
-        }
-      ],
-      "review": true,
-      "confidence": 0.92,
-      "verification": "second-pass",
-      "id": "60b3063940715f9a"
-    },
-    {
       "word": "establish",
       "pos": "v.",
       "meaning": "确立；建立",
@@ -15762,9 +15756,9 @@
           "column": 1
         }
       ],
-      "review": true,
+      "review": false,
       "confidence": 0.959,
-      "verification": "second-pass",
+      "verification": "proofread",
       "id": "445a0852fe4b764b"
     },
     {
@@ -15780,9 +15774,9 @@
           "column": 1
         }
       ],
-      "review": true,
+      "review": false,
       "confidence": 0.904,
-      "verification": "second-pass",
+      "verification": "proofread",
       "id": "f49d65398ecc2e4e"
     },
     {
@@ -15822,7 +15816,7 @@
     {
       "word": "run parallel to",
       "pos": "",
-      "meaning": "与......平行(或并行)",
+      "meaning": "与……平行(或并行)",
       "year": 2013,
       "kind": "phrase",
       "sources": [
@@ -16417,7 +16411,7 @@
     {
       "word": "have an impact on",
       "pos": "",
-      "meaning": "对.....产生影响",
+      "meaning": "对……产生影响",
       "year": 2014,
       "kind": "phrase",
       "sources": [
@@ -16587,7 +16581,7 @@
     {
       "word": "follow",
       "pos": "v.",
-      "meaning": "跟随;接着.....到来或发生",
+      "meaning": "跟随;接着……到来或发生",
       "year": 2014,
       "kind": "word",
       "sources": [
@@ -16806,9 +16800,9 @@
       "id": "31636ca214fe98d0"
     },
     {
-      "word": "deserving adi",
-      "pos": "",
-      "meaning": "值得帮助的;值得....的",
+      "word": "deserving",
+      "pos": "adj.",
+      "meaning": "值得帮助的；值得……的",
       "year": 2014,
       "kind": "word",
       "sources": [
@@ -16857,8 +16851,8 @@
       "id": "c188acfe49badbe3"
     },
     {
-      "word": "extraordinarily ady",
-      "pos": "",
+      "word": "extraordinarily",
+      "pos": "adv.",
       "meaning": "非常地;特别地",
       "year": 2014,
       "kind": "word",
@@ -17233,7 +17227,7 @@
     {
       "word": "govern",
       "pos": "v.",
-      "meaning": "控制;管理",
+      "meaning": "控制；管理；治理",
       "year": 2014,
       "kind": "word",
       "sources": [
@@ -17250,7 +17244,7 @@
     {
       "word": "conservative",
       "pos": "adj.",
-      "meaning": "保守的；保守的;保守派的 n.保守者,因循守旧者;保守党党员",
+      "meaning": "保守的；保守派的；保守者",
       "year": 2014,
       "kind": "word",
       "sources": [
@@ -17508,24 +17502,6 @@
       "id": "d67c6cef7af5c1c3"
     },
     {
-      "word": "extraordinarily",
-      "pos": "adv.",
-      "meaning": "非常地;特别地",
-      "year": 2014,
-      "kind": "word",
-      "sources": [
-        {
-          "page": 20,
-          "section": "T1",
-          "column": 0
-        }
-      ],
-      "review": true,
-      "confidence": 0.93,
-      "verification": "second-pass",
-      "id": "978bbb7dbb0856f7"
-    },
-    {
       "word": "costly",
       "pos": "adj.",
       "meaning": "代价高的;昂贵的",
@@ -17613,7 +17589,7 @@
     {
       "word": "stern",
       "pos": "adj.",
-      "meaning": "严格的;严厉的;坚定的",
+      "meaning": "严格的；严厉的；坚定的",
       "year": 2014,
       "kind": "word",
       "sources": [
@@ -17681,7 +17657,7 @@
     {
       "word": "liberalize",
       "pos": "v.",
-      "meaning": "使自由化放宽....的范围(或限制)",
+      "meaning": "使自由化放宽……的范围(或限制)",
       "year": 2014,
       "kind": "word",
       "sources": [
@@ -18689,7 +18665,7 @@
     {
       "word": "cast doubt on",
       "pos": "",
-      "meaning": "对......产生怀疑",
+      "meaning": "对……产生怀疑",
       "year": 2014,
       "kind": "phrase",
       "sources": [
@@ -19260,9 +19236,9 @@
           "column": 1
         }
       ],
-      "review": true,
+      "review": false,
       "confidence": 0.985,
-      "verification": "second-pass",
+      "verification": "proofread",
       "id": "7196320a7f7f46a4"
     },
     {
@@ -19278,15 +19254,15 @@
           "column": 1
         }
       ],
-      "review": true,
+      "review": false,
       "confidence": 0.971,
-      "verification": "second-pass",
+      "verification": "proofread",
       "id": "d122f8cbc20e3ba1"
     },
     {
       "word": "obscure",
       "pos": "adj.",
-      "meaning": "使不分明的;遮掩的;遮盖的",
+      "meaning": "模糊的；晦涩的；不清楚的",
       "year": 2014,
       "kind": "word",
       "sources": [
@@ -19296,9 +19272,9 @@
           "column": 1
         }
       ],
-      "review": true,
+      "review": false,
       "confidence": 0.92,
-      "verification": "second-pass",
+      "verification": "proofread",
       "id": "c1b7e7ff866292a5"
     },
     {
@@ -19406,7 +19382,7 @@
     {
       "word": "bear on",
       "pos": "",
-      "meaning": "对准,瞄准;和....····有关对···有影响",
+      "meaning": "对准；瞄准；与……有关；对……有影响",
       "year": 2014,
       "kind": "phrase",
       "sources": [
@@ -19416,9 +19392,10 @@
           "column": 0
         }
       ],
-      "review": true,
+      "review": false,
       "confidence": 0.649,
-      "id": "2071e86de6aab525"
+      "id": "2071e86de6aab525",
+      "verification": "proofread"
     },
     {
       "word": "get to",
@@ -19455,9 +19432,9 @@
       "id": "87d9f647360352be"
     },
     {
-      "word": "treat...as",
+      "word": "treat ... as ...",
       "pos": "",
-      "meaning": "把......看作",
+      "meaning": "把……看作……",
       "year": 2014,
       "kind": "phrase",
       "sources": [
@@ -19467,9 +19444,10 @@
           "column": 0
         }
       ],
-      "review": true,
+      "review": false,
       "confidence": 0.754,
-      "id": "a7a66dc847c18677"
+      "id": "a7a66dc847c18677",
+      "verification": "proofread"
     },
     {
       "word": "portray...as...",
@@ -19814,7 +19792,7 @@
     {
       "word": "befriend",
       "pos": "",
-      "meaning": "和...交朋友",
+      "meaning": "和……交朋友",
       "year": 2015,
       "kind": "word",
       "sources": [
@@ -19931,9 +19909,9 @@
       "id": "c2b1392f47dc96a1"
     },
     {
-      "word": "of...extraction",
+      "word": "of ... extraction",
       "pos": "",
-      "meaning": "具有....·血统",
+      "meaning": "具有……血统",
       "year": 2015,
       "kind": "phrase",
       "sources": [
@@ -19943,9 +19921,10 @@
           "column": 1
         }
       ],
-      "review": true,
+      "review": false,
       "confidence": 0.705,
-      "id": "141d2b30a251ba4f"
+      "id": "141d2b30a251ba4f",
+      "verification": "proofread"
     },
     {
       "word": "insist",
@@ -20477,7 +20456,7 @@
     {
       "word": "intrusiveness",
       "pos": "n.",
-      "meaning": "侵扰;闯人",
+      "meaning": "侵扰;闯入",
       "year": 2015,
       "kind": "word",
       "sources": [
@@ -20630,7 +20609,7 @@
     {
       "word": "fail to",
       "pos": "",
-      "meaning": "未能.....",
+      "meaning": "未能……",
       "year": 2015,
       "kind": "word",
       "sources": [
@@ -20766,7 +20745,7 @@
     {
       "word": "virtual",
       "pos": "adj.",
-      "meaning": "几乎...的;实质的;虚拟的",
+      "meaning": "几乎……的;实质的;虚拟的",
       "year": 2015,
       "kind": "word",
       "sources": [
@@ -20895,9 +20874,9 @@
           "column": 1
         }
       ],
-      "review": true,
+      "review": false,
       "confidence": 0.978,
-      "verification": "second-pass",
+      "verification": "proofread",
       "id": "3a93452fca0865f0"
     },
     {
@@ -20913,9 +20892,9 @@
           "column": 1
         }
       ],
-      "review": true,
+      "review": false,
       "confidence": 0.982,
-      "verification": "second-pass",
+      "verification": "proofread",
       "id": "38d8bbe3919413b5"
     },
     {
@@ -21380,7 +21359,7 @@
     {
       "word": "sort out",
       "pos": "",
-      "meaning": "妥善处理,把.....安排妥当;理顺;整理",
+      "meaning": "妥善处理,把……安排妥当;理顺;整理",
       "year": 2015,
       "kind": "phrase",
       "sources": [
@@ -22040,7 +22019,7 @@
     {
       "word": "circulation",
       "pos": "n.",
-      "meaning": "发行量，销售量；流通；发行额；循环，流通",
+      "meaning": "发行量；销售量；流通；循环",
       "year": 2015,
       "kind": "word",
       "sources": [
@@ -22974,7 +22953,7 @@
     {
       "word": "up to",
       "pos": "",
-      "meaning": "高达,多达;由...·......决定",
+      "meaning": "高达；多达；由……决定",
       "year": 2015,
       "kind": "phrase",
       "sources": [
@@ -22984,9 +22963,10 @@
           "column": 0
         }
       ],
-      "review": true,
+      "review": false,
       "confidence": 0.777,
-      "id": "8ea5e6e6b5a04ac6"
+      "id": "8ea5e6e6b5a04ac6",
+      "verification": "proofread"
     },
     {
       "word": "point person",
@@ -23846,7 +23826,7 @@
     {
       "word": "define",
       "pos": "v.",
-      "meaning": "规定,给.....下定义",
+      "meaning": "规定,给……下定义",
       "year": 2016,
       "kind": "word",
       "sources": [
@@ -23879,8 +23859,8 @@
     },
     {
       "word": "preliminary",
-      "pos": "n.",
-      "meaning": "准备;预赛 adj.初步的",
+      "pos": "n./adj.",
+      "meaning": "准备；预赛；初步的",
       "year": 2016,
       "kind": "word",
       "sources": [
@@ -24015,8 +23995,8 @@
     },
     {
       "word": "measure",
-      "pos": "n.",
-      "meaning": "措施;测量 vt.测量",
+      "pos": "n./v.",
+      "meaning": "措施；测量",
       "year": 2016,
       "kind": "word",
       "sources": [
@@ -24067,7 +24047,7 @@
     {
       "word": "starve",
       "pos": "v.",
-      "meaning": "饿死;挨饿；挨饿,饥饿",
+      "meaning": "挨饿；饿死",
       "year": 2016,
       "kind": "word",
       "sources": [
@@ -24123,7 +24103,7 @@
     {
       "word": "determine",
       "pos": "v.",
-      "meaning": "使)做出决定vt.决定",
+      "meaning": "决定；下定决心",
       "year": 2016,
       "kind": "word",
       "sources": [
@@ -24174,7 +24154,7 @@
     {
       "word": "severe",
       "pos": "adj.",
-      "meaning": "严峻的;严厉的；严重的,严厉的",
+      "meaning": "严重的；严厉的；严峻的",
       "year": 2016,
       "kind": "word",
       "sources": [
@@ -24563,9 +24543,9 @@
           "column": 1
         }
       ],
-      "review": true,
+      "review": false,
       "confidence": 0.985,
-      "verification": "second-pass",
+      "verification": "proofread",
       "id": "3840ae76fda50067"
     },
     {
@@ -24581,15 +24561,15 @@
           "column": 1
         }
       ],
-      "review": true,
+      "review": false,
       "confidence": 0.931,
-      "verification": "second-pass",
+      "verification": "proofread",
       "id": "d5997cd1c94fc665"
     },
     {
       "word": "characteristic",
-      "pos": "adj.",
-      "meaning": "典型的 n. 特征",
+      "pos": "adj./n.",
+      "meaning": "典型的；特征",
       "year": 2016,
       "kind": "word",
       "sources": [
@@ -24599,9 +24579,9 @@
           "column": 1
         }
       ],
-      "review": true,
+      "review": false,
       "confidence": 0.906,
-      "verification": "second-pass",
+      "verification": "proofread",
       "id": "bafffb92dabc284d"
     },
     {
@@ -24743,7 +24723,7 @@
     {
       "word": "in contrast to",
       "pos": "",
-      "meaning": "与...对比.与.....对照",
+      "meaning": "与……对比；与……对照",
       "year": 2016,
       "kind": "phrase",
       "sources": [
@@ -24753,14 +24733,15 @@
           "column": 0
         }
       ],
-      "review": true,
+      "review": false,
       "confidence": 0.652,
-      "id": "85a5584fc084816e"
+      "id": "85a5584fc084816e",
+      "verification": "proofread"
     },
     {
-      "word": "regard...as",
+      "word": "regard ... as ...",
       "pos": "",
-      "meaning": "把.....视为..",
+      "meaning": "把……视为……",
       "year": 2016,
       "kind": "phrase",
       "sources": [
@@ -24770,9 +24751,10 @@
           "column": 0
         }
       ],
-      "review": true,
+      "review": false,
       "confidence": 0.604,
-      "id": "a80a51c417821636"
+      "id": "a80a51c417821636",
+      "verification": "proofread"
     },
     {
       "word": "focus",
@@ -24844,8 +24826,8 @@
     },
     {
       "word": "rate",
-      "pos": "n.",
-      "meaning": "比率vt.认为;估价",
+      "pos": "n./vt.",
+      "meaning": "比率；认为；估价",
       "year": 2016,
       "kind": "word",
       "sources": [
@@ -25014,8 +24996,8 @@
     },
     {
       "word": "alongside",
-      "pos": "adv.",
-      "meaning": "在旁边 prep.在.....",
+      "pos": "adv./prep.",
+      "meaning": "在旁边；在……旁边",
       "year": 2016,
       "kind": "word",
       "sources": [
@@ -25132,8 +25114,8 @@
       "id": "4261426a0db4e1cb"
     },
     {
-      "word": "specifically ady",
-      "pos": "",
+      "word": "specifically",
+      "pos": "adv.",
       "meaning": "特别地;明确地",
       "year": 2016,
       "kind": "word",
@@ -25167,8 +25149,8 @@
     },
     {
       "word": "leisure",
-      "pos": "n.",
-      "meaning": "闲暇;空闲 adj.空闲的",
+      "pos": "n./adj.",
+      "meaning": "闲暇；空闲的",
       "year": 2016,
       "kind": "word",
       "sources": [
@@ -25343,7 +25325,7 @@
     {
       "word": "conservation",
       "pos": "n.",
-      "meaning": "保存,保持;保护；保护,节约",
+      "meaning": "保护；保存；节约",
       "year": 2016,
       "kind": "word",
       "sources": [
@@ -25431,9 +25413,9 @@
       "id": "96c7fc99997e046d"
     },
     {
-      "word": "likewise ady",
-      "pos": "",
-      "meaning": "同样地:也",
+      "word": "likewise",
+      "pos": "adv.",
+      "meaning": "同样地；也",
       "year": 2016,
       "kind": "word",
       "sources": [
@@ -25466,8 +25448,8 @@
     },
     {
       "word": "plead",
-      "pos": "vt.",
-      "meaning": "借口;为..辩护",
+      "pos": "v.",
+      "meaning": "恳求；为……辩护",
       "year": 2016,
       "kind": "word",
       "sources": [
@@ -26062,7 +26044,7 @@
     {
       "word": "estimate",
       "pos": "v./n.",
-      "meaning": "估计,估价；估计,预算",
+      "meaning": "估计；估价；预算",
       "year": 2016,
       "kind": "word",
       "sources": [
@@ -26327,9 +26309,9 @@
           "column": 1
         }
       ],
-      "review": true,
+      "review": false,
       "confidence": 0.949,
-      "verification": "second-pass",
+      "verification": "proofread",
       "id": "46f5198286b9e58d"
     },
     {
@@ -26437,7 +26419,7 @@
     {
       "word": "investigation",
       "pos": "n.",
-      "meaning": "调查;调查研究；调查,研究",
+      "meaning": "调查；调查研究",
       "year": 2016,
       "kind": "word",
       "sources": [
@@ -27032,7 +27014,7 @@
     {
       "word": "ditch",
       "pos": "vt.",
-      "meaning": "在...上掘沟;把...开人沟里丢弃",
+      "meaning": "在……上掘沟;把……开人沟里丢弃",
       "year": 2016,
       "kind": "word",
       "sources": [
@@ -27168,7 +27150,7 @@
     {
       "word": "accelerate",
       "pos": "vt.",
-      "meaning": "使......加快",
+      "meaning": "使……加快",
       "year": 2016,
       "kind": "word",
       "sources": [
@@ -27338,7 +27320,7 @@
     {
       "word": "luxury",
       "pos": "n.",
-      "meaning": "奢侈,奢华；奢侈,奢侈品",
+      "meaning": "奢侈；奢华；奢侈品",
       "year": 2016,
       "kind": "word",
       "sources": [
@@ -27661,7 +27643,7 @@
     {
       "word": "embrace",
       "pos": "n./vt.",
-      "meaning": "拥抱；拥抱;信奉,皈依;包含",
+      "meaning": "拥抱；信奉；包含",
       "year": 2017,
       "kind": "word",
       "sources": [
@@ -28431,7 +28413,7 @@
     {
       "word": "crash",
       "pos": "n.",
-      "meaning": "坠毁；破产;撞碎;坠毁",
+      "meaning": "坠毁；破产；撞碎",
       "year": 2017,
       "kind": "word",
       "sources": [
@@ -28708,7 +28690,7 @@
     {
       "word": "enroll",
       "pos": "vt.",
-      "meaning": "登记;使加人;把..记人名册;",
+      "meaning": "登记；使加入；把……记入名册",
       "year": 2017,
       "kind": "word",
       "sources": [
@@ -28878,7 +28860,7 @@
     {
       "word": "divert",
       "pos": "vt.",
-      "meaning": "转移;使...欢娱;使...转向",
+      "meaning": "转移;使……欢娱;使……转向",
       "year": 2017,
       "kind": "word",
       "sources": [
@@ -29551,7 +29533,7 @@
     {
       "word": "protest",
       "pos": "v./n.",
-      "meaning": "抗议；断言；抗议",
+      "meaning": "抗议；断言",
       "year": 2017,
       "kind": "word",
       "sources": [
@@ -30036,7 +30018,7 @@
     {
       "word": "renaissance",
       "pos": "n.",
-      "meaning": "文艺复兴(欧洲14至17",
+      "meaning": "文艺复兴",
       "year": 2017,
       "kind": "word",
       "sources": [
@@ -30614,7 +30596,7 @@
     {
       "word": "approval",
       "pos": "n.",
-      "meaning": "赞同,批准；批准;认可;赞成",
+      "meaning": "批准；认可；赞同",
       "year": 2017,
       "kind": "word",
       "sources": [
@@ -30891,7 +30873,7 @@
     {
       "word": "predict",
       "pos": "v./vt.",
-      "meaning": "预报;预言;预知；预报,预言;预知",
+      "meaning": "预报；预言；预知",
       "year": 2017,
       "kind": "word",
       "sources": [
@@ -31064,11 +31046,11 @@
       "id": "b5bd2e2656a9f46a"
     },
     {
-      "word": "shed light o",
-      "pos": "n.",
-      "meaning": "阐明:使...清楚地显出",
+      "word": "shed light on",
+      "pos": "",
+      "meaning": "阐明；使……清楚地显现",
       "year": 2017,
-      "kind": "word",
+      "kind": "phrase",
       "sources": [
         {
           "page": 36,
@@ -31100,7 +31082,7 @@
     {
       "word": "ensure",
       "pos": "v.",
-      "meaning": "确保,保证,使安全；保证,确保;使安全",
+      "meaning": "确保；保证；使安全",
       "year": 2017,
       "kind": "word",
       "sources": [
@@ -31596,9 +31578,9 @@
       "id": "bbab2f54a9464aba"
     },
     {
-      "word": "identify..with",
+      "word": "identify ... with ...",
       "pos": "",
-      "meaning": "把····视为· .·...",
+      "meaning": "把……视为……；使……与……等同",
       "year": 2017,
       "kind": "phrase",
       "sources": [
@@ -31608,9 +31590,10 @@
           "column": 1
         }
       ],
-      "review": true,
+      "review": false,
       "confidence": 0.655,
-      "id": "d0e40d9ddafcd61b"
+      "id": "d0e40d9ddafcd61b",
+      "verification": "proofread"
     },
     {
       "word": "rare",
@@ -31751,7 +31734,7 @@
     {
       "word": "basic",
       "pos": "adj.",
-      "meaning": "基本的;基础的",
+      "meaning": "基本的；基础的",
       "year": 2017,
       "kind": "word",
       "sources": [
@@ -31802,7 +31785,7 @@
     {
       "word": "against",
       "pos": "prep.",
-      "meaning": "反对;以.....为背景;参照,和......相比",
+      "meaning": "反对;以……为背景;参照,和……相比",
       "year": 2017,
       "kind": "word",
       "sources": [
@@ -32108,7 +32091,7 @@
     {
       "word": "concrete",
       "pos": "adj.",
-      "meaning": "混凝土的;实在的,具体的;有形的；切实的,具体的",
+      "meaning": "混凝土的；具体的；有形的；切实的",
       "year": 2017,
       "kind": "word",
       "sources": [
@@ -32271,7 +32254,7 @@
     {
       "word": "underlie",
       "pos": "vt.",
-      "meaning": "成为......的基础;",
+      "meaning": "成为……的基础;",
       "year": 2017,
       "kind": "word",
       "sources": [
@@ -32900,7 +32883,7 @@
     {
       "word": "exempt from",
       "pos": "",
-      "meaning": "豁免于............,不受",
+      "meaning": "免于……；不受……影响",
       "year": 2017,
       "kind": "phrase",
       "sources": [
@@ -32910,9 +32893,10 @@
           "column": 0
         }
       ],
-      "review": true,
+      "review": false,
       "confidence": 0.625,
-      "id": "0fbcf97a5a3827f0"
+      "id": "0fbcf97a5a3827f0",
+      "verification": "proofread"
     },
     {
       "word": "on charge of",
@@ -33588,9 +33572,9 @@
       "id": "f5251b4f0d89f1f2"
     },
     {
-      "word": "rest",
-      "pos": "n.",
-      "meaning": "依靠,依赖",
+      "word": "rest on",
+      "pos": "",
+      "meaning": "依靠；依赖",
       "year": 2017,
       "kind": "phrase",
       "sources": [
@@ -33600,15 +33584,15 @@
           "column": 0
         }
       ],
-      "review": true,
+      "review": false,
       "confidence": 0.911,
-      "verification": "second-pass",
+      "verification": "proofread",
       "id": "de78d6f8450d4532"
     },
     {
       "word": "reduce",
       "pos": "v.",
-      "meaning": "降低:减少;将...归纳或归于",
+      "meaning": "降低:减少;将……归纳或归于",
       "year": 2018,
       "kind": "word",
       "sources": [
@@ -33676,7 +33660,7 @@
     {
       "word": "squeeze",
       "pos": "v.",
-      "meaning": "压;挤;捏;棺;压榨；挤压;压榨",
+      "meaning": "压；挤；捏；压榨",
       "year": 2018,
       "kind": "word",
       "sources": [
@@ -33856,7 +33840,7 @@
     {
       "word": "alongside",
       "pos": "prep.",
-      "meaning": "与...一起",
+      "meaning": "与……一起",
       "year": 2018,
       "kind": "word",
       "sources": [
@@ -34128,7 +34112,7 @@
     {
       "word": "consequence",
       "pos": "n.",
-      "meaning": "后果,影响；结果;后果",
+      "meaning": "结果；后果；影响",
       "year": 2018,
       "kind": "word",
       "sources": [
@@ -34201,7 +34185,7 @@
     {
       "word": "appeal to",
       "pos": "",
-      "meaning": "对...有吸引力",
+      "meaning": "对……有吸引力",
       "year": 2018,
       "kind": "phrase",
       "sources": [
@@ -34252,7 +34236,7 @@
     {
       "word": "be at high risk of",
       "pos": "",
-      "meaning": "处于...的高风险",
+      "meaning": "处于……的高风险",
       "year": 2018,
       "kind": "phrase",
       "sources": [
@@ -34609,7 +34593,7 @@
     {
       "word": "verify",
       "pos": "v.",
-      "meaning": "核实;查证；核实,查明;证实",
+      "meaning": "核实；查证；证实",
       "year": 2018,
       "kind": "word",
       "sources": [
@@ -35197,7 +35181,7 @@
     {
       "word": "be conscious of",
       "pos": "",
-      "meaning": "意识到...",
+      "meaning": "意识到……",
       "year": 2018,
       "kind": "phrase",
       "sources": [
@@ -35248,7 +35232,7 @@
     {
       "word": "lie",
       "pos": "n.",
-      "meaning": "在于....",
+      "meaning": "在于……",
       "year": 2018,
       "kind": "phrase",
       "sources": [
@@ -35690,7 +35674,7 @@
     {
       "word": "maladapted",
       "pos": "adj.",
-      "meaning": "利用不当的;乱用的;不适合的",
+      "meaning": "适应不良的；不适合的",
       "year": 2018,
       "kind": "word",
       "sources": [
@@ -35724,7 +35708,7 @@
     {
       "word": "address",
       "pos": "v.",
-      "meaning": "处理,解决;对.....·讲话；解决,处理",
+      "meaning": "处理；解决；对……讲话",
       "year": 2018,
       "kind": "word",
       "sources": [
@@ -36057,7 +36041,7 @@
     {
       "word": "be applied to",
       "pos": "",
-      "meaning": "被应用于..被施加于..",
+      "meaning": "被应用于……；被施加于……",
       "year": 2018,
       "kind": "phrase",
       "sources": [
@@ -36130,7 +36114,7 @@
     {
       "word": "hand over to",
       "pos": "",
-      "meaning": "移交给...",
+      "meaning": "移交给……",
       "year": 2018,
       "kind": "phrase",
       "sources": [
@@ -36164,7 +36148,7 @@
     {
       "word": "take account of",
       "pos": "",
-      "meaning": "考虑到...",
+      "meaning": "考虑到……",
       "year": 2018,
       "kind": "phrase",
       "sources": [
@@ -36181,7 +36165,7 @@
     {
       "word": "take far too little account of",
       "pos": "",
-      "meaning": "对.....的考虑太少",
+      "meaning": "对……的考虑太少",
       "year": 2018,
       "kind": "phrase",
       "sources": [
@@ -36213,9 +36197,9 @@
       "id": "e65e4229125fe482"
     },
     {
-      "word": "concentrate...o",
-      "pos": "n.",
-      "meaning": "集中精力于;全神",
+      "word": "concentrate ... on ...",
+      "pos": "",
+      "meaning": "集中精力于……；全神贯注于……",
       "year": 2018,
       "kind": "phrase",
       "sources": [
@@ -36351,7 +36335,7 @@
     {
       "word": "be compared with",
       "pos": "",
-      "meaning": "与....相比较",
+      "meaning": "与……相比较",
       "year": 2018,
       "kind": "phrase",
       "sources": [
@@ -36929,7 +36913,7 @@
     {
       "word": "on the verge of",
       "pos": "",
-      "meaning": "濒临于;接近于..",
+      "meaning": "濒临……；接近……",
       "year": 2018,
       "kind": "phrase",
       "sources": [
@@ -36939,9 +36923,10 @@
           "column": 1
         }
       ],
-      "review": true,
+      "review": false,
       "confidence": 0.76,
-      "id": "1d28588eca6cc16d"
+      "id": "1d28588eca6cc16d",
+      "verification": "proofread"
     },
     {
       "word": "emerging",
@@ -36956,9 +36941,9 @@
           "column": 1
         }
       ],
-      "review": true,
+      "review": false,
       "confidence": 0.965,
-      "verification": "second-pass",
+      "verification": "proofread",
       "id": "ad57a3d59aa7ad3c"
     },
     {
@@ -37168,7 +37153,7 @@
     {
       "word": "be bound to do",
       "pos": "",
-      "meaning": "必定会做...注定会做..",
+      "meaning": "必定会做……注定会做..",
       "year": 2018,
       "kind": "phrase",
       "sources": [
@@ -37185,7 +37170,7 @@
     {
       "word": "amount to",
       "pos": "",
-      "meaning": "相当.总计为.",
+      "meaning": "相当于；总计为",
       "year": 2018,
       "kind": "phrase",
       "sources": [
@@ -37195,9 +37180,10 @@
           "column": 0
         }
       ],
-      "review": true,
+      "review": false,
       "confidence": 0.705,
-      "id": "2845e6af4acca885"
+      "id": "2845e6af4acca885",
+      "verification": "proofread"
     },
     {
       "word": "public support",
@@ -37268,8 +37254,8 @@
       "id": "709759e0ba7418dc"
     },
     {
-      "word": "straight ady",
-      "pos": "",
+      "word": "straight",
+      "pos": "adv.",
       "meaning": "笔直地",
       "year": 2019,
       "kind": "word",
@@ -37547,7 +37533,7 @@
     {
       "word": "restore",
       "pos": "v.",
-      "meaning": "恢复；恢复;修复;归还",
+      "meaning": "恢复；修复；归还",
       "year": 2019,
       "kind": "word",
       "sources": [
@@ -37851,9 +37837,10 @@
           "column": 1
         }
       ],
-      "review": true,
+      "review": false,
       "confidence": 0.725,
-      "id": "5cb4e5353ae0f218"
+      "id": "5cb4e5353ae0f218",
+      "verification": "proofread"
     },
     {
       "word": "light source",
@@ -38254,7 +38241,7 @@
     {
       "word": "incentive",
       "pos": "n.",
-      "meaning": "激励;刺激;动机；动机;诱因;刺激;激励",
+      "meaning": "激励；刺激；动机；诱因",
       "year": 2019,
       "kind": "word",
       "sources": [
@@ -38359,9 +38346,9 @@
       "id": "f88d3b17b70fe14e"
     },
     {
-      "word": "impose...t.o",
+      "word": "impose ... on ...",
       "pos": "",
-      "meaning": "把.....强加于",
+      "meaning": "把……强加于……",
       "year": 2019,
       "kind": "word",
       "sources": [
@@ -38412,7 +38399,7 @@
     {
       "word": "on behalf of",
       "pos": "",
-      "meaning": "代表...;为了",
+      "meaning": "代表……;为了",
       "year": 2019,
       "kind": "word",
       "sources": [
@@ -38694,9 +38681,9 @@
           "column": 1
         }
       ],
-      "review": true,
+      "review": false,
       "confidence": 0.961,
-      "verification": "second-pass",
+      "verification": "proofread",
       "id": "34435d66b6d6a0bd"
     },
     {
@@ -38872,7 +38859,7 @@
     {
       "word": "boost",
       "pos": "v.",
-      "meaning": "促进;增加；促进,提升",
+      "meaning": "促进；增加；提升",
       "year": 2019,
       "kind": "word",
       "sources": [
@@ -39234,7 +39221,7 @@
     {
       "word": "foreshadow",
       "pos": "v.",
-      "meaning": "预示;成为..的前兆",
+      "meaning": "预示；成为……的前兆",
       "year": 2019,
       "kind": "phrase",
       "sources": [
@@ -39302,7 +39289,7 @@
     {
       "word": "consciousness",
       "pos": "n.",
-      "meaning": "意识;知觉;觉悟;感觉；意识,知觉;觉悟",
+      "meaning": "意识；知觉；觉悟；感觉",
       "year": 2019,
       "kind": "phrase",
       "sources": [
@@ -39353,7 +39340,7 @@
     {
       "word": "fascinate",
       "pos": "v.",
-      "meaning": "使着迷,使神魂颠倒；使.....着迷",
+      "meaning": "使着迷,使神魂颠倒；使……着迷",
       "year": 2019,
       "kind": "phrase",
       "sources": [
@@ -39504,9 +39491,9 @@
           "column": 0
         }
       ],
-      "review": true,
+      "review": false,
       "confidence": 0.988,
-      "verification": "second-pass",
+      "verification": "proofread",
       "id": "1a7aca99db5a5485"
     },
     {
@@ -39580,7 +39567,7 @@
     {
       "word": "statement",
       "pos": "n.",
-      "meaning": "声明;陈述；声明;陈述;报表",
+      "meaning": "声明；陈述；报表",
       "year": 2019,
       "kind": "phrase",
       "sources": [
@@ -39598,23 +39585,6 @@
       "review": false,
       "confidence": 0.966,
       "id": "7cf9143c43c38577"
-    },
-    {
-      "word": "vague adj",
-      "pos": "",
-      "meaning": "模糊的;含糊的;不明确的",
-      "year": 2019,
-      "kind": "phrase",
-      "sources": [
-        {
-          "page": 46,
-          "section": "T2",
-          "column": 0
-        }
-      ],
-      "review": false,
-      "confidence": 0.886,
-      "id": "051ba5c767205813"
     },
     {
       "word": "inspire",
@@ -39772,7 +39742,7 @@
     {
       "word": "be fascinated by",
       "pos": "",
-      "meaning": "被....迷住着迷于.......",
+      "meaning": "被……迷住；着迷于……",
       "year": 2019,
       "kind": "phrase",
       "sources": [
@@ -39782,9 +39752,10 @@
           "column": 0
         }
       ],
-      "review": true,
+      "review": false,
       "confidence": 0.781,
-      "id": "bc8db44714ca1342"
+      "id": "bc8db44714ca1342",
+      "verification": "proofread"
     },
     {
       "word": "let alone",
@@ -39959,7 +39930,7 @@
     {
       "word": "charge",
       "pos": "v.",
-      "meaning": "对....索费;使承担",
+      "meaning": "对……索费;使承担",
       "year": 2019,
       "kind": "word",
       "sources": [
@@ -40253,7 +40224,7 @@
     {
       "word": "entrepreneur",
       "pos": "n.",
-      "meaning": "企业家;创业者；企业家,创业者",
+      "meaning": "企业家；创业者",
       "year": 2019,
       "kind": "word",
       "sources": [
@@ -40319,15 +40290,15 @@
           "column": 0
         }
       ],
-      "review": true,
+      "review": false,
       "confidence": 0.879,
-      "verification": "second-pass",
+      "verification": "proofread",
       "id": "14f5576b84e67954"
     },
     {
       "word": "revenue",
       "pos": "n.",
-      "meaning": "税收收入;财政收入;收益；税收,收入",
+      "meaning": "税收；财政收入；收益",
       "year": 2019,
       "kind": "word",
       "sources": [
@@ -40342,9 +40313,9 @@
           "column": 0
         }
       ],
-      "review": true,
+      "review": false,
       "confidence": 0.977,
-      "verification": "second-pass",
+      "verification": "proofread",
       "id": "0d0828be812da9ca"
     },
     {
@@ -40360,9 +40331,9 @@
           "column": 1
         }
       ],
-      "review": true,
+      "review": false,
       "confidence": 0.972,
-      "verification": "second-pass",
+      "verification": "proofread",
       "id": "946429c4e3419528"
     },
     {
@@ -40417,9 +40388,9 @@
       "id": "5b5fe92185c3c45e"
     },
     {
-      "word": "force...to do",
+      "word": "force ... to do ...",
       "pos": "",
-      "meaning": "强迫.....做....",
+      "meaning": "强迫……做……",
       "year": 2019,
       "kind": "phrase",
       "sources": [
@@ -40429,9 +40400,10 @@
           "column": 0
         }
       ],
-      "review": true,
+      "review": false,
       "confidence": 0.605,
-      "id": "7a0a1e0e9f0e81a1"
+      "id": "7a0a1e0e9f0e81a1",
+      "verification": "proofread"
     },
     {
       "word": "Supreme Court",
@@ -40553,8 +40525,8 @@
       "id": "bec02147b42b4f83"
     },
     {
-      "word": "nonetheless ady",
-      "pos": "",
+      "word": "nonetheless",
+      "pos": "adv.",
       "meaning": "尽管如此",
       "year": 2020,
       "kind": "word",
@@ -40895,7 +40867,7 @@
     {
       "word": "alongside",
       "pos": "prep.",
-      "meaning": "在....旁边",
+      "meaning": "在……旁边",
       "year": 2020,
       "kind": "word",
       "sources": [
@@ -41473,7 +41445,7 @@
     {
       "word": "prominence",
       "pos": "n.",
-      "meaning": "卓越;重要；卓越,出名",
+      "meaning": "卓越；显著；重要性；声望",
       "year": 2020,
       "kind": "word",
       "sources": [
@@ -41743,9 +41715,9 @@
       "id": "4ec6528330a0cfef"
     },
     {
-      "word": "prevent...from",
+      "word": "prevent ... from ...",
       "pos": "",
-      "meaning": "阻止..做",
+      "meaning": "阻止……做……",
       "year": 2020,
       "kind": "word",
       "sources": [
@@ -41755,9 +41727,10 @@
           "column": 1
         }
       ],
-      "review": true,
+      "review": false,
       "confidence": 0.752,
-      "id": "28d0607d5e3ee054"
+      "id": "28d0607d5e3ee054",
+      "verification": "proofread"
     },
     {
       "word": "put together",
@@ -41862,7 +41835,7 @@
       "id": "26c57df71d15bbd8"
     },
     {
-      "word": "turn into actio",
+      "word": "turn into action",
       "pos": "n.",
       "meaning": "付诸行动",
       "year": 2020,
@@ -42271,8 +42244,8 @@
     },
     {
       "word": "secure",
-      "pos": "v.",
-      "meaning": "获得 adj.可靠的",
+      "pos": "v./adj.",
+      "meaning": "获得；可靠的",
       "year": 2020,
       "kind": "word",
       "sources": [
@@ -42452,9 +42425,10 @@
           "column": 0
         }
       ],
-      "review": true,
+      "review": false,
       "confidence": 0.699,
-      "id": "dd6b8634a631cdc0"
+      "id": "dd6b8634a631cdc0",
+      "verification": "proofread"
     },
     {
       "word": "revive",
@@ -42576,9 +42550,9 @@
       "id": "2fddcbbcb03fbc21"
     },
     {
-      "word": "ata time",
+      "word": "at a time",
       "pos": "",
-      "meaning": "与此同时",
+      "meaning": "一次；每次",
       "year": 2020,
       "kind": "phrase",
       "sources": [
@@ -42678,9 +42652,9 @@
       "id": "2ec56b03b2f2de08"
     },
     {
-      "word": "under...terms",
+      "word": "under ... terms",
       "pos": "",
-      "meaning": "根据.....按照..条件",
+      "meaning": "根据……条款；按照……条件",
       "year": 2020,
       "kind": "phrase",
       "sources": [
@@ -42690,9 +42664,10 @@
           "column": 1
         }
       ],
-      "review": true,
+      "review": false,
       "confidence": 0.7,
-      "id": "c977f40878de5abe"
+      "id": "c977f40878de5abe",
+      "verification": "proofread"
     },
     {
       "word": "triumph over",
@@ -42714,7 +42689,7 @@
     {
       "word": "feed on",
       "pos": "",
-      "meaning": "以....·为食物",
+      "meaning": "以……为食物",
       "year": 2020,
       "kind": "phrase",
       "sources": [
@@ -42730,8 +42705,8 @@
     },
     {
       "word": "progressive",
-      "pos": "n.",
-      "meaning": "进步分子;adj.进步的",
+      "pos": "n./adj.",
+      "meaning": "进步分子；进步的",
       "year": 2020,
       "kind": "word",
       "sources": [
@@ -43071,7 +43046,7 @@
     {
       "word": "ensure",
       "pos": "v.",
-      "meaning": "保证,确保；确保,保证",
+      "meaning": "确保；保证",
       "year": 2020,
       "kind": "word",
       "sources": [
@@ -43246,7 +43221,7 @@
     {
       "word": "prior",
       "pos": "adj.",
-      "meaning": "先前的；先前的,优先的",
+      "meaning": "先前的；优先的",
       "year": 2020,
       "kind": "word",
       "sources": [
@@ -43846,7 +43821,7 @@
     {
       "word": "target",
       "pos": "v.",
-      "meaning": "以......为目标",
+      "meaning": "以……为目标",
       "year": 2020,
       "kind": "word",
       "sources": [
@@ -43856,9 +43831,10 @@
           "column": 1
         }
       ],
-      "review": true,
+      "review": false,
       "confidence": 0.768,
-      "id": "e0cc174116dbe35c"
+      "id": "e0cc174116dbe35c",
+      "verification": "proofread"
     },
     {
       "word": "gross",
@@ -43913,8 +43889,8 @@
     },
     {
       "word": "specific",
-      "pos": "n.",
-      "meaning": "细节 adj.具体的",
+      "pos": "n./adj.",
+      "meaning": "细节；具体的",
       "year": 2020,
       "kind": "word",
       "sources": [
@@ -44135,7 +44111,7 @@
     {
       "word": "media outlet",
       "pos": "",
-      "meaning": "女媒体,媒体业务",
+      "meaning": "新闻媒体；媒体机构",
       "year": 2020,
       "kind": "phrase",
       "sources": [
@@ -44150,9 +44126,9 @@
       "id": "e7acf45a34749a27"
     },
     {
-      "word": "refer to...as",
+      "word": "refer to ... as ...",
       "pos": "",
-      "meaning": "把.......当作",
+      "meaning": "把……称作……",
       "year": 2020,
       "kind": "phrase",
       "sources": [
@@ -44162,14 +44138,15 @@
           "column": 0
         }
       ],
-      "review": true,
+      "review": false,
       "confidence": 0.703,
-      "id": "a67b89f20190e780"
+      "id": "a67b89f20190e780",
+      "verification": "proofread"
     },
     {
       "word": "open an investigation into",
       "pos": "",
-      "meaning": "对....展开调查",
+      "meaning": "对……展开调查",
       "year": 2020,
       "kind": "phrase",
       "sources": [
@@ -44271,7 +44248,7 @@
     {
       "word": "in response to",
       "pos": "",
-      "meaning": "对......回应",
+      "meaning": "对……回应",
       "year": 2020,
       "kind": "phrase",
       "sources": [
@@ -44434,9 +44411,10 @@
           "column": 1
         }
       ],
-      "review": true,
+      "review": false,
       "confidence": 0.586,
-      "id": "61893a8deff6a10a"
+      "id": "61893a8deff6a10a",
+      "verification": "proofread"
     },
     {
       "word": "inevitable",
@@ -44645,7 +44623,7 @@
     {
       "word": "eliminate",
       "pos": "v.",
-      "meaning": "消除；淘汰,清除,消除",
+      "meaning": "消除；清除；淘汰",
       "year": 2021,
       "kind": "word",
       "sources": [
@@ -44684,7 +44662,7 @@
     {
       "word": "have to do with",
       "pos": "",
-      "meaning": "与...·有关",
+      "meaning": "与……有关",
       "year": 2021,
       "kind": "phrase",
       "sources": [
@@ -44718,7 +44696,7 @@
     {
       "word": "be associated with",
       "pos": "",
-      "meaning": "与.....联系；与.....有联系",
+      "meaning": "与……联系；与……有联系",
       "year": 2021,
       "kind": "phrase",
       "sources": [
@@ -44876,7 +44854,7 @@
     {
       "word": "justify",
       "pos": "v.",
-      "meaning": "证明.....是合理的",
+      "meaning": "证明……是合理的",
       "year": 2021,
       "kind": "word",
       "sources": [
@@ -44886,9 +44864,10 @@
           "column": 0
         }
       ],
-      "review": true,
+      "review": false,
       "confidence": 0.732,
-      "id": "430dcb73148d1b31"
+      "id": "430dcb73148d1b31",
+      "verification": "proofread"
     },
     {
       "word": "fare",
@@ -44908,8 +44887,8 @@
       "id": "91e11d89ccde2912"
     },
     {
-      "word": "grimly ady",
-      "pos": "",
+      "word": "grimly",
+      "pos": "adv.",
       "meaning": "可怕地,冷酷地",
       "year": 2021,
       "kind": "word",
@@ -45595,7 +45574,7 @@
     {
       "word": "impose a burden on",
       "pos": "",
-      "meaning": "对.....·造成负担",
+      "meaning": "对……造成负担",
       "year": 2021,
       "kind": "phrase",
       "sources": [
@@ -45646,7 +45625,7 @@
     {
       "word": "be borne by",
       "pos": "",
-      "meaning": "由......负担",
+      "meaning": "由……负担",
       "year": 2021,
       "kind": "phrase",
       "sources": [
@@ -45656,9 +45635,10 @@
           "column": 1
         }
       ],
-      "review": true,
+      "review": false,
       "confidence": 0.726,
-      "id": "76289afc12a7391e"
+      "id": "76289afc12a7391e",
+      "verification": "proofread"
     },
     {
       "word": "daily commute",
@@ -45763,24 +45743,6 @@
       "id": "092ab02340cf8460"
     },
     {
-      "word": "grimly",
-      "pos": "adv.",
-      "meaning": "可怕地,冷酷地",
-      "year": 2021,
-      "kind": "word",
-      "sources": [
-        {
-          "page": 52,
-          "section": "T1",
-          "column": 0
-        }
-      ],
-      "review": true,
-      "confidence": 0.937,
-      "verification": "second-pass",
-      "id": "f3a2ea81f46b75a7"
-    },
-    {
       "word": "incompetently",
       "pos": "adv.",
       "meaning": "不能胜任地,无能力地",
@@ -45793,9 +45755,9 @@
           "column": 1
         }
       ],
-      "review": true,
+      "review": false,
       "confidence": 0.965,
-      "verification": "second-pass",
+      "verification": "proofread",
       "id": "d2c161c55d44ca36"
     },
     {
@@ -46350,7 +46312,7 @@
     {
       "word": "preserve",
       "pos": "v./n.",
-      "meaning": "保护，保留，保存；专属物，专有物",
+      "meaning": "保护；保留；保存；专属物",
       "year": 2021,
       "kind": "word",
       "sources": [
@@ -46530,7 +46492,7 @@
     {
       "word": "be based on",
       "pos": "",
-      "meaning": "基于 ·····",
+      "meaning": "基于 ……",
       "year": 2021,
       "kind": "phrase",
       "sources": [
@@ -46766,8 +46728,8 @@
       "id": "ca0e0452ccbc0a63"
     },
     {
-      "word": "miserably ady",
-      "pos": "",
+      "word": "miserably",
+      "pos": "adv.",
       "meaning": "糟糕地,痛苦地",
       "year": 2021,
       "kind": "word",
@@ -46870,7 +46832,7 @@
     {
       "word": "adjust",
       "pos": "v.",
-      "meaning": "调节,调整以适应",
+      "meaning": "调节；调整以适应",
       "year": 2021,
       "kind": "word",
       "sources": [
@@ -46880,9 +46842,10 @@
           "column": 0
         }
       ],
-      "review": true,
+      "review": false,
       "confidence": 0.545,
-      "id": "9b92e2cd7b8741db"
+      "id": "9b92e2cd7b8741db",
+      "verification": "proofread"
     },
     {
       "word": "limb",
@@ -46897,9 +46860,10 @@
           "column": 0
         }
       ],
-      "review": true,
+      "review": false,
       "confidence": 0.533,
-      "id": "c3fa6d7615a1e6be"
+      "id": "c3fa6d7615a1e6be",
+      "verification": "proofread"
     },
     {
       "word": "grin",
@@ -46914,9 +46878,10 @@
           "column": 0
         }
       ],
-      "review": true,
+      "review": false,
       "confidence": 0.613,
-      "id": "45fcd981b489aba2"
+      "id": "45fcd981b489aba2",
+      "verification": "proofread"
     },
     {
       "word": "contemplate",
@@ -46955,7 +46920,7 @@
     {
       "word": "norm",
       "pos": "n.",
-      "meaning": "常态,准则,标准本；常态;规范;标准",
+      "meaning": "常态；规范；准则；标准",
       "year": 2021,
       "kind": "word",
       "sources": [
@@ -47038,9 +47003,10 @@
           "column": 0
         }
       ],
-      "review": true,
+      "review": false,
       "confidence": 0.529,
-      "id": "eeb6957c5af26716"
+      "id": "eeb6957c5af26716",
+      "verification": "proofread"
     },
     {
       "word": "dentistry",
@@ -47606,7 +47572,7 @@
     {
       "word": "resolution",
       "pos": "n.",
-      "meaning": "决议,决定；决议,决定;决心;坚决",
+      "meaning": "决议；决定；决心；坚决",
       "year": 2021,
       "kind": "word",
       "sources": [
@@ -47927,7 +47893,7 @@
     {
       "word": "intervene",
       "pos": "v.",
-      "meaning": "干预,干涉;插话；干预,介人",
+      "meaning": "干预；干涉；插话",
       "year": 2021,
       "kind": "word",
       "sources": [
@@ -48221,7 +48187,7 @@
     {
       "word": "diversify",
       "pos": "",
-      "meaning": "使...多样化",
+      "meaning": "使……多样化",
       "year": 2021,
       "kind": "word",
       "sources": [
@@ -48323,7 +48289,7 @@
     {
       "word": "at the expense of",
       "pos": "",
-      "meaning": "以.....为代价",
+      "meaning": "以……为代价",
       "year": 2021,
       "kind": "phrase",
       "sources": [
@@ -48476,7 +48442,7 @@
     {
       "word": "out of touch with",
       "pos": "",
-      "meaning": "与···.脱节",
+      "meaning": "与……脱节",
       "year": 2021,
       "kind": "phrase",
       "sources": [
@@ -48763,9 +48729,10 @@
           "column": 0
         }
       ],
-      "review": true,
+      "review": false,
       "confidence": 0.703,
-      "id": "b647bcc76ee74894"
+      "id": "b647bcc76ee74894",
+      "verification": "proofread"
     },
     {
       "word": "possess",
@@ -49426,7 +49393,7 @@
     {
       "word": "ingredient",
       "pos": "n.",
-      "meaning": "成分,要素；食材,原料;因素,要素",
+      "meaning": "成分；要素；原料；食材",
       "year": 2022,
       "kind": "word",
       "sources": [
@@ -49618,7 +49585,7 @@
     {
       "word": "beneath",
       "pos": "prep.",
-      "meaning": "在....之下",
+      "meaning": "在……之下",
       "year": 2022,
       "kind": "word",
       "sources": [
@@ -49628,9 +49595,10 @@
           "column": 0
         }
       ],
-      "review": true,
+      "review": false,
       "confidence": 0.71,
-      "id": "5ef723de7e7d84e6"
+      "id": "5ef723de7e7d84e6",
+      "verification": "proofread"
     },
     {
       "word": "preservation",
@@ -49907,7 +49875,7 @@
     {
       "word": "melt into",
       "pos": "",
-      "meaning": "溶解,消散在....·中",
+      "meaning": "融入……；消散在……中",
       "year": 2022,
       "kind": "phrase",
       "sources": [
@@ -49917,9 +49885,10 @@
           "column": 1
         }
       ],
-      "review": true,
+      "review": false,
       "confidence": 0.791,
-      "id": "ef15319ef043e8f3"
+      "id": "ef15319ef043e8f3",
+      "verification": "proofread"
     },
     {
       "word": "bed of roses",
@@ -49958,7 +49927,7 @@
     {
       "word": "be immune to",
       "pos": "",
-      "meaning": "不受....·的影响",
+      "meaning": "不受……的影响",
       "year": 2022,
       "kind": "phrase",
       "sources": [
@@ -50704,7 +50673,7 @@
     {
       "word": "alliance",
       "pos": "n.",
-      "meaning": "联盟,结盟；联盟,同盟",
+      "meaning": "联盟；同盟；结盟",
       "year": 2022,
       "kind": "word",
       "sources": [
@@ -51061,7 +51030,7 @@
     {
       "word": "be borne by",
       "pos": "",
-      "meaning": "由......·...··负担",
+      "meaning": "由……负担",
       "year": 2022,
       "kind": "phrase",
       "sources": [
@@ -51071,9 +51040,10 @@
           "column": 1
         }
       ],
-      "review": true,
+      "review": false,
       "confidence": 0.599,
-      "id": "fb51f69266be977f"
+      "id": "fb51f69266be977f",
+      "verification": "proofread"
     },
     {
       "word": "communication",
@@ -51088,9 +51058,9 @@
           "column": 1
         }
       ],
-      "review": true,
+      "review": false,
       "confidence": 0.982,
-      "verification": "second-pass",
+      "verification": "proofread",
       "id": "4a783ffeed29e3b8"
     },
     {
@@ -51106,9 +51076,9 @@
           "column": 1
         }
       ],
-      "review": true,
+      "review": false,
       "confidence": 0.973,
-      "verification": "second-pass",
+      "verification": "proofread",
       "id": "70714c4f835d7606"
     },
     {
@@ -51622,8 +51592,8 @@
       "id": "396afd792276eb18"
     },
     {
-      "word": "adversely ady",
-      "pos": "",
+      "word": "adversely",
+      "pos": "adv.",
       "meaning": "有害地,不利地",
       "year": 2022,
       "kind": "word",
@@ -51940,9 +51910,10 @@
           "column": 1
         }
       ],
-      "review": true,
+      "review": false,
       "confidence": 0.671,
-      "id": "fec04ce3c20a5b8b"
+      "id": "fec04ce3c20a5b8b",
+      "verification": "proofread"
     },
     {
       "word": "deal with",
@@ -52066,7 +52037,7 @@
     {
       "word": "fund",
       "pos": "v.",
-      "meaning": "给....提供资金",
+      "meaning": "给……提供资金",
       "year": 2023,
       "kind": "word",
       "sources": [
@@ -52195,9 +52166,10 @@
           "column": 0
         }
       ],
-      "review": true,
+      "review": false,
       "confidence": 0.626,
-      "id": "191baa77ad2f6c7d"
+      "id": "191baa77ad2f6c7d",
+      "verification": "proofread"
     },
     {
       "word": "possibility",
@@ -52246,9 +52218,10 @@
           "column": 0
         }
       ],
-      "review": true,
+      "review": false,
       "confidence": 0.58,
-      "id": "20ea6939e7911186"
+      "id": "20ea6939e7911186",
+      "verification": "proofread"
     },
     {
       "word": "informal",
@@ -52263,9 +52236,10 @@
           "column": 0
         }
       ],
-      "review": true,
+      "review": false,
       "confidence": 0.587,
-      "id": "50d228b394884d67"
+      "id": "50d228b394884d67",
+      "verification": "proofread"
     },
     {
       "word": "structure",
@@ -52903,8 +52877,8 @@
     },
     {
       "word": "libertarian",
-      "pos": "adj.",
-      "meaning": "自由论的n.自由论者",
+      "pos": "adj./n.",
+      "meaning": "自由论的；自由论者",
       "year": 2023,
       "kind": "word",
       "sources": [
@@ -53067,9 +53041,10 @@
           "column": 0
         }
       ],
-      "review": true,
+      "review": false,
       "confidence": 0.511,
-      "id": "be0368d154904842"
+      "id": "be0368d154904842",
+      "verification": "proofread"
     },
     {
       "word": "step up",
@@ -53125,7 +53100,7 @@
     {
       "word": "integrate into",
       "pos": "",
-      "meaning": "融人",
+      "meaning": "融入",
       "year": 2023,
       "kind": "phrase",
       "sources": [
@@ -53329,7 +53304,7 @@
     {
       "word": "affordable",
       "pos": "adj.",
-      "meaning": "付得起的,便宜的；可负担的,付得起的",
+      "meaning": "可负担的；付得起的；便宜的",
       "year": 2023,
       "kind": "word",
       "sources": [
@@ -53701,24 +53676,6 @@
       "id": "26368fba1f0107fe"
     },
     {
-      "word": "adj",
-      "pos": "",
-      "meaning": "非官方的,不正式的 adj.倾斜的,有倾向性的",
-      "year": 2023,
-      "kind": "word",
-      "sources": [
-        {
-          "page": 61,
-          "section": "T1",
-          "column": 0
-        }
-      ],
-      "review": true,
-      "confidence": 0.938,
-      "verification": "second-pass",
-      "id": "39449fea0be0a8d2"
-    },
-    {
       "word": "in short term",
       "pos": "",
       "meaning": "短期",
@@ -54042,8 +53999,8 @@
       "id": "a5ecea228e05ea79"
     },
     {
-      "word": "exceptionally ady",
-      "pos": "",
+      "word": "exceptionally",
+      "pos": "adv.",
       "meaning": "极其,非常",
       "year": 2023,
       "kind": "word",
@@ -54129,7 +54086,7 @@
     {
       "word": "merger",
       "pos": "n./v.",
-      "meaning": "兼并；合并,兼并",
+      "meaning": "合并；兼并",
       "year": 2023,
       "kind": "word",
       "sources": [
@@ -54270,7 +54227,7 @@
     {
       "word": "intellectual",
       "pos": "adj.",
-      "meaning": "智力的；智力的,脑力的",
+      "meaning": "智力的；脑力的",
       "year": 2023,
       "kind": "word",
       "sources": [
@@ -54525,7 +54482,7 @@
     {
       "word": "be hopeful with",
       "pos": "",
-      "meaning": "对....充满希望",
+      "meaning": "对……充满希望",
       "year": 2023,
       "kind": "phrase",
       "sources": [
@@ -54576,7 +54533,7 @@
     {
       "word": "be worried about",
       "pos": "",
-      "meaning": "为..担心",
+      "meaning": "为……担心",
       "year": 2023,
       "kind": "phrase",
       "sources": [
@@ -54586,9 +54543,10 @@
           "column": 1
         }
       ],
-      "review": true,
+      "review": false,
       "confidence": 0.79,
-      "id": "69755ea51145f782"
+      "id": "69755ea51145f782",
+      "verification": "proofread"
     },
     {
       "word": "concentration",
@@ -54603,15 +54561,15 @@
           "column": 1
         }
       ],
-      "review": true,
+      "review": false,
       "confidence": 0.959,
-      "verification": "second-pass",
+      "verification": "proofread",
       "id": "dc25819c4f27679d"
     },
     {
       "word": "in terms of",
       "pos": "",
-      "meaning": "按照,.在...·.·方面",
+      "meaning": "按照……；在……方面",
       "year": 2023,
       "kind": "phrase",
       "sources": [
@@ -54621,9 +54579,10 @@
           "column": 0
         }
       ],
-      "review": true,
+      "review": false,
       "confidence": 0.651,
-      "id": "c58f235c8a364c6b"
+      "id": "c58f235c8a364c6b",
+      "verification": "proofread"
     },
     {
       "word": "measure",
@@ -54645,7 +54604,7 @@
     {
       "word": "citation",
       "pos": "n.",
-      "meaning": "引文,引用；引用,引文",
+      "meaning": "引用；引文",
       "year": 2023,
       "kind": "word",
       "sources": [
@@ -54735,7 +54694,7 @@
     {
       "word": "prestige",
       "pos": "n.",
-      "meaning": "声望,威信；声望,威望",
+      "meaning": "声望；威信；威望",
       "year": 2023,
       "kind": "word",
       "sources": [
@@ -54845,8 +54804,8 @@
       "id": "feac17e1c482050c"
     },
     {
-      "word": "disproportionately ady",
-      "pos": "",
+      "word": "disproportionately",
+      "pos": "adv.",
       "meaning": "不成比例地",
       "year": 2023,
       "kind": "word",
@@ -55367,7 +55326,7 @@
     {
       "word": "act as",
       "pos": "",
-      "meaning": "担当.扮··的角色",
+      "meaning": "担任；充当……的角色",
       "year": 2023,
       "kind": "phrase",
       "sources": [
@@ -55377,9 +55336,10 @@
           "column": 1
         }
       ],
-      "review": true,
+      "review": false,
       "confidence": 0.761,
-      "id": "f7b9c6b9f422b283"
+      "id": "f7b9c6b9f422b283",
+      "verification": "proofread"
     },
     {
       "word": "steer clear of",
@@ -55571,7 +55531,7 @@
     {
       "word": "specific",
       "pos": "adj.",
-      "meaning": "特定的；明确的,具体的,特定的",
+      "meaning": "特定的；明确的；具体的",
       "year": 2024,
       "kind": "word",
       "sources": [
@@ -56616,9 +56576,10 @@
           "column": 0
         }
       ],
-      "review": true,
+      "review": false,
       "confidence": 0.766,
-      "id": "42875f55b8c860d3"
+      "id": "42875f55b8c860d3",
+      "verification": "proofread"
     },
     {
       "word": "printing press",
@@ -57410,7 +57371,7 @@
     {
       "word": "akin to",
       "pos": "",
-      "meaning": "近似,与......·...·.相似",
+      "meaning": "与……相似；类似于……",
       "year": 2024,
       "kind": "phrase",
       "sources": [
@@ -57420,9 +57381,10 @@
           "column": 0
         }
       ],
-      "review": true,
+      "review": false,
       "confidence": 0.633,
-      "id": "7707b1d257456392"
+      "id": "7707b1d257456392",
+      "verification": "proofread"
     },
     {
       "word": "incorporate...into...",
@@ -57471,9 +57433,10 @@
           "column": 0
         }
       ],
-      "review": true,
+      "review": false,
       "confidence": 0.504,
-      "id": "d7d6082bb1655032"
+      "id": "d7d6082bb1655032",
+      "verification": "proofread"
     },
     {
       "word": "maternal depression",
@@ -57682,7 +57645,7 @@
     {
       "word": "prompt",
       "pos": "n.",
-      "meaning": "提示词；提示,提示词",
+      "meaning": "提示；提示词",
       "year": 2024,
       "kind": "word",
       "sources": [
@@ -57782,9 +57745,10 @@
           "column": 1
         }
       ],
-      "review": true,
+      "review": false,
       "confidence": 0.549,
-      "id": "a495469df55b3578"
+      "id": "a495469df55b3578",
+      "verification": "proofread"
     },
     {
       "word": "permission",
@@ -57969,9 +57933,10 @@
           "column": 1
         }
       ],
-      "review": true,
+      "review": false,
       "confidence": 0.575,
-      "id": "7650e77338db5267"
+      "id": "7650e77338db5267",
+      "verification": "proofread"
     },
     {
       "word": "tackle",
@@ -58231,7 +58196,7 @@
     {
       "word": "along with",
       "pos": "",
-      "meaning": "与···一道",
+      "meaning": "与……一道",
       "year": 2024,
       "kind": "word",
       "sources": [
@@ -58299,7 +58264,7 @@
     {
       "word": "be flooded with",
       "pos": "",
-      "meaning": "大量涌人...",
+      "meaning": "大量涌人……",
       "year": 2024,
       "kind": "word",
       "sources": [
@@ -58333,7 +58298,7 @@
     {
       "word": "raise awareness about",
       "pos": "",
-      "meaning": "提高了····.的意识",
+      "meaning": "提高对……的认识",
       "year": 2024,
       "kind": "word",
       "sources": [
@@ -58343,9 +58308,10 @@
           "column": 0
         }
       ],
-      "review": true,
+      "review": false,
       "confidence": 0.649,
-      "id": "fcf6665c68f363ba"
+      "id": "fcf6665c68f363ba",
+      "verification": "proofread"
     },
     {
       "word": "commercial purpose",
@@ -58367,7 +58333,7 @@
     {
       "word": "be closely linked to",
       "pos": "",
-      "meaning": "与····有密切联系",
+      "meaning": "与……密切相关",
       "year": 2024,
       "kind": "word",
       "sources": [
@@ -58377,9 +58343,10 @@
           "column": 0
         }
       ],
-      "review": true,
+      "review": false,
       "confidence": 0.695,
-      "id": "d0e1406b539d6abf"
+      "id": "d0e1406b539d6abf",
+      "verification": "proofread"
     },
     {
       "word": "figure out",
@@ -58848,7 +58815,7 @@
     {
       "word": "jurisdiction",
       "pos": "n.",
-      "meaning": "司法权,管辖权；司法权,管辖权;管辖范围",
+      "meaning": "司法权；管辖权；管辖范围",
       "year": 2024,
       "kind": "word",
       "sources": [
@@ -59040,7 +59007,7 @@
     {
       "word": "neighboring",
       "pos": "adj.",
-      "meaning": "相邻的,附近的；邻近的,附近的",
+      "meaning": "相邻的；附近的",
       "year": 2024,
       "kind": "word",
       "sources": [
@@ -59174,9 +59141,9 @@
           "column": 0
         }
       ],
-      "review": true,
+      "review": false,
       "confidence": 0.995,
-      "verification": "second-pass",
+      "verification": "proofread",
       "id": "ced30d8f08e0b941"
     },
     {
@@ -59345,9 +59312,10 @@
           "column": 0
         }
       ],
-      "review": true,
+      "review": false,
       "confidence": 0.739,
-      "id": "db3c18766ba5b742"
+      "id": "db3c18766ba5b742",
+      "verification": "proofread"
     },
     {
       "word": "wildlife",
@@ -59362,9 +59330,10 @@
           "column": 0
         }
       ],
-      "review": true,
+      "review": false,
       "confidence": 0.539,
-      "id": "81c2069a07b70f38"
+      "id": "81c2069a07b70f38",
+      "verification": "proofread"
     },
     {
       "word": "refuge",
@@ -59447,14 +59416,15 @@
           "column": 0
         }
       ],
-      "review": true,
+      "review": false,
       "confidence": 0.688,
-      "id": "3cb095c993e85289"
+      "id": "3cb095c993e85289",
+      "verification": "proofread"
     },
     {
       "word": "at odds with",
       "pos": "",
-      "meaning": "与....·不一致",
+      "meaning": "与……不一致",
       "year": 2024,
       "kind": "phrase",
       "sources": [
@@ -59724,9 +59694,9 @@
       "id": "46f7466f4f17a0b7"
     },
     {
-      "word": "Mediterranean adj",
-      "pos": "n.",
-      "meaning": "地中海",
+      "word": "Mediterranean",
+      "pos": "adj./n.",
+      "meaning": "地中海；地中海的",
       "year": 2025,
       "kind": "word",
       "sources": [
@@ -60409,7 +60379,7 @@
       "id": "53c5fb7a028a99f6"
     },
     {
-      "word": "landa punch",
+      "word": "land a punch",
       "pos": "",
       "meaning": "打出一拳",
       "year": 2025,
@@ -60445,7 +60415,7 @@
     {
       "word": "make a big difference to",
       "pos": "",
-      "meaning": "对..·产生重大影响",
+      "meaning": "对……产生重大影响",
       "year": 2025,
       "kind": "word",
       "sources": [
@@ -60513,7 +60483,7 @@
     {
       "word": "combined with",
       "pos": "",
-      "meaning": "与....相结合",
+      "meaning": "与……相结合",
       "year": 2025,
       "kind": "word",
       "sources": [
@@ -60938,7 +60908,7 @@
     {
       "word": "recognize",
       "pos": "v.",
-      "meaning": "承认,认出,赏识；承认,认可,赏识",
+      "meaning": "认出；承认；认可；赏识",
       "year": 2025,
       "kind": "word",
       "sources": [
@@ -63833,7 +63803,7 @@
     {
       "word": "testimony",
       "pos": "n.",
-      "meaning": "证词，证据；证词，口述见闻",
+      "meaning": "证词；证据；口述见闻",
       "year": 2026,
       "kind": "word",
       "sources": [
@@ -66084,6 +66054,708 @@
       "confidence": 1,
       "verification": "image-reviewed",
       "id": "22abb5bc954c0803"
+    },
+    {
+      "word": "consensus",
+      "pos": "n.",
+      "meaning": "共识",
+      "year": 2023,
+      "kind": "word",
+      "sources": [
+        {
+          "page": 61,
+          "section": "T1",
+          "column": 0
+        }
+      ],
+      "review": false,
+      "confidence": 1.0,
+      "id": "52059a4e615d884d",
+      "verification": "image-reviewed"
+    },
+    {
+      "word": "unofficial",
+      "pos": "adj.",
+      "meaning": "非官方的；不正式的",
+      "year": 2023,
+      "kind": "word",
+      "sources": [
+        {
+          "page": 61,
+          "section": "T1",
+          "column": 0
+        }
+      ],
+      "review": false,
+      "confidence": 1.0,
+      "id": "e1f4794b26ebe066",
+      "verification": "image-reviewed"
+    },
+    {
+      "word": "convey",
+      "pos": "v.",
+      "meaning": "表达；传递",
+      "year": 2023,
+      "kind": "word",
+      "sources": [
+        {
+          "page": 61,
+          "section": "T1",
+          "column": 0
+        }
+      ],
+      "review": false,
+      "confidence": 1.0,
+      "id": "c4fd9822c332daf2",
+      "verification": "image-reviewed"
+    },
+    {
+      "word": "slanted",
+      "pos": "adj.",
+      "meaning": "倾斜的；有倾向性的",
+      "year": 2023,
+      "kind": "word",
+      "sources": [
+        {
+          "page": 61,
+          "section": "T1",
+          "column": 0
+        }
+      ],
+      "review": false,
+      "confidence": 1.0,
+      "id": "032fd1e5271ffe51",
+      "verification": "image-reviewed"
+    },
+    {
+      "word": "perspective",
+      "pos": "n.",
+      "meaning": "态度；观点；视角",
+      "year": 2023,
+      "kind": "word",
+      "sources": [
+        {
+          "page": 61,
+          "section": "T1",
+          "column": 0
+        }
+      ],
+      "review": false,
+      "confidence": 1.0,
+      "id": "1a410e7186017b35",
+      "verification": "image-reviewed"
+    },
+    {
+      "word": "distribute",
+      "pos": "v.",
+      "meaning": "分发；分配；分散；分销",
+      "year": 2023,
+      "kind": "word",
+      "sources": [
+        {
+          "page": 61,
+          "section": "T1",
+          "column": 0
+        }
+      ],
+      "review": false,
+      "confidence": 1.0,
+      "id": "78444145f538dded",
+      "verification": "image-reviewed"
+    },
+    {
+      "word": "recognize",
+      "pos": "v.",
+      "meaning": "识别；意识到；辨认出",
+      "year": 2010,
+      "kind": "word",
+      "sources": [
+        {
+          "page": 4,
+          "section": "T3",
+          "column": 1
+        }
+      ],
+      "review": false,
+      "confidence": 1.0,
+      "id": "51b54fa18f78eb91",
+      "verification": "image-reviewed"
+    },
+    {
+      "word": "insist on",
+      "pos": "",
+      "meaning": "坚持",
+      "year": 2012,
+      "kind": "phrase",
+      "sources": [
+        {
+          "page": 11,
+          "section": "T1",
+          "column": 0
+        }
+      ],
+      "review": false,
+      "confidence": 1.0,
+      "id": "f378e10bc15db696",
+      "verification": "image-reviewed"
+    },
+    {
+      "word": "transform",
+      "pos": "v.",
+      "meaning": "改变；转变；转换",
+      "year": 2012,
+      "kind": "word",
+      "sources": [
+        {
+          "page": 12,
+          "section": "T2",
+          "column": 1
+        }
+      ],
+      "review": false,
+      "confidence": 1.0,
+      "id": "e37a6f98715b81dc",
+      "verification": "image-reviewed"
+    },
+    {
+      "word": "competing",
+      "pos": "adj.",
+      "meaning": "竞争的；比赛的",
+      "year": 2012,
+      "kind": "word",
+      "sources": [
+        {
+          "page": 12,
+          "section": "T2",
+          "column": 1
+        }
+      ],
+      "review": false,
+      "confidence": 1.0,
+      "id": "13328e1b355ff615",
+      "verification": "image-reviewed"
+    },
+    {
+      "word": "ambiguous",
+      "pos": "adj.",
+      "meaning": "不明确的；含糊的",
+      "year": 2012,
+      "kind": "word",
+      "sources": [
+        {
+          "page": 12,
+          "section": "T2",
+          "column": 1
+        }
+      ],
+      "review": false,
+      "confidence": 1.0,
+      "id": "776336fdbd6b6dcb",
+      "verification": "image-reviewed"
+    },
+    {
+      "word": "shut down",
+      "pos": "",
+      "meaning": "停工；关闭",
+      "year": 2012,
+      "kind": "phrase",
+      "sources": [
+        {
+          "page": 14,
+          "section": "T4",
+          "column": 0
+        }
+      ],
+      "review": false,
+      "confidence": 1.0,
+      "id": "945a9c5964f41949",
+      "verification": "image-reviewed"
+    },
+    {
+      "word": "theorize",
+      "pos": "v.",
+      "meaning": "建立理论；提出理论",
+      "year": 2012,
+      "kind": "word",
+      "sources": [
+        {
+          "page": 14,
+          "section": "T4",
+          "column": 1
+        }
+      ],
+      "review": false,
+      "confidence": 1.0,
+      "id": "ba8d2f4a5e6f87b1",
+      "verification": "image-reviewed"
+    },
+    {
+      "word": "contested",
+      "pos": "adj.",
+      "meaning": "有争议的；争夺中的",
+      "year": 2013,
+      "kind": "word",
+      "sources": [
+        {
+          "page": 18,
+          "section": "T3",
+          "column": 1
+        }
+      ],
+      "review": false,
+      "confidence": 1.0,
+      "id": "dc74e3b14b1ea706",
+      "verification": "image-reviewed"
+    },
+    {
+      "word": "uniform",
+      "pos": "adj.",
+      "meaning": "统一的；一致的；相同的",
+      "year": 2013,
+      "kind": "word",
+      "sources": [
+        {
+          "page": 18,
+          "section": "T3",
+          "column": 1
+        }
+      ],
+      "review": false,
+      "confidence": 1.0,
+      "id": "4d8e5d4310a81a57",
+      "verification": "image-reviewed"
+    },
+    {
+      "word": "redefine ... as ...",
+      "pos": "",
+      "meaning": "把……重新定义为……",
+      "year": 2014,
+      "kind": "phrase",
+      "sources": [
+        {
+          "page": 20,
+          "section": "T1",
+          "column": 1
+        }
+      ],
+      "review": false,
+      "confidence": 1.0,
+      "id": "92deb9e35bab427f",
+      "verification": "image-reviewed"
+    },
+    {
+      "word": "throne",
+      "pos": "n.",
+      "meaning": "御座；王位",
+      "year": 2015,
+      "kind": "word",
+      "sources": [
+        {
+          "page": 24,
+          "section": "T1",
+          "column": 1
+        }
+      ],
+      "review": false,
+      "confidence": 1.0,
+      "id": "293210c28647ba86",
+      "verification": "image-reviewed"
+    },
+    {
+      "word": "stand down",
+      "pos": "",
+      "meaning": "退位；下台",
+      "year": 2015,
+      "kind": "phrase",
+      "sources": [
+        {
+          "page": 24,
+          "section": "T1",
+          "column": 1
+        }
+      ],
+      "review": false,
+      "confidence": 1.0,
+      "id": "bcf0aa914341bbbe",
+      "verification": "image-reviewed"
+    },
+    {
+      "word": "focus on",
+      "pos": "",
+      "meaning": "聚焦；集中于",
+      "year": 2016,
+      "kind": "phrase",
+      "sources": [
+        {
+          "page": 29,
+          "section": "T1",
+          "column": 0
+        }
+      ],
+      "review": false,
+      "confidence": 1.0,
+      "id": "7d68be3178da6086",
+      "verification": "image-reviewed"
+    },
+    {
+      "word": "the Liberal Democrat",
+      "pos": "",
+      "meaning": "自由民主党人",
+      "year": 2016,
+      "kind": "phrase",
+      "sources": [
+        {
+          "page": 30,
+          "section": "T2",
+          "column": 1
+        }
+      ],
+      "review": false,
+      "confidence": 1.0,
+      "id": "0faff2b67e36b64d",
+      "verification": "image-reviewed"
+    },
+    {
+      "word": "inadequate",
+      "pos": "adj.",
+      "meaning": "不充分的；不足够的",
+      "year": 2017,
+      "kind": "word",
+      "sources": [
+        {
+          "page": 36,
+          "section": "T3",
+          "column": 1
+        }
+      ],
+      "review": false,
+      "confidence": 1.0,
+      "id": "25e166d751f80337",
+      "verification": "image-reviewed"
+    },
+    {
+      "word": "miss the point",
+      "pos": "",
+      "meaning": "没有抓住要点；遗漏要点",
+      "year": 2018,
+      "kind": "phrase",
+      "sources": [
+        {
+          "page": 42,
+          "section": "T3",
+          "column": 0
+        }
+      ],
+      "review": false,
+      "confidence": 1.0,
+      "id": "95b5f39f967ca2f9",
+      "verification": "image-reviewed"
+    },
+    {
+      "word": "consensus",
+      "pos": "n.",
+      "meaning": "共识；共同意见；一致看法",
+      "year": 2018,
+      "kind": "word",
+      "sources": [
+        {
+          "page": 42,
+          "section": "T3",
+          "column": 1
+        }
+      ],
+      "review": false,
+      "confidence": 1.0,
+      "id": "83e639c32c71df37",
+      "verification": "image-reviewed"
+    },
+    {
+      "word": "hold sb. accountable for ...",
+      "pos": "",
+      "meaning": "让某人为……负责",
+      "year": 2019,
+      "kind": "phrase",
+      "sources": [
+        {
+          "page": 44,
+          "section": "T1",
+          "column": 1
+        }
+      ],
+      "review": false,
+      "confidence": 1.0,
+      "id": "ab6a9177a5f481e8",
+      "verification": "image-reviewed"
+    },
+    {
+      "word": "attention span",
+      "pos": "",
+      "meaning": "注意力的持续时间",
+      "year": 2019,
+      "kind": "phrase",
+      "sources": [
+        {
+          "page": 44,
+          "section": "T1",
+          "column": 1
+        }
+      ],
+      "review": false,
+      "confidence": 1.0,
+      "id": "0a0ffd2c560d0049",
+      "verification": "image-reviewed"
+    },
+    {
+      "word": "be tied to ...",
+      "pos": "",
+      "meaning": "与……紧密联系；受……约束",
+      "year": 2019,
+      "kind": "phrase",
+      "sources": [
+        {
+          "page": 44,
+          "section": "T1",
+          "column": 1
+        }
+      ],
+      "review": false,
+      "confidence": 1.0,
+      "id": "4c404928c5f2826c",
+      "verification": "image-reviewed"
+    },
+    {
+      "word": "go through",
+      "pos": "",
+      "meaning": "经历",
+      "year": 2020,
+      "kind": "phrase",
+      "sources": [
+        {
+          "page": 49,
+          "section": "T2",
+          "column": 1
+        }
+      ],
+      "review": false,
+      "confidence": 1.0,
+      "id": "139cd18691bb14c9",
+      "verification": "image-reviewed"
+    },
+    {
+      "word": "regular",
+      "pos": "adj.",
+      "meaning": "规则的；规律的；定期的",
+      "year": 2021,
+      "kind": "word",
+      "sources": [
+        {
+          "page": 52,
+          "section": "T1",
+          "column": 1
+        }
+      ],
+      "review": false,
+      "confidence": 1.0,
+      "id": "32aa4a1fb81cd495",
+      "verification": "image-reviewed"
+    },
+    {
+      "word": "keep pace with",
+      "pos": "",
+      "meaning": "与……保持一致；跟上",
+      "year": 2021,
+      "kind": "phrase",
+      "sources": [
+        {
+          "page": 53,
+          "section": "T1",
+          "column": 0
+        }
+      ],
+      "review": false,
+      "confidence": 1.0,
+      "id": "42b152dada1e36e9",
+      "verification": "image-reviewed"
+    },
+    {
+      "word": "threat",
+      "pos": "n.",
+      "meaning": "威胁",
+      "year": 2022,
+      "kind": "word",
+      "sources": [
+        {
+          "page": 56,
+          "section": "完形",
+          "column": 1
+        }
+      ],
+      "review": false,
+      "confidence": 1.0,
+      "id": "d2b94af0bfffe95f",
+      "verification": "image-reviewed"
+    },
+    {
+      "word": "interact with",
+      "pos": "",
+      "meaning": "与……互动；与……相互影响",
+      "year": 2022,
+      "kind": "phrase",
+      "sources": [
+        {
+          "page": 56,
+          "section": "完形",
+          "column": 1
+        }
+      ],
+      "review": false,
+      "confidence": 1.0,
+      "id": "94032a7f1be8eb2a",
+      "verification": "image-reviewed"
+    },
+    {
+      "word": "valuable",
+      "pos": "adj.",
+      "meaning": "宝贵的；贵重的；有价值的",
+      "year": 2022,
+      "kind": "word",
+      "sources": [
+        {
+          "page": 58,
+          "section": "T2",
+          "column": 1
+        }
+      ],
+      "review": false,
+      "confidence": 1.0,
+      "id": "3c23db2f60e593e2",
+      "verification": "image-reviewed"
+    },
+    {
+      "word": "vice versa",
+      "pos": "",
+      "meaning": "反之亦然",
+      "year": 2022,
+      "kind": "phrase",
+      "sources": [
+        {
+          "page": 59,
+          "section": "T3",
+          "column": 0
+        }
+      ],
+      "review": false,
+      "confidence": 1.0,
+      "id": "d94c7e25dc0046c4",
+      "verification": "image-reviewed"
+    },
+    {
+      "word": "be immersed in",
+      "pos": "",
+      "meaning": "沉浸在……中；全身心投入",
+      "year": 2022,
+      "kind": "phrase",
+      "sources": [
+        {
+          "page": 59,
+          "section": "T3",
+          "column": 0
+        }
+      ],
+      "review": false,
+      "confidence": 1.0,
+      "id": "c28aa07830636cc5",
+      "verification": "image-reviewed"
+    },
+    {
+      "word": "the first stop",
+      "pos": "",
+      "meaning": "第一站",
+      "year": 2023,
+      "kind": "phrase",
+      "sources": [
+        {
+          "page": 60,
+          "section": "完形",
+          "column": 1
+        }
+      ],
+      "review": false,
+      "confidence": 1.0,
+      "id": "fa559d0a281f1356",
+      "verification": "image-reviewed"
+    },
+    {
+      "word": "propose",
+      "pos": "v.",
+      "meaning": "提出；提议；建议；求婚",
+      "year": 2023,
+      "kind": "word",
+      "sources": [
+        {
+          "page": 60,
+          "section": "T1",
+          "column": 1
+        }
+      ],
+      "review": false,
+      "confidence": 1.0,
+      "id": "95cbb05fdced5998",
+      "verification": "image-reviewed"
+    },
+    {
+      "word": "a plurality of",
+      "pos": "",
+      "meaning": "大量的；众多的",
+      "year": 2023,
+      "kind": "phrase",
+      "sources": [
+        {
+          "page": 62,
+          "section": "T3",
+          "column": 1
+        }
+      ],
+      "review": false,
+      "confidence": 1.0,
+      "id": "952eaa8bd2e1467c",
+      "verification": "image-reviewed"
+    },
+    {
+      "word": "cut back on",
+      "pos": "",
+      "meaning": "削减；减少",
+      "year": 2025,
+      "kind": "phrase",
+      "sources": [
+        {
+          "page": 70,
+          "section": "T2",
+          "column": 1
+        }
+      ],
+      "review": false,
+      "confidence": 1.0,
+      "id": "62581a434f80ed73",
+      "verification": "image-reviewed"
+    },
+    {
+      "word": "in the long run",
+      "pos": "",
+      "meaning": "长期来看",
+      "year": 2025,
+      "kind": "phrase",
+      "sources": [
+        {
+          "page": 70,
+          "section": "T2",
+          "column": 1
+        }
+      ],
+      "review": false,
+      "confidence": 1.0,
+      "id": "f2009d2a55760e1f",
+      "verification": "image-reviewed"
     }
   ]
 }
