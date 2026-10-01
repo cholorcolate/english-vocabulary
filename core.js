@@ -1,5 +1,12 @@
 export const STORAGE_KEY='cixu.progress.v1';
 export const DAY=86400000;
+// IDs removed when duplicate OCR entries were merged during proofreading.
+const LEGACY_IDS={
+ '978bbb7dbb0856f7':'02845dd3e44eb5ce', // extraordinarily, 2014
+ 'f3a2ea81f46b75a7':'f906f741e7edbc73', // grimly, 2021
+ '60b3063940715f9a':'d0d00b387c6a69ba', // deliberately, 2013
+ '051ba5c767205813':'14f5576b84e67954'  // vague, 2019
+};
 export function dateKey(time=Date.now()){const d=new Date(time);return `${d.getFullYear()}-${String(d.getMonth()+1).padStart(2,'0')}-${String(d.getDate()).padStart(2,'0')}`;}
 export function emptyState(){return {version:1,progress:{},favorites:[],history:{},settings:{goal:30,batch:20,voice:'en-US',rate:0.85,shuffle:true},session:null};}
 export function normalizeAnswer(s){return s.toLowerCase().normalize('NFKC').replace(/[’‘]/g,"'").replace(/[.…]+/g,' ').replace(/\s+/g,' ').trim();}
@@ -15,11 +22,12 @@ export function statusOf(p,now=Date.now()){if(!p)return 'new';if(p.due<=now)retu
 export function validateState(value,ids){
  if(!value||value.version!==1||typeof value.progress!=='object'||Array.isArray(value.progress)||!value.progress||!Array.isArray(value.favorites)||!value.history||typeof value.history!=='object'||Array.isArray(value.history))throw Error('备份格式不正确，请选择本网站导出的 JSON 文件。');
  const out=emptyState();
- for(const [id,p]of Object.entries(value.progress)){if(!ids.has(id))continue;if(!p||!['reps','interval','lapses','seen','last','due'].every(k=>Number.isFinite(p[k])&&p[k]>=0))throw Error('备份中的学习记录无效。');out.progress[id]={reps:p.reps,interval:p.interval,lapses:p.lapses,seen:p.seen,last:p.last,due:p.due};}
- out.favorites=[...new Set(value.favorites.filter(id=>ids.has(id)))];
- for(const [day,h]of Object.entries(value.history)){if(!/^\d{4}-\d{2}-\d{2}$/.test(day)||!h||!Number.isFinite(h.reviews)||h.reviews<0||!Number.isFinite(h.correct)||h.correct<0||h.correct>h.reviews||!Array.isArray(h.ids))throw Error('备份中的统计记录无效。');out.history[day]={reviews:h.reviews,correct:h.correct,ids:[...new Set(h.ids.filter(id=>ids.has(id)))]};}
+ const currentId=id=>ids.has(id)?id:(ids.has(LEGACY_IDS[id])?LEGACY_IDS[id]:null);
+ for(const [oldId,p]of Object.entries(value.progress)){const id=currentId(oldId);if(!id)continue;if(!p||!['reps','interval','lapses','seen','last','due'].every(k=>Number.isFinite(p[k])&&p[k]>=0))throw Error('备份中的学习记录无效。');if(!out.progress[id]||p.last>out.progress[id].last)out.progress[id]={reps:p.reps,interval:p.interval,lapses:p.lapses,seen:p.seen,last:p.last,due:p.due};}
+ out.favorites=[...new Set(value.favorites.map(currentId).filter(Boolean))];
+ for(const [day,h]of Object.entries(value.history)){if(!/^\d{4}-\d{2}-\d{2}$/.test(day)||!h||!Number.isFinite(h.reviews)||h.reviews<0||!Number.isFinite(h.correct)||h.correct<0||h.correct>h.reviews||!Array.isArray(h.ids))throw Error('备份中的统计记录无效。');out.history[day]={reviews:h.reviews,correct:h.correct,ids:[...new Set(h.ids.map(currentId).filter(Boolean))]};}
  const s=value.settings||{};out.settings={goal:Math.min(500,Math.max(1,Math.round(Number(s.goal)||30))),batch:Math.min(100,Math.max(5,Math.round(Number(s.batch)||20))),voice:s.voice==='en-GB'?'en-GB':'en-US',rate:[0.65,0.85,1].includes(s.rate)?s.rate:0.85,shuffle:s.shuffle!==false};
- if(value.session&&Array.isArray(value.session.queue)){const q=value.session.queue.filter(id=>ids.has(id));const n=value.session.index;if(q.length<=1000&&Number.isInteger(n)&&n>=0&&n<=q.length)out.session={queue:q,index:n,year:String(value.session.year||'all'),mode:['cards','spell','listen'].includes(value.session.mode)?value.session.mode:'cards',correct:Number(value.session.correct)||0,answered:Number(value.session.answered)||0};}
+ if(value.session&&Array.isArray(value.session.queue)){const q=value.session.queue.map(currentId).filter(Boolean);const n=value.session.index;if(q.length<=1000&&Number.isInteger(n)&&n>=0&&n<=q.length)out.session={queue:q,index:n,year:String(value.session.year||'all'),mode:['cards','spell','listen'].includes(value.session.mode)?value.session.mode:'cards',correct:Number(value.session.correct)||0,answered:Number(value.session.answered)||0};}
  return out;
 }
 export function makeQueue(words,state,{year='all',kind='all',now=Date.now(),random=Math.random}={}){
