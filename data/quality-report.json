@@ -1,2792 +1,1067 @@
 {
   "pages": 75,
-  "occurrences": 3865,
-  "uniqueYearWords": 3769,
-  "issues": [
+  "occurrences": 3900.0,
+  "uniqueYearWords": 3812,
+  "reviewNeeded": 120,
+  "replacementPages": [
+    10,
+    26,
+    32,
+    75
+  ],
+  "manuallyReviewedPages": [
+    10,
+    26,
+    32,
+    34,
+    72,
+    73,
+    74,
+    75
+  ],
+  "reviewByPage": [
     {
       "page": 1,
-      "column": 0,
-      "text": "allegev.宣称",
-      "reason": "low confidence",
-      "confidence": 0.824
-    },
-    {
-      "page": 1,
-      "column": 0,
-      "text": "comparedwith与.....·相比",
-      "reason": "low confidence",
-      "confidence": 0.83
-    },
-    {
-      "page": 1,
-      "column": 1,
-      "text": "consist .由.........·构成,由··组成",
-      "reason": "low confidence",
-      "confidence": 0.576
-    },
-    {
-      "page": 1,
-      "column": 1,
-      "text": "solelyadv.仅,只 0910679",
-      "reason": "low confidence",
-      "confidence": 0.551
+      "count": 2
     },
     {
       "page": 2,
-      "column": 0,
-      "text": "save prep.除..以外",
-      "reason": "low confidence",
-      "confidence": 0.778
-    },
-    {
-      "page": 2,
-      "column": 0,
-      "text": "marvelat对....感到惊奇",
-      "reason": "low confidence",
-      "confidence": 0.76
-    },
-    {
-      "page": 2,
-      "column": 0,
-      "text": "be removed from 被从·.中移除,删除",
-      "reason": "low confidence",
-      "confidence": 0.753
-    },
-    {
-      "page": 2,
-      "column": 1,
-      "text": "define...as... 把...····定义为",
-      "reason": "low confidence",
-      "confidence": 0.682
-    },
-    {
-      "page": 2,
-      "column": 1,
-      "text": "dramatic a adj.巨大的,急剧的,戏剧",
-      "reason": "low confidence",
-      "confidence": 0.651
+      "count": 3
     },
     {
       "page": 3,
-      "column": 0,
-      "text": "have sbabuzz使.....·议论纷纷",
-      "reason": "low confidence",
-      "confidence": 0.8
-    },
-    {
-      "page": 3,
-      "column": 1,
-      "text": "exemplify v.是.....·的典范;举例说明",
-      "reason": "low confidence",
-      "confidence": 0.799
+      "count": 1
     },
     {
       "page": 4,
-      "column": 0,
-      "text": "has little to do with 与·····关系不大",
-      "reason": "low confidence",
-      "confidence": 0.702
-    },
-    {
-      "page": 4,
-      "column": 0,
-      "text": "relate to 与···相关",
-      "reason": "low confidence",
-      "confidence": 0.67
-    },
-    {
-      "page": 4,
-      "column": 0,
-      "text": "lobby yv.游说",
-      "reason": "low confidence",
-      "confidence": 0.827
-    },
-    {
-      "page": 4,
-      "column": 1,
-      "text": "recognize",
-      "reason": "missing definition",
-      "confidence": 0.995
+      "count": 3
     },
     {
       "page": 5,
-      "column": 0,
-      "text": "take aim at 瞄准以.····为目标",
-      "reason": "low confidence",
-      "confidence": 0.689
-    },
-    {
-      "page": 5,
-      "column": 0,
-      "text": "essential to对.....必不可少爱版",
-      "reason": "low confidence",
-      "confidence": 0.573
-    },
-    {
-      "page": 5,
-      "column": 0,
-      "text": "toxic asset不良资产 wotamltaorov",
-      "reason": "low confidence",
-      "confidence": 0.541
-    },
-    {
-      "page": 5,
-      "column": 0,
-      "text": "deal with 处理,涉及 g0",
-      "reason": "low confidence",
-      "confidence": 0.512
-    },
-    {
-      "page": 5,
-      "column": 1,
-      "text": "precious to对.....·来说很珍贵",
-      "reason": "low confidence",
-      "confidence": 0.815
-    },
-    {
-      "page": 6,
-      "column": 1,
-      "text": "得到的,可使用的",
-      "reason": "unassigned text",
-      "confidence": 0.994
-    },
-    {
-      "page": 6,
-      "column": 1,
-      "text": "describe...s.........描成",
-      "reason": "low confidence",
-      "confidence": 0.732
-    },
-    {
-      "page": 7,
-      "column": 1,
-      "text": "brandn.商标,牌子 15b/0d218",
-      "reason": "low confidence",
-      "confidence": 0.527
+      "count": 4
     },
     {
       "page": 8,
-      "column": 0,
-      "text": "leverage ev.充分利用",
-      "reason": "low confidence",
-      "confidence": 0.805
-    },
-    {
-      "page": 8,
-      "column": 1,
-      "text": "alleviate",
-      "reason": "missing definition",
-      "confidence": 0.989
-    },
-    {
-      "page": 8,
-      "column": 1,
-      "text": "绍",
-      "reason": "unassigned text",
-      "confidence": 1.0
-    },
-    {
-      "page": 8,
-      "column": 1,
-      "text": "arouse V. 激起,引起,唤起",
-      "reason": "low confidence",
-      "confidence": 0.743
-    },
-    {
-      "page": 8,
-      "column": 1,
-      "text": "sti",
-      "reason": "missing definition",
-      "confidence": 0.787
-    },
-    {
-      "page": 8,
-      "column": 1,
-      "text": "regret tv.懊悔,悔恨",
-      "reason": "low confidence",
-      "confidence": 0.786
+      "count": 1
     },
     {
       "page": 9,
-      "column": 1,
-      "text": "fundamental adj 根本的 notae",
-      "reason": "low confidence",
-      "confidence": 0.66
-    },
-    {
-      "page": 10,
-      "column": 0,
-      "text": "apart from  除了·...····以外",
-      "reason": "low confidence",
-      "confidence": 0.655
-    },
-    {
-      "page": 10,
-      "column": 0,
-      "text": "result from 由··引起英",
-      "reason": "low confidence",
-      "confidence": 0.63
-    },
-    {
-      "page": 10,
-      "column": 0,
-      "text": "root in 起因于·····",
-      "reason": "low confidence",
-      "confidence": 0.638
-    },
-    {
-      "page": 10,
-      "column": 0,
-      "text": "factor n.因素;要素 tomebnu",
-      "reason": "low confidence",
-      "confidence": 0.619
-    },
-    {
-      "page": 10,
-      "column": 0,
-      "text": "workv.起作用;工作 vtiodi",
-      "reason": "low confidence",
-      "confidence": 0.742
-    },
-    {
-      "page": 10,
-      "column": 0,
-      "text": "spreadv.传开;传播 hiobGL",
-      "reason": "low confidence",
-      "confidence": 0.555
-    },
-    {
-      "page": 10,
-      "column": 0,
-      "text": "engineerv.策划;设计 Inoigoloobf",
-      "reason": "low confidence",
-      "confidence": 0.719
-    },
-    {
-      "page": 10,
-      "column": 1,
-      "text": "promising",
-      "reason": "missing definition",
-      "confidence": 0.998
-    },
-    {
-      "page": 10,
-      "column": 1,
-      "text": "的",
-      "reason": "unassigned text",
-      "confidence": 1.0
+      "count": 1
     },
     {
       "page": 12,
-      "column": 0,
-      "text": "屏:不遵守",
-      "reason": "unassigned text",
-      "confidence": 0.829
-    },
-    {
-      "page": 12,
-      "column": 0,
-      "text": "sccuringv.获得:保卫,使安全:抵押,为",
-      "reason": "low confidence",
-      "confidence": 0.83
-    },
-    {
-      "page": 12,
-      "column": 0,
-      "text": "de6v.违抗,不服从",
-      "reason": "low confidence",
-      "confidence": 0.804
-    },
-    {
-      "page": 12,
-      "column": 0,
-      "text": "live by信守;靠.....过活",
-      "reason": "low confidence",
-      "confidence": 0.77
-    },
-    {
-      "page": 12,
-      "column": 1,
-      "text": "transform",
-      "reason": "missing definition",
-      "confidence": 0.996
-    },
-    {
-      "page": 12,
-      "column": 1,
-      "text": "competing",
-      "reason": "missing definition",
-      "confidence": 0.996
-    },
-    {
-      "page": 12,
-      "column": 1,
-      "text": "ambiguous",
-      "reason": "missing definition",
-      "confidence": 0.993
-    },
-    {
-      "page": 12,
-      "column": 1,
-      "text": "的",
-      "reason": "unassigned text",
-      "confidence": 1.0
-    },
-    {
-      "page": 13,
-      "column": 0,
-      "text": "similarto与.....类似",
-      "reason": "low confidence",
-      "confidence": 0.783
+      "count": 3
     },
     {
       "page": 14,
-      "column": 0,
-      "text": "fight against 与.....作斗争",
-      "reason": "low confidence",
-      "confidence": 0.847
-    },
-    {
-      "page": 14,
-      "column": 1,
-      "text": "depend on 依赖于.··",
-      "reason": "low confidence",
-      "confidence": 0.619
+      "count": 1
     },
     {
       "page": 15,
-      "column": 0,
-      "text": "namev.给....取名,为.....定名",
-      "reason": "low confidence",
-      "confidence": 0.771
-    },
-    {
-      "page": 16,
-      "column": 1,
-      "text": "default",
-      "reason": "missing definition",
-      "confidence": 0.993
-    },
-    {
-      "page": 16,
-      "column": 1,
-      "text": "弃权",
-      "reason": "unassigned text",
-      "confidence": 0.996
-    },
-    {
-      "page": 16,
-      "column": 1,
-      "text": "setting 1 n.设定;调节;环境",
-      "reason": "low confidence",
-      "confidence": 0.667
+      "count": 1
     },
     {
       "page": 18,
-      "column": 0,
-      "text": "epidemicu流行性感冒",
-      "reason": "low confidence",
-      "confidence": 0.842
-    },
-    {
-      "page": 18,
-      "column": 0,
-      "text": "lookup查询",
-      "reason": "low confidence",
-      "confidence": 0.85
-    },
-    {
-      "page": 18,
-      "column": 0,
-      "text": "nes山n 导致:产生",
-      "reason": "low confidence",
-      "confidence": 0.708
-    },
-    {
-      "page": 18,
-      "column": 0,
-      "text": "joinv.联合;加人同.....一起",
-      "reason": "low confidence",
-      "confidence": 0.826
-    },
-    {
-      "page": 18,
-      "column": 1,
-      "text": "enforce",
-      "reason": "missing definition",
-      "confidence": 0.995
-    },
-    {
-      "page": 18,
-      "column": 1,
-      "text": "uniform",
-      "reason": "missing definition",
-      "confidence": 0.996
-    },
-    {
-      "page": 18,
-      "column": 1,
-      "text": "naturalization 181",
-      "reason": "missing definition",
-      "confidence": 0.675
-    },
-    {
-      "page": 18,
-      "column": 1,
-      "text": "渎",
-      "reason": "unassigned text",
-      "confidence": 0.882
-    },
-    {
-      "page": 18,
-      "column": 1,
-      "text": "比(某人)重",
-      "reason": "unassigned text",
-      "confidence": 0.882
-    },
-    {
-      "page": 19,
-      "column": 0,
-      "text": "runparallel to与......平行(或并行)",
-      "reason": "low confidence",
-      "confidence": 0.83
+      "count": 3
     },
     {
       "page": 20,
-      "column": 1,
-      "text": "redefine...as...",
-      "reason": "missing definition",
-      "confidence": 0.943
-    },
-    {
-      "page": 20,
-      "column": 1,
-      "text": "把·重新解释为",
-      "reason": "unassigned text",
-      "confidence": 0.782
-    },
-    {
-      "page": 20,
-      "column": 1,
-      "text": "leave",
-      "reason": "missing definition",
-      "confidence": 0.987
-    },
-    {
-      "page": 20,
-      "column": 1,
-      "text": "离开",
-      "reason": "unassigned text",
-      "confidence": 1.0
-    },
-    {
-      "page": 20,
-      "column": 1,
-      "text": "implement v.执行;贯彻福",
-      "reason": "low confidence",
-      "confidence": 0.627
-    },
-    {
-      "page": 20,
-      "column": 1,
-      "text": "journalism 11 n.新闻业;新闻工作",
-      "reason": "low confidence",
-      "confidence": 0.584
-    },
-    {
-      "page": 20,
-      "column": 1,
-      "text": "tempt tv.吸引;引诱",
-      "reason": "low confidence",
-      "confidence": 0.833
-    },
-    {
-      "page": 21,
-      "column": 0,
-      "text": "liberalizev使自由化放宽....的范围(或",
-      "reason": "low confidence",
-      "confidence": 0.833
+      "count": 1
     },
     {
       "page": 22,
-      "column": 0,
-      "text": "rown.争吵",
-      "reason": "low confidence",
-      "confidence": 0.682
-    },
-    {
-      "page": 22,
-      "column": 0,
-      "text": "cast doubt on对.....产生怀疑",
-      "reason": "low confidence",
-      "confidence": 0.836
-    },
-    {
-      "page": 22,
-      "column": 0,
-      "text": "craft tv.制作",
-      "reason": "low confidence",
-      "confidence": 0.78
-    },
-    {
-      "page": 22,
-      "column": 1,
-      "text": "encouragement",
-      "reason": "missing definition",
-      "confidence": 0.993
+      "count": 3
     },
     {
       "page": 23,
-      "column": 0,
-      "text": "bear on 对准,瞄准;和....····有关对···",
-      "reason": "low confidence",
-      "confidence": 0.649
-    },
-    {
-      "page": 23,
-      "column": 0,
-      "text": "treat...as....把......看作",
-      "reason": "low confidence",
-      "confidence": 0.754
-    },
-    {
-      "page": 23,
-      "column": 0,
-      "text": "por.ray...as.......描为",
-      "reason": "low confidence",
-      "confidence": 0.735
-    },
-    {
-      "page": 23,
-      "column": 1,
-      "text": "befriend和...交朋友",
-      "reason": "low confidence",
-      "confidence": 0.849
-    },
-    {
-      "page": 23,
-      "column": 1,
-      "text": "of...extraction具有....·血统",
-      "reason": "low confidence",
-      "confidence": 0.705
+      "count": 3
     },
     {
       "page": 24,
-      "column": 0,
-      "text": "strvev.努力",
-      "reason": "low confidence",
-      "confidence": 0.794
-    },
-    {
-      "page": 24,
-      "column": 0,
-      "text": "wamv.告诫:警告",
-      "reason": "low confidence",
-      "confidence": 0.814
-    },
-    {
-      "page": 24,
-      "column": 1,
-      "text": "退位,下台",
-      "reason": "unassigned text",
-      "confidence": 0.998
-    },
-    {
-      "page": 24,
-      "column": 1,
-      "text": "stand down",
-      "reason": "missing definition",
-      "confidence": 0.987
-    },
-    {
-      "page": 24,
-      "column": 1,
-      "text": "fail to 未能....",
-      "reason": "low confidence",
-      "confidence": 0.65
-    },
-    {
-      "page": 24,
-      "column": 1,
-      "text": "示",
-      "reason": "unassigned text",
-      "confidence": 0.991
-    },
-    {
-      "page": 24,
-      "column": 1,
-      "text": "modest",
-      "reason": "missing definition",
-      "confidence": 0.995
-    },
-    {
-      "page": 24,
-      "column": 1,
-      "text": "的",
-      "reason": "unassigned text",
-      "confidence": 1.0
-    },
-    {
-      "page": 24,
-      "column": 1,
-      "text": "alter V.改变 sea",
-      "reason": "low confidence",
-      "confidence": 0.846
-    },
-    {
-      "page": 24,
-      "column": 1,
-      "text": "be",
-      "reason": "missing definition",
-      "confidence": 0.998
-    },
-    {
-      "page": 26,
-      "column": 0,
-      "text": "publicationn.出版物;出版 jeizs1e",
-      "reason": "low confidence",
-      "confidence": 0.524
-    },
-    {
-      "page": 26,
-      "column": 0,
-      "text": "add...o..给....增加 sothom",
-      "reason": "low confidence",
-      "confidence": 0.738
-    },
-    {
-      "page": 26,
-      "column": 0,
-      "text": "workwith...与....·合作",
-      "reason": "low confidence",
-      "confidence": 0.77
-    },
-    {
-      "page": 26,
-      "column": 0,
-      "text": "part of........的一部分",
-      "reason": "low confidence",
-      "confidence": 0.709
-    },
-    {
-      "page": 26,
-      "column": 0,
-      "text": "playarolein在.....中起作用",
-      "reason": "low confidence",
-      "confidence": 0.816
-    },
-    {
-      "page": 26,
-      "column": 0,
-      "text": "惠集#通武#",
-      "reason": "unassigned text",
-      "confidence": 0.51
-    },
-    {
-      "page": 26,
-      "column": 0,
-      "text": "S-26-",
-      "reason": "missing definition",
-      "confidence": 0.71
-    },
-    {
-      "page": 26,
-      "column": 1,
-      "text": "aco",
-      "reason": "missing definition",
-      "confidence": 0.935
-    },
-    {
-      "page": 26,
-      "column": 1,
-      "text": "tra",
-      "reason": "missing definition",
-      "confidence": 0.997
+      "count": 2
     },
     {
       "page": 27,
-      "column": 0,
-      "text": "up to 高达,多达;由...·......决定",
-      "reason": "low confidence",
-      "confidence": 0.777
+      "count": 1
     },
     {
       "page": 28,
-      "column": 0,
-      "text": "priden.自豪;v...自豪",
-      "reason": "low confidence",
-      "confidence": 0.791
-    },
-    {
-      "page": 28,
-      "column": 0,
-      "text": "crimen罪行.控告..违反纪律",
-      "reason": "low confidence",
-      "confidence": 0.839
-    },
-    {
-      "page": 28,
-      "column": 0,
-      "text": "ban v.禁止上",
-      "reason": "low confidence",
-      "confidence": 0.773
-    },
-    {
-      "page": 28,
-      "column": 0,
-      "text": "industry n.产业:工业",
-      "reason": "low confidence",
-      "confidence": 0.827
-    },
-    {
-      "page": 28,
-      "column": 1,
-      "text": "severe",
-      "reason": "missing definition",
-      "confidence": 0.99
+      "count": 3
     },
     {
       "page": 29,
-      "column": 0,
-      "text": "in contrast to 与...对比.与.....对照",
-      "reason": "low confidence",
-      "confidence": 0.652
-    },
-    {
-      "page": 29,
-      "column": 0,
-      "text": "regard...as... 把.....视为..",
-      "reason": "low confidence",
-      "confidence": 0.604
+      "count": 2
     },
     {
       "page": 30,
-      "column": 0,
-      "text": "campnig.运动",
-      "reason": "low confidence",
-      "confidence": 0.791
-    },
-    {
-      "page": 30,
-      "column": 0,
-      "text": "teron.恐布",
-      "reason": "low confidence",
-      "confidence": 0.537
-    },
-    {
-      "page": 30,
-      "column": 0,
-      "text": "sensiblead合乎情理的",
-      "reason": "low confidence",
-      "confidence": 0.764
-    },
-    {
-      "page": 30,
-      "column": 0,
-      "text": "agem.代理人,经纪人",
-      "reason": "low confidence",
-      "confidence": 0.847
-    },
-    {
-      "page": 30,
-      "column": 1,
-      "text": "the Liberal Democrat",
-      "reason": "missing definition",
-      "confidence": 0.976
-    },
-    {
-      "page": 30,
-      "column": 1,
-      "text": "ler",
-      "reason": "missing definition",
-      "confidence": 0.965
-    },
-    {
-      "page": 30,
-      "column": 1,
-      "text": "economist",
-      "reason": "missing definition",
-      "confidence": 0.997
-    },
-    {
-      "page": 30,
-      "column": 1,
-      "text": "consumer",
-      "reason": "missing definition",
-      "confidence": 0.997
-    },
-    {
-      "page": 30,
-      "column": 1,
-      "text": "differentiate",
-      "reason": "missing definition",
-      "confidence": 0.991
-    },
-    {
-      "page": 31,
-      "column": 1,
-      "text": "acceleratevt.使......加快",
-      "reason": "low confidence",
-      "confidence": 0.803
-    },
-    {
-      "page": 34,
-      "column": 0,
-      "text": "wromgy-direccdadj.方向储误的,被误写",
-      "reason": "low confidence",
-      "confidence": 0.754
-    },
-    {
-      "page": 34,
-      "column": 0,
-      "text": "implementation 力实施,执行",
-      "reason": "low confidence",
-      "confidence": 0.798
-    },
-    {
-      "page": 34,
-      "column": 0,
-      "text": "rehuctanee 九.勉强,不情愿",
-      "reason": "low confidence",
-      "confidence": 0.771
-    },
-    {
-      "page": 34,
-      "column": 0,
-      "text": "enrolmemn.登记,注册",
-      "reason": "low confidence",
-      "confidence": 0.797
-    },
-    {
-      "page": 34,
-      "column": 0,
-      "text": "sereen 审查,筛查",
-      "reason": "low confidence",
-      "confidence": 0.771
-    },
-    {
-      "page": 34,
-      "column": 0,
-      "text": "get stuck in 陷人......... 困在...····",
-      "reason": "low confidence",
-      "confidence": 0.638
-    },
-    {
-      "page": 34,
-      "column": 1,
-      "text": "monarch",
-      "reason": "missing definition",
-      "confidence": 0.992
-    },
-    {
-      "page": 34,
-      "column": 1,
-      "text": "protest",
-      "reason": "missing definition",
-      "confidence": 0.988
-    },
-    {
-      "page": 34,
-      "column": 1,
-      "text": "promise",
-      "reason": "missing definition",
-      "confidence": 0.996
-    },
-    {
-      "page": 34,
-      "column": 1,
-      "text": "允诺;希望",
-      "reason": "unassigned text",
-      "confidence": 0.963
-    },
-    {
-      "page": 34,
-      "column": 1,
-      "text": "dense",
-      "reason": "missing definition",
-      "confidence": 0.995
-    },
-    {
-      "page": 34,
-      "column": 1,
-      "text": "越的",
-      "reason": "unassigned text",
-      "confidence": 0.999
+      "count": 1
     },
     {
       "page": 36,
-      "column": 0,
-      "text": "AARRR",
-      "reason": "missing definition",
-      "confidence": 0.795
-    },
-    {
-      "page": 36,
-      "column": 0,
-      "text": "fgurcn.数字:人物:图形;价格",
-      "reason": "low confidence",
-      "confidence": 0.847
-    },
-    {
-      "page": 36,
-      "column": 0,
-      "text": "annualadj每年的:年度的",
-      "reason": "low confidence",
-      "confidence": 0.786
-    },
-    {
-      "page": 36,
-      "column": 0,
-      "text": "shed light on 阐明:使...清楚地显出",
-      "reason": "low confidence",
-      "confidence": 0.839
-    },
-    {
-      "page": 36,
-      "column": 1,
-      "text": "gateway",
-      "reason": "missing definition",
-      "confidence": 0.996
-    },
-    {
-      "page": 36,
-      "column": 1,
-      "text": "identify...with... 把·····视为··.",
-      "reason": "low confidence",
-      "confidence": 0.561
+      "count": 1
     },
     {
       "page": 38,
-      "column": 0,
-      "text": "act on 按照...行事.对..起作用",
-      "reason": "low confidence",
-      "confidence": 0.611
-    },
-    {
-      "page": 38,
-      "column": 0,
-      "text": "fail to... 未能.· 没有..",
-      "reason": "low confidence",
-      "confidence": 0.605
-    },
-    {
-      "page": 38,
-      "column": 0,
-      "text": "related to... 有关.....",
-      "reason": "low confidence",
-      "confidence": 0.683
-    },
-    {
-      "page": 38,
-      "column": 0,
-      "text": "access to... 接近.问...进..",
-      "reason": "low confidence",
-      "confidence": 0.593
-    },
-    {
-      "page": 38,
-      "column": 0,
-      "text": "exempt from 豁免于··...·. 不受·...",
-      "reason": "low confidence",
-      "confidence": 0.569
-    },
-    {
-      "page": 38,
-      "column": 0,
-      "text": "allow for 考虑到 · ··",
-      "reason": "low confidence",
-      "confidence": 0.549
-    },
-    {
-      "page": 38,
-      "column": 1,
-      "text": "spray v.喷洒",
-      "reason": "low confidence",
-      "confidence": 0.825
-    },
-    {
-      "page": 38,
-      "column": 1,
-      "text": "significantly",
-      "reason": "missing definition",
-      "confidence": 0.994
-    },
-    {
-      "page": 38,
-      "column": 1,
-      "text": "container 1 n.容器",
-      "reason": "low confidence",
-      "confidence": 0.818
-    },
-    {
-      "page": 38,
-      "column": 1,
-      "text": "realize ev.意识到",
-      "reason": "low confidence",
-      "confidence": 0.84
-    },
-    {
-      "page": 38,
-      "column": 1,
-      "text": "annoying a adj.讨厌的; 恼人的",
-      "reason": "low confidence",
-      "confidence": 0.555
-    },
-    {
-      "page": 39,
-      "column": 1,
-      "text": "appeal to...对...有吸引力",
-      "reason": "low confidence",
-      "confidence": 0.806
-    },
-    {
-      "page": 39,
-      "column": 1,
-      "text": "be athighriskof...处于...的高风险",
-      "reason": "low confidence",
-      "confidence": 0.836
-    },
-    {
-      "page": 40,
-      "column": 0,
-      "text": "menladj思想的:精神的:智力的",
-      "reason": "low confidence",
-      "confidence": 0.834
-    },
-    {
-      "page": 40,
-      "column": 0,
-      "text": "Flherv.过滤:渗透",
-      "reason": "low confidence",
-      "confidence": 0.793
-    },
-    {
-      "page": 40,
-      "column": 1,
-      "text": "媒素养",
-      "reason": "unassigned text",
-      "confidence": 0.998
-    },
-    {
-      "page": 40,
-      "column": 1,
-      "text": "separat...from......分开或分离",
-      "reason": "low confidence",
-      "confidence": 0.763
-    },
-    {
-      "page": 40,
-      "column": 1,
-      "text": "lie in...在于....",
-      "reason": "low confidence",
-      "confidence": 0.795
-    },
-    {
-      "page": 41,
-      "column": 0,
-      "text": "addressv.处理,解决;对.....·讲话",
-      "reason": "low confidence",
-      "confidence": 0.837
-    },
-    {
-      "page": 41,
-      "column": 1,
-      "text": "be applied to... 被应用于..被施加",
-      "reason": "low confidence",
-      "confidence": 0.808
+      "count": 2
     },
     {
       "page": 42,
-      "column": 0,
-      "text": "build on.. 把.·建立于,基于",
-      "reason": "low confidence",
-      "confidence": 0.758
-    },
-    {
-      "page": 42,
-      "column": 0,
-      "text": "be compared with... 与...相比较",
-      "reason": "low confidence",
-      "confidence": 0.672
-    },
-    {
-      "page": 42,
-      "column": 0,
-      "text": "fall short of未能达到·....··",
-      "reason": "low confidence",
-      "confidence": 0.796
-    },
-    {
-      "page": 42,
-      "column": 1,
-      "text": "modernization",
-      "reason": "missing definition",
-      "confidence": 0.995
-    },
-    {
-      "page": 42,
-      "column": 1,
-      "text": "consensus",
-      "reason": "missing definition",
-      "confidence": 0.994
-    },
-    {
-      "page": 42,
-      "column": 1,
-      "text": "fir",
-      "reason": "missing definition",
-      "confidence": 0.962
-    },
-    {
-      "page": 42,
-      "column": 1,
-      "text": "的",
-      "reason": "unassigned text",
-      "confidence": 1.0
-    },
-    {
-      "page": 42,
-      "column": 1,
-      "text": "net loss 净亏损;净损耗 100",
-      "reason": "low confidence",
-      "confidence": 0.635
-    },
-    {
-      "page": 42,
-      "column": 1,
-      "text": "on the verge of... 濒临于;接近于.",
-      "reason": "low confidence",
-      "confidence": 0.794
+      "count": 2
     },
     {
       "page": 43,
-      "column": 0,
-      "text": "adjust...t..调节..使之适应.",
-      "reason": "low confidence",
-      "confidence": 0.781
-    },
-    {
-      "page": 43,
-      "column": 0,
-      "text": "range from... to...id 范围从.到.",
-      "reason": "low confidence",
-      "confidence": 0.716
-    },
-    {
-      "page": 43,
-      "column": 0,
-      "text": "exertpressureon...在....上施加压力",
-      "reason": "low confidence",
-      "confidence": 0.837
-    },
-    {
-      "page": 43,
-      "column": 0,
-      "text": "shif...int...把..转专变为....",
-      "reason": "low confidence",
-      "confidence": 0.712
-    },
-    {
-      "page": 43,
-      "column": 0,
-      "text": "bebound todo...必定会做...注定会做..",
-      "reason": "low confidence",
-      "confidence": 0.83
-    },
-    {
-      "page": 43,
-      "column": 0,
-      "text": "amount to... 相当.总计为.",
-      "reason": "low confidence",
-      "confidence": 0.705
-    },
-    {
-      "page": 43,
-      "column": 1,
-      "text": "keep an eye out for ... 注意··",
-      "reason": "low confidence",
-      "confidence": 0.725
+      "count": 2
     },
     {
       "page": 44,
-      "column": 0,
-      "text": "demand v.需求;需要 308",
-      "reason": "low confidence",
-      "confidence": 0.609
+      "count": 1
     },
     {
-      "page": 44,
-      "column": 0,
-      "text": "incentive",
-      "reason": "missing definition",
-      "confidence": 0.993
-    },
-    {
-      "page": 44,
-      "column": 1,
-      "text": "对....负责",
-      "reason": "unassigned text",
-      "confidence": 0.831
-    },
-    {
-      "page": 44,
-      "column": 1,
-      "text": "put...aside",
-      "reason": "missing definition",
-      "confidence": 0.982
-    },
-    {
-      "page": 44,
-      "column": 1,
-      "text": "注意力的持续时间",
-      "reason": "unassigned text",
-      "confidence": 0.998
-    },
-    {
-      "page": 44,
-      "column": 1,
-      "text": "performance bonuses",
-      "reason": "missing definition",
-      "confidence": 0.984
-    },
-    {
-      "page": 44,
-      "column": 1,
-      "text": "be tied to...",
-      "reason": "missing definition",
-      "confidence": 0.956
-    },
-    {
-      "page": 44,
-      "column": 1,
-      "text": "绑于",
-      "reason": "unassigned text",
-      "confidence": 0.995
-    },
-    {
-      "page": 44,
-      "column": 1,
-      "text": "on behalf of... 代表.....;为了.",
-      "reason": "low confidence",
-      "confidence": 0.784
-    },
-    {
-      "page": 44,
-      "column": 1,
-      "text": "not just...but... 不只是...而是.....",
-      "reason": "low confidence",
-      "confidence": 0.775
+      "page": 45,
+      "count": 1
     },
     {
       "page": 46,
-      "column": 0,
-      "text": "fascinate ev使....着迷",
-      "reason": "low confidence",
-      "confidence": 0.686
-    },
-    {
-      "page": 46,
-      "column": 0,
-      "text": "vttnsbi",
-      "reason": "missing definition",
-      "confidence": 0.676
-    },
-    {
-      "page": 46,
-      "column": 0,
-      "text": "be fascinated by... 被.....迷住; 着迷",
-      "reason": "low confidence",
-      "confidence": 0.793
-    },
-    {
-      "page": 46,
-      "column": 0,
-      "text": "along with 连同...一起.随同.....一起;",
-      "reason": "low confidence",
-      "confidence": 0.591
-    },
-    {
-      "page": 46,
-      "column": 0,
-      "text": "decision n.决定,裁定 9289197",
-      "reason": "low confidence",
-      "confidence": 0.605
-    },
-    {
-      "page": 46,
-      "column": 1,
-      "text": "justice",
-      "reason": "missing definition",
-      "confidence": 0.993
-    },
-    {
-      "page": 46,
-      "column": 1,
-      "text": "remove",
-      "reason": "missing definition",
-      "confidence": 0.994
-    },
-    {
-      "page": 46,
-      "column": 1,
-      "text": "待",
-      "reason": "unassigned text",
-      "confidence": 0.958
+      "count": 4
     },
     {
       "page": 47,
-      "column": 0,
-      "text": "force...to do... 强迫.....做....",
-      "reason": "low confidence",
-      "confidence": 0.605
-    },
-    {
-      "page": 47,
-      "column": 1,
-      "text": "alongsideprep在....旁边",
-      "reason": "low confidence",
-      "confidence": 0.839
+      "count": 1
     },
     {
       "page": 48,
-      "column": 0,
-      "text": "desperation n.绝望的境地 2607",
-      "reason": "low confidence",
-      "confidence": 0.739
-    },
-    {
-      "page": 48,
-      "column": 1,
-      "text": "prevent...from...",
-      "reason": "missing definition",
-      "confidence": 0.959
+      "count": 1
     },
     {
       "page": 49,
-      "column": 0,
-      "text": "thrive v.兴盛,繁荣 moiulo8",
-      "reason": "low confidence",
-      "confidence": 0.699
-    },
-    {
-      "page": 49,
-      "column": 1,
-      "text": "under...terms 根据.....按照..条件",
-      "reason": "low confidence",
-      "confidence": 0.7
-    },
-    {
-      "page": 49,
-      "column": 1,
-      "text": "feedon以....·为食物",
-      "reason": "low confidence",
-      "confidence": 0.757
+      "count": 2
     },
     {
       "page": 50,
-      "column": 1,
-      "text": "signature 1 n.签名",
-      "reason": "low confidence",
-      "confidence": 0.555
+      "count": 1
     },
     {
       "page": 51,
-      "column": 0,
-      "text": "refer to...as... 把.......当作",
-      "reason": "low confidence",
-      "confidence": 0.703
-    },
-    {
-      "page": 51,
-      "column": 1,
-      "text": "declinev.下降 1305",
-      "reason": "low confidence",
-      "confidence": 0.586
-    },
-    {
-      "page": 51,
-      "column": 1,
-      "text": "have  to dowith与...·有关",
-      "reason": "low confidence",
-      "confidence": 0.828
+      "count": 2
     },
     {
       "page": 52,
-      "column": 0,
-      "text": "justify证明.....是合理的",
-      "reason": "low confidence",
-      "confidence": 0.745
-    },
-    {
-      "page": 52,
-      "column": 0,
-      "text": "annual",
-      "reason": "missing definition",
-      "confidence": 0.995
-    },
-    {
-      "page": 52,
-      "column": 0,
-      "text": "taxpayer n. 纳税人 10775",
-      "reason": "low confidence",
-      "confidence": 0.553
-    },
-    {
-      "page": 52,
-      "column": 1,
-      "text": "indefinitely",
-      "reason": "missing definition",
-      "confidence": 0.99
-    },
-    {
-      "page": 52,
-      "column": 1,
-      "text": "ownership n.月所有权",
-      "reason": "low confidence",
-      "confidence": 0.795
-    },
-    {
-      "page": 52,
-      "column": 1,
-      "text": "impose a burden on 对····造成负担",
-      "reason": "low confidence",
-      "confidence": 0.727
-    },
-    {
-      "page": 52,
-      "column": 1,
-      "text": "be borne by 由·...负担",
-      "reason": "low confidence",
-      "confidence": 0.725
-    },
-    {
-      "page": 52,
-      "column": 1,
-      "text": "with a vengeance",
-      "reason": "missing definition",
-      "confidence": 0.945
+      "count": 4
     },
     {
       "page": 53,
-      "column": 1,
-      "text": "be correlated with h与.....有关",
-      "reason": "low confidence",
-      "confidence": 0.62
-    },
-    {
-      "page": 53,
-      "column": 1,
-      "text": "be basedon基于 ·····",
-      "reason": "low confidence",
-      "confidence": 0.503
+      "count": 1
     },
     {
       "page": 54,
-      "column": 0,
-      "text": "adjustv.调节,调整以适应 1",
-      "reason": "low confidence",
-      "confidence": 0.545
-    },
-    {
-      "page": 54,
-      "column": 0,
-      "text": "limb n.四肢 mi oasriq",
-      "reason": "low confidence",
-      "confidence": 0.533
-    },
-    {
-      "page": 54,
-      "column": 0,
-      "text": "grin V.露齿笑 sies fadibom",
-      "reason": "low confidence",
-      "confidence": 0.613
-    },
-    {
-      "page": 54,
-      "column": 0,
-      "text": "run V.说到,提到 2600",
-      "reason": "low confidence",
-      "confidence": 0.529
-    },
-    {
-      "page": 54,
-      "column": 0,
-      "text": "preserven.专属物,专有物 OTS",
-      "reason": "low confidence",
-      "confidence": 0.527
+      "count": 4
     },
     {
       "page": 55,
-      "column": 0,
-      "text": "declare v.宣布,声明 ailgrnie",
-      "reason": "low confidence",
-      "confidence": 0.651
-    },
-    {
-      "page": 55,
-      "column": 0,
-      "text": "underminev.削弱,破坏 yifibbn",
-      "reason": "low confidence",
-      "confidence": 0.665
-    },
-    {
-      "page": 55,
-      "column": 0,
-      "text": "enact v.通过 sdosbBof",
-      "reason": "low confidence",
-      "confidence": 0.715
-    },
-    {
-      "page": 55,
-      "column": 0,
-      "text": "abdication n.辞退,退位 ionuei",
-      "reason": "low confidence",
-      "confidence": 0.622
-    },
-    {
-      "page": 55,
-      "column": 0,
-      "text": "explicit adj.清楚的,明白的 ojdo",
-      "reason": "low confidence",
-      "confidence": 0.589
-    },
-    {
-      "page": 55,
-      "column": 1,
-      "text": "diversify使...多样化",
-      "reason": "low confidence",
-      "confidence": 0.786
-    },
-    {
-      "page": 55,
-      "column": 1,
-      "text": "at the expense of以.....为代价",
-      "reason": "low confidence",
-      "confidence": 0.772
-    },
-    {
-      "page": 55,
-      "column": 1,
-      "text": "out of touch with 与···.脱节",
-      "reason": "low confidence",
-      "confidence": 0.544
+      "count": 8
     },
     {
       "page": 56,
-      "column": 0,
-      "text": "leaf(复数 leaves) n. 叶子 vtienovib",
-      "reason": "low confidence",
-      "confidence": 0.702
-    },
-    {
-      "page": 56,
-      "column": 0,
-      "text": "nonetheless sadv.尽管如此 is1050",
-      "reason": "low confidence",
-      "confidence": 0.551
-    },
-    {
-      "page": 56,
-      "column": 0,
-      "text": "previously adv.先前,以前 raveng",
-      "reason": "low confidence",
-      "confidence": 0.575
-    },
-    {
-      "page": 56,
-      "column": 0,
-      "text": "inconclusiveadj.不确定的 nylbed",
-      "reason": "low confidence",
-      "confidence": 0.648
-    },
-    {
-      "page": 56,
-      "column": 1,
-      "text": "take root in",
-      "reason": "missing definition",
-      "confidence": 0.969
-    },
-    {
-      "page": 56,
-      "column": 1,
-      "text": "interact with 与....互动,与....",
-      "reason": "low confidence",
-      "confidence": 0.507
+      "count": 1
     },
     {
       "page": 57,
-      "column": 0,
-      "text": "beneath prep.在....之下",
-      "reason": "low confidence",
-      "confidence": 0.71
-    },
-    {
-      "page": 57,
-      "column": 1,
-      "text": "melt into溶解,消散在....·中",
-      "reason": "low confidence",
-      "confidence": 0.791
-    },
-    {
-      "page": 57,
-      "column": 1,
-      "text": "pen V.写",
-      "reason": "low confidence",
-      "confidence": 0.808
+      "count": 2
     },
     {
       "page": 58,
-      "column": 0,
-      "text": "weigh up 权衡,估量 CLOO",
-      "reason": "low confidence",
-      "confidence": 0.706
-    },
-    {
-      "page": 58,
-      "column": 0,
-      "text": "be done with",
-      "reason": "missing definition",
-      "confidence": 0.926
-    },
-    {
-      "page": 58,
-      "column": 0,
-      "text": "accompany v.陪伴",
-      "reason": "low confidence",
-      "confidence": 0.729
-    },
-    {
-      "page": 58,
-      "column": 1,
-      "text": "valuable",
-      "reason": "missing definition",
-      "confidence": 0.981
-    },
-    {
-      "page": 58,
-      "column": 1,
-      "text": "值的",
-      "reason": "unassigned text",
-      "confidence": 1.0
-    },
-    {
-      "page": 58,
-      "column": 1,
-      "text": "jointly",
-      "reason": "missing definition",
-      "confidence": 0.993
-    },
-    {
-      "page": 58,
-      "column": 1,
-      "text": "critique",
-      "reason": "missing definition",
-      "confidence": 0.994
-    },
-    {
-      "page": 58,
-      "column": 1,
-      "text": "prompt",
-      "reason": "missing definition",
-      "confidence": 0.994
-    },
-    {
-      "page": 58,
-      "column": 1,
-      "text": "a series of 一系列····",
-      "reason": "low confidence",
-      "confidence": 0.641
-    },
-    {
-      "page": 58,
-      "column": 1,
-      "text": "be borne by 由......·...··负担",
-      "reason": "low confidence",
-      "confidence": 0.633
-    },
-    {
-      "page": 58,
-      "column": 1,
-      "text": "利益",
-      "reason": "unassigned text",
-      "confidence": 0.997
+      "count": 3
     },
     {
       "page": 59,
-      "column": 0,
-      "text": "vice versa",
-      "reason": "missing definition",
-      "confidence": 0.985
-    },
-    {
-      "page": 59,
-      "column": 0,
-      "text": "be immersed in",
-      "reason": "missing definition",
-      "confidence": 0.967
-    },
-    {
-      "page": 59,
-      "column": 0,
-      "text": "lack v.缺乏",
-      "reason": "low confidence",
-      "confidence": 0.842
-    },
-    {
-      "page": 59,
-      "column": 1,
-      "text": "immune from 不受··的影响",
-      "reason": "low confidence",
-      "confidence": 0.671
+      "count": 1
     },
     {
       "page": 60,
-      "column": 0,
-      "text": "fund V. 给·提供资金",
-      "reason": "low confidence",
-      "confidence": 0.646
-    },
-    {
-      "page": 60,
-      "column": 0,
-      "text": "routen.路线 bottiosqa",
-      "reason": "low confidence",
-      "confidence": 0.641
-    },
-    {
-      "page": 60,
-      "column": 0,
-      "text": "possibility n. 可能性 blodeol",
-      "reason": "low confidence",
-      "confidence": 0.763
-    },
-    {
-      "page": 60,
-      "column": 0,
-      "text": "strategically adv.战略上 netuedosn",
-      "reason": "low confidence",
-      "confidence": 0.545
-    },
-    {
-      "page": 60,
-      "column": 1,
-      "text": "propose",
-      "reason": "missing definition",
-      "confidence": 0.998
-    },
-    {
-      "page": 60,
-      "column": 1,
-      "text": "benchmark",
-      "reason": "missing definition",
-      "confidence": 0.994
-    },
-    {
-      "page": 60,
-      "column": 1,
-      "text": "的",
-      "reason": "unassigned text",
-      "confidence": 1.0
+      "count": 3
     },
     {
       "page": 61,
-      "column": 0,
-      "text": "consensus",
-      "reason": "missing definition",
-      "confidence": 0.997
-    },
-    {
-      "page": 61,
-      "column": 0,
-      "text": "unofficial",
-      "reason": "missing definition",
-      "confidence": 0.987
-    },
-    {
-      "page": 61,
-      "column": 0,
-      "text": "convey",
-      "reason": "missing definition",
-      "confidence": 0.995
-    },
-    {
-      "page": 61,
-      "column": 0,
-      "text": "slanted",
-      "reason": "missing definition",
-      "confidence": 0.988
-    },
-    {
-      "page": 61,
-      "column": 0,
-      "text": "sway v.动摇,摆动 Idsio0iano",
-      "reason": "low confidence",
-      "confidence": 0.511
+      "count": 2
     },
     {
       "page": 62,
-      "column": 1,
-      "text": "literary adj.文学的 DC bsinsle",
-      "reason": "low confidence",
-      "confidence": 0.538
-    },
-    {
-      "page": 62,
-      "column": 1,
-      "text": "head for 出发去···",
-      "reason": "low confidence",
-      "confidence": 0.707
-    },
-    {
-      "page": 62,
-      "column": 1,
-      "text": "be hopeful with对....·充满希望",
-      "reason": "low confidence",
-      "confidence": 0.808
-    },
-    {
-      "page": 62,
-      "column": 1,
-      "text": "be worried about 为··担心",
-      "reason": "low confidence",
-      "confidence": 0.78
+      "count": 2
     },
     {
       "page": 63,
-      "column": 0,
-      "text": "in terms of 按照,.在...·.·方面",
-      "reason": "low confidence",
-      "confidence": 0.651
-    },
-    {
-      "page": 63,
-      "column": 1,
-      "text": "act as 担当.扮··的角色",
-      "reason": "low confidence",
-      "confidence": 0.761
-    },
-    {
-      "page": 64,
-      "column": 0,
-      "text": "environment t n. 环境 otudrunos",
-      "reason": "low confidence",
-      "confidence": 0.755
-    },
-    {
-      "page": 64,
-      "column": 0,
-      "text": "constantly adv.不断地 joman",
-      "reason": "low confidence",
-      "confidence": 0.597
-    },
-    {
-      "page": 64,
-      "column": 0,
-      "text": "novelty feature 新奇的特征 bnsrob",
-      "reason": "low confidence",
-      "confidence": 0.624
-    },
-    {
-      "page": 64,
-      "column": 1,
-      "text": "blacksmith",
-      "reason": "missing definition",
-      "confidence": 0.988
+      "count": 2
     },
     {
       "page": 65,
-      "column": 0,
-      "text": "after all 毕竟",
-      "reason": "low confidence",
-      "confidence": 0.766
+      "count": 1
     },
     {
       "page": 66,
-      "column": 0,
-      "text": "akin to 近似,与......····相似",
-      "reason": "low confidence",
-      "confidence": 0.631
-    },
-    {
-      "page": 66,
-      "column": 0,
-      "text": "incorporate...into..把....并.....",
-      "reason": "low confidence",
-      "confidence": 0.65
-    },
-    {
-      "page": 66,
-      "column": 1,
-      "text": "involve ev.牵涉,涉及,卷人 TS",
-      "reason": "low confidence",
-      "confidence": 0.519
-    },
-    {
-      "page": 66,
-      "column": 1,
-      "text": "consent itn.同意,赞同,许可",
-      "reason": "low confidence",
-      "confidence": 0.848
-    },
-    {
-      "page": 66,
-      "column": 1,
-      "text": "bear C V.带有,署名",
-      "reason": "low confidence",
-      "confidence": 0.628
+      "count": 4
     },
     {
       "page": 67,
-      "column": 0,
-      "text": "institution n.机构;制度 boimoo2",
-      "reason": "low confidence",
-      "confidence": 0.607
-    },
-    {
-      "page": 67,
-      "column": 0,
-      "text": "along with 与·····一道",
-      "reason": "low confidence",
-      "confidence": 0.643
-    },
-    {
-      "page": 67,
-      "column": 0,
-      "text": "be flooded with 大量涌人····",
-      "reason": "low confidence",
-      "confidence": 0.743
-    },
-    {
-      "page": 67,
-      "column": 0,
-      "text": "be closely linked to 与··有密切联系",
-      "reason": "low confidence",
-      "confidence": 0.806
-    },
-    {
-      "page": 67,
-      "column": 1,
-      "text": "telling gadj生动的 IAGGHOGUOn",
-      "reason": "low confidence",
-      "confidence": 0.546
+      "count": 3
     },
     {
       "page": 68,
-      "column": 0,
-      "text": "cautiousadj小心的,谨慎的 58do",
-      "reason": "low confidence",
-      "confidence": 0.585
-    },
-    {
-      "page": 68,
-      "column": 0,
-      "text": "wildlife n.野生生物 yrebmuod",
-      "reason": "low confidence",
-      "confidence": 0.644
-    },
-    {
-      "page": 68,
-      "column": 0,
-      "text": "at odds with 与....·不一致",
-      "reason": "low confidence",
-      "confidence": 0.645
-    },
-    {
-      "page": 68,
-      "column": 0,
-      "text": "when it comes to ... 当说到 ·.就···而",
-      "reason": "low confidence",
-      "confidence": 0.594
-    },
-    {
-      "page": 68,
-      "column": 0,
-      "text": "stand up for .. 支持,维护",
-      "reason": "low confidence",
-      "confidence": 0.846
-    },
-    {
-      "page": 68,
-      "column": 1,
-      "text": "excavation n. 发掘,挖",
-      "reason": "low confidence",
-      "confidence": 0.836
+      "count": 3
     },
     {
       "page": 69,
-      "column": 0,
-      "text": "trialn、试验 jleeeno bne",
-      "reason": "low confidence",
-      "confidence": 0.644
-    },
-    {
-      "page": 69,
-      "column": 0,
-      "text": "shipwreck n.海难;沉船 asgslon",
-      "reason": "low confidence",
-      "confidence": 0.515
-    },
-    {
-      "page": 69,
-      "column": 0,
-      "text": "clichen.陈词滥调 gnolodni",
-      "reason": "low confidence",
-      "confidence": 0.627
-    },
-    {
-      "page": 69,
-      "column": 0,
-      "text": "fluencyn.流利 OOCGII",
-      "reason": "low confidence",
-      "confidence": 0.659
-    },
-    {
-      "page": 69,
-      "column": 0,
-      "text": "inspiration n.灵感,启发 1oadu",
-      "reason": "low confidence",
-      "confidence": 0.569
+      "count": 5
     },
     {
       "page": 70,
-      "column": 0,
-      "text": "efficacy n.功效,效力 aug a bre",
-      "reason": "low confidence",
-      "confidence": 0.654
-    },
-    {
-      "page": 70,
-      "column": 0,
-      "text": "humanityn人类 tilenonom",
-      "reason": "low confidence",
-      "confidence": 0.742
-    },
-    {
-      "page": 70,
-      "column": 1,
-      "text": "turn...into...把.....·转变为",
-      "reason": "low confidence",
-      "confidence": 0.743
-    },
-    {
-      "page": 70,
-      "column": 1,
-      "text": "thrive on 靠··而繁荣",
-      "reason": "low confidence",
-      "confidence": 0.771
-    },
-    {
-      "page": 70,
-      "column": 1,
-      "text": "owe...t...把.....归因于.·",
-      "reason": "low confidence",
-      "confidence": 0.61
+      "count": 7
     },
     {
       "page": 71,
-      "column": 0,
-      "text": "passagen.通过 oait",
-      "reason": "low confidence",
-      "confidence": 0.647
-    },
+      "count": 5
+    }
+  ],
+  "reviewEntries": [
     {
-      "page": 71,
-      "column": 0,
-      "text": "aitsaaib",
-      "reason": "missing definition",
-      "confidence": 0.707
-    },
-    {
-      "page": 71,
-      "column": 0,
-      "text": "detectiven.侦探 oshsme",
-      "reason": "low confidence",
-      "confidence": 0.545
-    },
-    {
-      "page": 71,
-      "column": 0,
-      "text": "surpassv.超过 sienimob",
-      "reason": "low confidence",
-      "confidence": 0.753
-    },
-    {
-      "page": 71,
-      "column": 0,
-      "text": "confrontv.面对,绵连 datugnitaib",
-      "reason": "low confidence",
-      "confidence": 0.798
-    },
-    {
-      "page": 71,
-      "column": 0,
-      "text": "check v.遏制,抑制 vailgma",
-      "reason": "low confidence",
-      "confidence": 0.786
-    },
-    {
-      "page": 71,
-      "column": 0,
-      "text": "diminish v.削弱,减少 hoiaivih",
-      "reason": "low confidence",
-      "confidence": 0.83
-    },
-    {
-      "page": 71,
-      "column": 1,
-      "text": "millennian.千年orboioq",
-      "reason": "low confidence",
-      "confidence": 0.784
-    },
-    {
-      "page": 71,
-      "column": 1,
-      "text": "undervaluation#n低估",
-      "reason": "invalid English",
-      "confidence": 0.943
-    },
-    {
-      "page": 71,
-      "column": 1,
-      "text": "make provision for...做准备",
-      "reason": "low confidence",
-      "confidence": 0.842
-    },
-    {
-      "page": 71,
-      "column": 1,
-      "text": "take comfort in  为·.而感到安慰",
-      "reason": "low confidence",
-      "confidence": 0.827
-    },
-    {
-      "page": 72,
-      "column": 0,
-      "text": "algorithmn.算法 919",
-      "reason": "low confidence",
-      "confidence": 0.615
-    },
-    {
-      "page": 72,
-      "column": 1,
-      "text": "dissatisfactionn.不满 momo5aoi6s",
-      "reason": "low confidence",
-      "confidence": 0.572
-    },
-    {
-      "page": 72,
-      "column": 1,
-      "text": "postn.帖子,邮件 18102",
-      "reason": "low confidence",
-      "confidence": 0.695
-    },
-    {
-      "page": 72,
-      "column": 1,
-      "text": "customize V.定制",
-      "reason": "low confidence",
-      "confidence": 0.825
-    },
-    {
-      "page": 72,
-      "column": 1,
-      "text": "buzz with 充满····",
-      "reason": "low confidence",
-      "confidence": 0.636
-    },
-    {
-      "page": 73,
-      "column": 0,
-      "text": "derive from 来自于,从··.获得",
-      "reason": "low confidence",
-      "confidence": 0.816
-    },
-    {
-      "page": 73,
-      "column": 0,
-      "text": "moieloai",
-      "reason": "missing definition",
-      "confidence": 0.743
-    },
-    {
-      "page": 73,
-      "column": 0,
-      "text": "propel v.推动,驱动 bsmdio",
-      "reason": "low confidence",
-      "confidence": 0.513
-    },
-    {
-      "page": 73,
-      "column": 0,
-      "text": "civilizationn.文明 yaomia",
-      "reason": "low confidence",
-      "confidence": 0.656
-    },
-    {
-      "page": 73,
-      "column": 0,
-      "text": "equine n.马 adj像马的 Jvdds",
-      "reason": "low confidence",
-      "confidence": 0.701
-    },
-    {
-      "page": 73,
-      "column": 0,
-      "text": "testimony n.证词证据 otiartni",
-      "reason": "low confidence",
-      "confidence": 0.69
-    },
-    {
-      "page": 73,
-      "column": 0,
-      "text": "equidn.马科动物 baon",
-      "reason": "low confidence",
-      "confidence": 0.571
-    },
-    {
-      "page": 73,
-      "column": 0,
-      "text": "navigate v.导航,引路 sIbon yo",
-      "reason": "low confidence",
-      "confidence": 0.627
-    },
-    {
-      "page": 73,
-      "column": 0,
-      "text": "Equator n.赤道  doin oidhinde",
-      "reason": "low confidence",
-      "confidence": 0.679
-    },
-    {
-      "page": 73,
-      "column": 0,
-      "text": "archeologistn.考古学家 tuods1911",
-      "reason": "low confidence",
-      "confidence": 0.704
-    },
-    {
-      "page": 73,
-      "column": 1,
-      "text": "trace ...back to ...追溯到",
-      "reason": "low confidence",
-      "confidence": 0.839
-    },
-    {
-      "page": 73,
-      "column": 1,
-      "text": "coincidewith与...同时发生",
-      "reason": "low confidence",
-      "confidence": 0.823
-    },
-    {
-      "page": 73,
-      "column": 1,
-      "text": "geneticmakeup基因构成 Jibt XR",
-      "reason": "low confidence",
-      "confidence": 0.522
-    },
-    {
-      "page": 73,
-      "column": 1,
-      "text": "call for需要,要求 013891",
-      "reason": "low confidence",
-      "confidence": 0.778
-    },
-    {
-      "page": 73,
-      "column": 1,
-      "text": "Jaubm.ys",
-      "reason": "missing definition",
-      "confidence": 0.645
-    },
-    {
-      "page": 73,
-      "column": 1,
-      "text": "productionn.影视摄制,制片 dib",
-      "reason": "low confidence",
-      "confidence": 0.768
-    },
-    {
-      "page": 73,
-      "column": 1,
-      "text": "subscribern.订阅用户 dond gebe",
-      "reason": "low confidence",
+      "word": "consist",
+      "meaning": "由.........·构成,由··组成",
+      "year": 2010,
+      "page": 1,
       "confidence": 0.576
     },
     {
-      "page": 74,
-      "column": 0,
-      "text": "drift v.流失,漂泊",
-      "reason": "low confidence",
-      "confidence": 0.828
+      "word": "solely",
+      "meaning": "仅,只",
+      "year": 2010,
+      "page": 1,
+      "confidence": 0.551
     },
     {
-      "page": 74,
-      "column": 0,
-      "text": "sufficient adj充足的 【】",
-      "reason": "low confidence",
-      "confidence": 0.546
+      "word": "be removed from",
+      "meaning": "被从......·中移除,删除",
+      "year": 2010,
+      "page": 2,
+      "confidence": 0.799
     },
     {
-      "page": 74,
-      "column": 0,
-      "text": "ikoc",
-      "reason": "missing definition",
+      "word": "define...as",
+      "meaning": "把...····定义为",
+      "year": 2010,
+      "page": 2,
+      "confidence": 0.631
+    },
+    {
+      "word": "particular",
+      "meaning": "特定的,格外的,特别的",
+      "year": 2010,
+      "page": 2,
+      "confidence": 0.989
+    },
+    {
+      "word": "exemplify",
+      "meaning": "是.....·的典范;举例说明",
+      "year": 2010,
+      "page": 3,
+      "confidence": 0.799
+    },
+    {
+      "word": "likewise",
+      "meaning": "同样地,相似地",
+      "year": 2010,
+      "page": 4,
+      "confidence": 0.933
+    },
+    {
+      "word": "fold",
+      "meaning": "折叠;倒闭",
+      "year": 2010,
+      "page": 4,
+      "confidence": 0.893
+    },
+    {
+      "word": "overstate",
+      "meaning": "夸大,言过其实",
+      "year": 2010,
+      "page": 4,
+      "confidence": 0.885
+    },
+    {
+      "word": "take aim at",
+      "meaning": "瞄准以.····为目标",
+      "year": 2010,
+      "page": 5,
+      "confidence": 0.689
+    },
+    {
+      "word": "essential to",
+      "meaning": "对.....必不可少爱版",
+      "year": 2010,
+      "page": 5,
+      "confidence": 0.573
+    },
+    {
+      "word": "toxic asset",
+      "meaning": "不良资产",
+      "year": 2010,
+      "page": 5,
       "confidence": 0.541
     },
     {
-      "page": 74,
-      "column": 0,
-      "text": "dip beloww跌至...之下",
-      "reason": "low confidence",
-      "confidence": 0.676
+      "word": "deal with",
+      "meaning": "处理,涉及",
+      "year": 2010,
+      "page": 5,
+      "confidence": 0.512
     },
     {
-      "page": 74,
-      "column": 1,
-      "text": "的",
-      "reason": "unassigned text",
-      "confidence": 1.0
+      "word": "alternative",
+      "meaning": "供选择的；替代物",
+      "year": 2011,
+      "page": 8,
+      "confidence": 0.957
     },
     {
-      "page": 74,
-      "column": 1,
-      "text": "simultaneously adv.同时地 050",
-      "reason": "low confidence",
-      "confidence": 0.502
+      "word": "fundamental",
+      "meaning": "根本的",
+      "year": 2012,
+      "page": 9,
+      "confidence": 0.66
     },
     {
-      "page": 74,
-      "column": 1,
-      "text": "serendipity",
-      "reason": "missing definition",
+      "word": "frequently",
+      "meaning": "经常;时常",
+      "year": 2012,
+      "page": 12,
+      "confidence": 0.985
+    },
+    {
+      "word": "consequently",
+      "meaning": "因此,所以",
+      "year": 2012,
+      "page": 12,
+      "confidence": 0.987
+    },
+    {
+      "word": "self-deception",
+      "meaning": "自我欺骗",
+      "year": 2012,
+      "page": 12,
+      "confidence": 0.915
+    },
+    {
+      "word": "fight against",
+      "meaning": "与...作斗争",
+      "year": 2012,
+      "page": 14,
+      "confidence": 0.646
+    },
+    {
+      "word": "name",
+      "meaning": "给....取名,为.....定名",
+      "year": 2013,
+      "page": 15,
+      "confidence": 0.771
+    },
+    {
+      "word": "deliberately",
+      "meaning": "故意地;审慎地",
+      "year": 2013,
+      "page": 18,
+      "confidence": 0.92
+    },
+    {
+      "word": "establish",
+      "meaning": "确立；建立",
+      "year": 2013,
+      "page": 18,
+      "confidence": 0.959
+    },
+    {
+      "word": "precede",
+      "meaning": "先于(地位等);高于",
+      "year": 2013,
+      "page": 18,
+      "confidence": 0.904
+    },
+    {
+      "word": "extraordinarily",
+      "meaning": "非常地;特别地",
+      "year": 2014,
+      "page": 20,
+      "confidence": 0.93
+    },
+    {
+      "word": "challenge",
+      "meaning": "挑战;质疑",
+      "year": 2014,
+      "page": 22,
+      "confidence": 0.985
+    },
+    {
+      "word": "prosperity",
+      "meaning": "繁荣;兴旺",
+      "year": 2014,
+      "page": 22,
+      "confidence": 0.971
+    },
+    {
+      "word": "obscure",
+      "meaning": "使不分明的;遮掩的;遮盖的",
+      "year": 2014,
+      "page": 22,
+      "confidence": 0.92
+    },
+    {
+      "word": "bear on",
+      "meaning": "对准,瞄准;和....····有关对···有影响",
+      "year": 2014,
+      "page": 23,
+      "confidence": 0.649
+    },
+    {
+      "word": "treat...as",
+      "meaning": "把......看作",
+      "year": 2014,
+      "page": 23,
+      "confidence": 0.754
+    },
+    {
+      "word": "of...extraction",
+      "meaning": "具有....·血统",
+      "year": 2015,
+      "page": 23,
+      "confidence": 0.705
+    },
+    {
+      "word": "no doubt",
+      "meaning": "无疑,毫无疑问",
+      "year": 2015,
+      "page": 24,
+      "confidence": 0.978
+    },
+    {
+      "word": "justice",
+      "meaning": "法官;司法;公正;正义",
+      "year": 2015,
+      "page": 24,
+      "confidence": 0.982
+    },
+    {
+      "word": "up to",
+      "meaning": "高达,多达;由...·......决定",
+      "year": 2015,
+      "page": 27,
+      "confidence": 0.777
+    },
+    {
+      "word": "mass",
+      "meaning": "质量;大量,众多",
+      "year": 2016,
+      "page": 28,
+      "confidence": 0.985
+    },
+    {
+      "word": "voluntary",
+      "meaning": "自愿的;志愿的",
+      "year": 2016,
+      "page": 28,
+      "confidence": 0.931
+    },
+    {
+      "word": "characteristic",
+      "meaning": "典型的 n. 特征",
+      "year": 2016,
+      "page": 28,
+      "confidence": 0.906
+    },
+    {
+      "word": "in contrast to",
+      "meaning": "与...对比.与.....对照",
+      "year": 2016,
+      "page": 29,
+      "confidence": 0.652
+    },
+    {
+      "word": "regard...as",
+      "meaning": "把.....视为..",
+      "year": 2016,
+      "page": 29,
+      "confidence": 0.604
+    },
+    {
+      "word": "reveal",
+      "meaning": "显示;透露",
+      "year": 2016,
+      "page": 30,
+      "confidence": 0.949
+    },
+    {
+      "word": "identify..with",
+      "meaning": "把····视为· .·...",
+      "year": 2017,
+      "page": 36,
+      "confidence": 0.655
+    },
+    {
+      "word": "exempt from",
+      "meaning": "豁免于............,不受",
+      "year": 2017,
+      "page": 38,
+      "confidence": 0.625
+    },
+    {
+      "word": "rest",
+      "meaning": "依靠,依赖",
+      "year": 2017,
+      "page": 38,
+      "confidence": 0.911
+    },
+    {
+      "word": "on the verge of",
+      "meaning": "濒临于;接近于..",
+      "year": 2018,
+      "page": 42,
+      "confidence": 0.76
+    },
+    {
+      "word": "emerging",
+      "meaning": "新的；正在出现的",
+      "year": 2018,
+      "page": 42,
+      "confidence": 0.965
+    },
+    {
+      "word": "amount to",
+      "meaning": "相当.总计为.",
+      "year": 2018,
+      "page": 43,
+      "confidence": 0.705
+    },
+    {
+      "word": "keep an eye out for",
+      "meaning": "注意··",
+      "year": 2019,
+      "page": 43,
+      "confidence": 0.725
+    },
+    {
+      "word": "practice",
+      "meaning": "做法,惯例;实践;练习",
+      "year": 2019,
+      "page": 44,
+      "confidence": 0.961
+    },
+    {
+      "word": "be limited to",
+      "meaning": "局限于……",
+      "year": 2019,
+      "page": 45,
+      "confidence": 0.988
+    },
+    {
+      "word": "be fascinated by",
+      "meaning": "被....迷住着迷于.......",
+      "year": 2019,
+      "page": 46,
+      "confidence": 0.781
+    },
+    {
+      "word": "vague",
+      "meaning": "模糊的;含糊的;不明确的",
+      "year": 2019,
+      "page": 46,
+      "confidence": 0.879
+    },
+    {
+      "word": "revenue",
+      "meaning": "税收收入;财政收入;收益；税收,收入",
+      "year": 2019,
+      "page": 46,
+      "confidence": 0.977
+    },
+    {
+      "word": "unfavorable",
+      "meaning": "不利的,不赞同的",
+      "year": 2019,
+      "page": 46,
+      "confidence": 0.972
+    },
+    {
+      "word": "force...to do",
+      "meaning": "强迫.....做....",
+      "year": 2019,
+      "page": 47,
+      "confidence": 0.605
+    },
+    {
+      "word": "prevent...from",
+      "meaning": "阻止..做",
+      "year": 2020,
+      "page": 48,
+      "confidence": 0.752
+    },
+    {
+      "word": "thrive",
+      "meaning": "兴盛,繁荣",
+      "year": 2020,
+      "page": 49,
+      "confidence": 0.699
+    },
+    {
+      "word": "under...terms",
+      "meaning": "根据.....按照..条件",
+      "year": 2020,
+      "page": 49,
+      "confidence": 0.7
+    },
+    {
+      "word": "target",
+      "meaning": "以......为目标",
+      "year": 2020,
+      "page": 50,
+      "confidence": 0.768
+    },
+    {
+      "word": "refer to...as",
+      "meaning": "把.......当作",
+      "year": 2020,
+      "page": 51,
+      "confidence": 0.703
+    },
+    {
+      "word": "decline",
+      "meaning": "下降",
+      "year": 2021,
+      "page": 51,
+      "confidence": 0.586
+    },
+    {
+      "word": "justify",
+      "meaning": "证明.....是合理的",
+      "year": 2021,
+      "page": 52,
+      "confidence": 0.732
+    },
+    {
+      "word": "be borne by",
+      "meaning": "由......负担",
+      "year": 2021,
+      "page": 52,
+      "confidence": 0.726
+    },
+    {
+      "word": "grimly",
+      "meaning": "可怕地,冷酷地",
+      "year": 2021,
+      "page": 52,
+      "confidence": 0.937
+    },
+    {
+      "word": "incompetently",
+      "meaning": "不能胜任地,无能力地",
+      "year": 2021,
+      "page": 52,
+      "confidence": 0.965
+    },
+    {
+      "word": "preserve",
+      "meaning": "保护,保存,保留；专属物,专有物；保护,保留,保存",
+      "year": 2021,
+      "page": 53,
+      "confidence": 0.987
+    },
+    {
+      "word": "adjust",
+      "meaning": "调节,调整以适应",
+      "year": 2021,
+      "page": 54,
+      "confidence": 0.545
+    },
+    {
+      "word": "limb",
+      "meaning": "四肢",
+      "year": 2021,
+      "page": 54,
+      "confidence": 0.533
+    },
+    {
+      "word": "grin",
+      "meaning": "露齿笑",
+      "year": 2021,
+      "page": 54,
+      "confidence": 0.613
+    },
+    {
+      "word": "run",
+      "meaning": "说到,提到",
+      "year": 2021,
+      "page": 54,
+      "confidence": 0.529
+    },
+    {
+      "word": "declare",
+      "meaning": "宣布,声明",
+      "year": 2021,
+      "page": 55,
+      "confidence": 0.651
+    },
+    {
+      "word": "undermine",
+      "meaning": "削弱,破坏",
+      "year": 2021,
+      "page": 55,
+      "confidence": 0.665
+    },
+    {
+      "word": "enact",
+      "meaning": "通过",
+      "year": 2021,
+      "page": 55,
+      "confidence": 0.715
+    },
+    {
+      "word": "abdication",
+      "meaning": "辞退,退位",
+      "year": 2021,
+      "page": 55,
+      "confidence": 0.622
+    },
+    {
+      "word": "explicit",
+      "meaning": "清楚的,明白的",
+      "year": 2021,
+      "page": 55,
+      "confidence": 0.589
+    },
+    {
+      "word": "diversify",
+      "meaning": "使...多样化",
+      "year": 2021,
+      "page": 55,
+      "confidence": 0.786
+    },
+    {
+      "word": "at the expense of",
+      "meaning": "以.....为代价",
+      "year": 2021,
+      "page": 55,
+      "confidence": 0.772
+    },
+    {
+      "word": "out of touch with",
+      "meaning": "与···.脱节",
+      "year": 2021,
+      "page": 55,
+      "confidence": 0.544
+    },
+    {
+      "word": "inconclusive",
+      "meaning": "不确定的",
+      "year": 2022,
+      "page": 56,
+      "confidence": 0.703
+    },
+    {
+      "word": "beneath",
+      "meaning": "在....之下",
+      "year": 2022,
+      "page": 57,
+      "confidence": 0.71
+    },
+    {
+      "word": "melt into",
+      "meaning": "溶解,消散在....·中",
+      "year": 2022,
+      "page": 57,
+      "confidence": 0.791
+    },
+    {
+      "word": "be borne by",
+      "meaning": "由......·...··负担",
+      "year": 2022,
+      "page": 58,
+      "confidence": 0.599
+    },
+    {
+      "word": "communication",
+      "meaning": "交流",
+      "year": 2022,
+      "page": 58,
+      "confidence": 0.982
+    },
+    {
+      "word": "head",
+      "meaning": "主管,领导",
+      "year": 2022,
+      "page": 58,
+      "confidence": 0.973
+    },
+    {
+      "word": "immune from",
+      "meaning": "不受··的影响",
+      "year": 2022,
+      "page": 59,
+      "confidence": 0.671
+    },
+    {
+      "word": "route",
+      "meaning": "路线",
+      "year": 2023,
+      "page": 60,
+      "confidence": 0.626
+    },
+    {
+      "word": "strategically",
+      "meaning": "战略上",
+      "year": 2023,
+      "page": 60,
+      "confidence": 0.58
+    },
+    {
+      "word": "informal",
+      "meaning": "非正式的",
+      "year": 2023,
+      "page": 60,
+      "confidence": 0.587
+    },
+    {
+      "word": "sway",
+      "meaning": "动摇,摆动",
+      "year": 2023,
+      "page": 61,
+      "confidence": 0.511
+    },
+    {
+      "word": "adj",
+      "meaning": "非官方的,不正式的 adj.倾斜的,有倾向性的",
+      "year": 2023,
+      "page": 61,
+      "confidence": 0.938
+    },
+    {
+      "word": "be worried about",
+      "meaning": "为..担心",
+      "year": 2023,
+      "page": 62,
+      "confidence": 0.79
+    },
+    {
+      "word": "concentration",
+      "meaning": "专心,专注,重视,集中",
+      "year": 2023,
+      "page": 62,
+      "confidence": 0.959
+    },
+    {
+      "word": "in terms of",
+      "meaning": "按照,.在...·.·方面",
+      "year": 2023,
+      "page": 63,
+      "confidence": 0.651
+    },
+    {
+      "word": "act as",
+      "meaning": "担当.扮··的角色",
+      "year": 2023,
+      "page": 63,
+      "confidence": 0.761
+    },
+    {
+      "word": "after all",
+      "meaning": "毕竟",
+      "year": 2024,
+      "page": 65,
+      "confidence": 0.766
+    },
+    {
+      "word": "akin to",
+      "meaning": "近似,与......·...·.相似",
+      "year": 2024,
+      "page": 66,
+      "confidence": 0.633
+    },
+    {
+      "word": "by contrast",
+      "meaning": "相比之下",
+      "year": 2024,
+      "page": 66,
+      "confidence": 0.504
+    },
+    {
+      "word": "scrape",
+      "meaning": "凑集,拼凑",
+      "year": 2024,
+      "page": 66,
+      "confidence": 0.549
+    },
+    {
+      "word": "coalition",
+      "meaning": "联合,联盟",
+      "year": 2024,
+      "page": 66,
+      "confidence": 0.575
+    },
+    {
+      "word": "raise awareness about",
+      "meaning": "提高了····.的意识",
+      "year": 2024,
+      "page": 67,
+      "confidence": 0.649
+    },
+    {
+      "word": "be closely linked to",
+      "meaning": "与····有密切联系",
+      "year": 2024,
+      "page": 67,
+      "confidence": 0.695
+    },
+    {
+      "word": "fantasy landscape",
+      "meaning": "梦幻之境",
+      "year": 2024,
+      "page": 67,
       "confidence": 0.995
     },
     {
-      "page": 75,
-      "column": 0,
-      "text": "enroll",
-      "reason": "missing definition",
-      "confidence": 0.993
+      "word": "cautious",
+      "meaning": "小心的,谨慎的",
+      "year": 2024,
+      "page": 68,
+      "confidence": 0.739
     },
     {
-      "page": 75,
-      "column": 0,
-      "text": "v.人学;注册",
-      "reason": "invalid English",
-      "confidence": 0.967
+      "word": "wildlife",
+      "meaning": "野生生物",
+      "year": 2024,
+      "page": 68,
+      "confidence": 0.539
+    },
+    {
+      "word": "regulatory scope",
+      "meaning": "监管范围",
+      "year": 2024,
+      "page": 68,
+      "confidence": 0.688
+    },
+    {
+      "word": "trial",
+      "meaning": "试验",
+      "year": 2025,
+      "page": 69,
+      "confidence": 0.644
+    },
+    {
+      "word": "shipwreck",
+      "meaning": "海难;沉船",
+      "year": 2025,
+      "page": 69,
+      "confidence": 0.515
+    },
+    {
+      "word": "cliche",
+      "meaning": "陈词滥调",
+      "year": 2025,
+      "page": 69,
+      "confidence": 0.627
+    },
+    {
+      "word": "fluency",
+      "meaning": "流利",
+      "year": 2025,
+      "page": 69,
+      "confidence": 0.659
+    },
+    {
+      "word": "inspiration",
+      "meaning": "灵感,启发",
+      "year": 2025,
+      "page": 69,
+      "confidence": 0.569
+    },
+    {
+      "word": "net-zero",
+      "meaning": "净零排放",
+      "year": 2025,
+      "page": 70,
+      "confidence": 0.637
+    },
+    {
+      "word": "inevitable",
+      "meaning": "不可避免的",
+      "year": 2025,
+      "page": 70,
+      "confidence": 0.752
+    },
+    {
+      "word": "energy intensive",
+      "meaning": "能源集约型的",
+      "year": 2025,
+      "page": 70,
+      "confidence": 0.682
+    },
+    {
+      "word": "turn....into",
+      "meaning": "把.....·转变为",
+      "year": 2025,
+      "page": 70,
+      "confidence": 0.724
+    },
+    {
+      "word": "thrive",
+      "meaning": "靠·····而繁荣",
+      "year": 2025,
+      "page": 70,
+      "confidence": 0.645
+    },
+    {
+      "word": "piracy",
+      "meaning": "盗版",
+      "year": 2025,
+      "page": 70,
+      "confidence": 0.522
+    },
+    {
+      "word": "estimate",
+      "meaning": "预估,估计",
+      "year": 2025,
+      "page": 70,
+      "confidence": 0.649
+    },
+    {
+      "word": "passage",
+      "meaning": "通过",
+      "year": 2025,
+      "page": 71,
+      "confidence": 0.647
+    },
+    {
+      "word": "detective",
+      "meaning": "侦探",
+      "year": 2025,
+      "page": 71,
+      "confidence": 0.545
+    },
+    {
+      "word": "surpass",
+      "meaning": "超过",
+      "year": 2025,
+      "page": 71,
+      "confidence": 0.753
+    },
+    {
+      "word": "confront",
+      "meaning": "面对,绵连",
+      "year": 2025,
+      "page": 71,
+      "confidence": 0.798
+    },
+    {
+      "word": "check",
+      "meaning": "遏制,抑制",
+      "year": 2025,
+      "page": 71,
+      "confidence": 0.786
     }
   ],
-  "excluded": [
-    {
-      "page": 4,
-      "text": "la",
-      "reason": "outside main page"
-    },
-    {
-      "page": 5,
-      "text": "strainv.拉紧",
-      "reason": "outside main page"
-    },
-    {
-      "page": 5,
-      "text": "conceivablyady.可相信地",
-      "reason": "outside main page"
-    },
-    {
-      "page": 5,
-      "text": "emotional adj情感的",
-      "reason": "outside main page"
-    },
-    {
-      "page": 5,
-      "text": "partiallyadv.部分地",
-      "reason": "outside main page"
-    },
-    {
-      "page": 5,
-      "text": "muscularadj肌肉的",
-      "reason": "outside main page"
-    },
-    {
-      "page": 5,
-      "text": "response#n.反应",
-      "reason": "outside main page"
-    },
-    {
-      "page": 6,
-      "text": "fu",
-      "reason": "outside main page"
-    },
-    {
-      "page": 6,
-      "text": "11",
-      "reason": "outside main page"
-    },
-    {
-      "page": 8,
-      "text": "de",
-      "reason": "outside main page"
-    },
-    {
-      "page": 8,
-      "text": "re",
-      "reason": "outside main page"
-    },
-    {
-      "page": 9,
-      "text": "readv.标明，解释",
-      "reason": "outside main page"
-    },
-    {
-      "page": 10,
-      "text": "ai",
-      "reason": "outside main page"
-    },
-    {
-      "page": 10,
-      "text": "P",
-      "reason": "outside main page"
-    },
-    {
-      "page": 10,
-      "text": "- 10",
-      "reason": "outside main page"
-    },
-    {
-      "page": 12,
-      "text": "12",
-      "reason": "outside main page"
-    },
-    {
-      "page": 13,
-      "text": "记",
-      "reason": "outside main page"
-    },
-    {
-      "page": 13,
-      "text": "-13-",
-      "reason": "outside main page"
-    },
-    {
-      "page": 15,
-      "text": "-15-",
-      "reason": "outside main page"
-    },
-    {
-      "page": 17,
-      "text": "-17-",
-      "reason": "outside main page"
-    },
-    {
-      "page": 19,
-      "text": "-19-",
-      "reason": "outside main page"
-    },
-    {
-      "page": 21,
-      "text": "-21-",
-      "reason": "outside main page"
-    },
-    {
-      "page": 22,
-      "text": "2",
-      "reason": "outside main page"
-    },
-    {
-      "page": 23,
-      "text": "-23-",
-      "reason": "outside main page"
-    },
-    {
-      "page": 24,
-      "text": "gc",
-      "reason": "outside main page"
-    },
-    {
-      "page": 24,
-      "text": "ta",
-      "reason": "outside main page"
-    },
-    {
-      "page": 25,
-      "text": "-25-",
-      "reason": "outside main page"
-    },
-    {
-      "page": 26,
-      "text": "ine",
-      "reason": "outside main page"
-    },
-    {
-      "page": 26,
-      "text": "in",
-      "reason": "outside main page"
-    },
-    {
-      "page": 26,
-      "text": "CU",
-      "reason": "outside main page"
-    },
-    {
-      "page": 26,
-      "text": "海",
-      "reason": "outside main page"
-    },
-    {
-      "page": 27,
-      "text": "速记",
-      "reason": "outside main page"
-    },
-    {
-      "page": 27,
-      "text": "护",
-      "reason": "outside main page"
-    },
-    {
-      "page": 27,
-      "text": "-27-",
-      "reason": "outside main page"
-    },
-    {
-      "page": 28,
-      "text": "21",
-      "reason": "outside main page"
-    },
-    {
-      "page": 29,
-      "text": "-29-",
-      "reason": "outside main page"
-    },
-    {
-      "page": 30,
-      "text": "CO",
-      "reason": "outside main page"
-    },
-    {
-      "page": 30,
-      "text": "ST",
-      "reason": "outside main page"
-    },
-    {
-      "page": 30,
-      "text": "evi.区分，区别",
-      "reason": "outside main page"
-    },
-    {
-      "page": 31,
-      "text": "速记",
-      "reason": "outside main page"
-    },
-    {
-      "page": 32,
-      "text": "-32-",
-      "reason": "outside main page"
-    },
-    {
-      "page": 33,
-      "text": "二速记",
-      "reason": "outside main page"
-    },
-    {
-      "page": 33,
-      "text": "-33-",
-      "reason": "outside main page"
-    },
-    {
-      "page": 35,
-      "text": "记",
-      "reason": "outside main page"
-    },
-    {
-      "page": 35,
-      "text": "台者",
-      "reason": "outside main page"
-    },
-    {
-      "page": 35,
-      "text": "-35-",
-      "reason": "outside main page"
-    },
-    {
-      "page": 39,
-      "text": "-39-",
-      "reason": "outside main page"
-    },
-    {
-      "page": 41,
-      "text": "-41-",
-      "reason": "outside main page"
-    },
-    {
-      "page": 42,
-      "text": "th",
-      "reason": "outside main page"
-    },
-    {
-      "page": 42,
-      "text": "be",
-      "reason": "outside main page"
-    },
-    {
-      "page": 42,
-      "text": "ar",
-      "reason": "outside main page"
-    },
-    {
-      "page": 42,
-      "text": "p",
-      "reason": "outside main page"
-    },
-    {
-      "page": 42,
-      "text": "p",
-      "reason": "outside main page"
-    },
-    {
-      "page": 42,
-      "text": "- 42",
-      "reason": "outside main page"
-    },
-    {
-      "page": 43,
-      "text": "-43-",
-      "reason": "outside main page"
-    },
-    {
-      "page": 45,
-      "text": "save for",
-      "reason": "outside main page"
-    },
-    {
-      "page": 45,
-      "text": "tend to...",
-      "reason": "outside main page"
-    },
-    {
-      "page": 45,
-      "text": "be identical with",
-      "reason": "outside main page"
-    },
-    {
-      "page": 47,
-      "text": "-47-",
-      "reason": "outside main page"
-    },
-    {
-      "page": 48,
-      "text": "fi",
-      "reason": "outside main page"
-    },
-    {
-      "page": 48,
-      "text": "d",
-      "reason": "outside main page"
-    },
-    {
-      "page": 48,
-      "text": "il",
-      "reason": "outside main page"
-    },
-    {
-      "page": 48,
-      "text": "p",
-      "reason": "outside main page"
-    },
-    {
-      "page": 48,
-      "text": "P",
-      "reason": "outside main page"
-    },
-    {
-      "page": 48,
-      "text": "P",
-      "reason": "outside main page"
-    },
-    {
-      "page": 48,
-      "text": "a",
-      "reason": "outside main page"
-    },
-    {
-      "page": 49,
-      "text": "-49-",
-      "reason": "outside main page"
-    },
-    {
-      "page": 51,
-      "text": "logically adv.逻辑上",
-      "reason": "outside main page"
-    },
-    {
-      "page": 51,
-      "text": "abstractly adv.抽象地",
-      "reason": "outside main page"
-    },
-    {
-      "page": 51,
-      "text": "adulthoodn.成年",
-      "reason": "outside main page"
-    },
-    {
-      "page": 53,
-      "text": "-53-",
-      "reason": "outside main page"
-    },
-    {
-      "page": 54,
-      "text": "-54-",
-      "reason": "outside main page"
-    },
-    {
-      "page": 55,
-      "text": "8-55-",
-      "reason": "outside main page"
-    },
-    {
-      "page": 57,
-      "text": "80-57-",
-      "reason": "outside main page"
-    },
-    {
-      "page": 59,
-      "text": "-59-",
-      "reason": "outside main page"
-    },
-    {
-      "page": 61,
-      "text": "-61-",
-      "reason": "outside main page"
-    },
-    {
-      "page": 62,
-      "text": "a plurality of",
-      "reason": "outside main page"
-    },
-    {
-      "page": 64,
-      "text": "hn.铁匠",
-      "reason": "outside main page"
-    },
-    {
-      "page": 67,
-      "text": "7-",
-      "reason": "outside main page"
-    },
-    {
-      "page": 72,
-      "text": "-72",
-      "reason": "outside main page"
-    },
-    {
-      "page": 73,
-      "text": "AT-73-",
-      "reason": "outside main page"
-    },
-    {
-      "page": 75,
-      "text": "-75-",
-      "reason": "outside main page"
-    }
-  ]
+  "note": "未标记的条目也可能存在识别误差；可在网站查看对应原图。"
 }
