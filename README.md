@@ -30,4 +30,4 @@ GitHub 仓库 Settings → Pages → Deploy from a branch → `main` / 根目录
 
 `data/vocabulary.json` 保存词库，`data/pages/` 保存经压缩的来源图片，`data/quality-report.json` 保存识别及校对说明。已按年份、拼写、词性、中文释义和重复词检查全库，并对识别异常的词条逐一核对原图；目前没有待核对标签。词库来自用户提供的学习资料，如果发现遗漏或错误，仍可按词条所附页码对照原图。
 
-进度键为 `cixu.progress.v1`。词条 ID 在校对时保持稳定，因此拼写和释义修订不会清除已有学习记录。
+进度键为 `cixu.progress.v1`。词条 ID 在校对时保持稳定，少数被合并的重复词也会迁移旧进度和收藏，因此拼写与释义修订不会清除已有学习记录。
