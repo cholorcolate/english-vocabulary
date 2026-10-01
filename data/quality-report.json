@@ -2,7 +2,7 @@
   "pages": 75,
   "occurrences": 3900.0,
   "uniqueYearWords": 3812,
-  "reviewNeeded": 120,
+  "reviewNeeded": 94,
   "replacementPages": [
     10,
     26,
@@ -14,6 +14,10 @@
     26,
     32,
     34,
+    55,
+    69,
+    70,
+    71,
     72,
     73,
     74,
@@ -149,16 +153,8 @@
       "count": 4
     },
     {
-      "page": 53,
-      "count": 1
-    },
-    {
       "page": 54,
       "count": 4
-    },
-    {
-      "page": 55,
-      "count": 8
     },
     {
       "page": 56,
@@ -207,18 +203,6 @@
     {
       "page": 68,
       "count": 3
-    },
-    {
-      "page": 69,
-      "count": 5
-    },
-    {
-      "page": 70,
-      "count": 7
-    },
-    {
-      "page": 71,
-      "count": 5
     }
   ],
   "reviewEntries": [
@@ -664,13 +648,6 @@
       "confidence": 0.965
     },
     {
-      "word": "preserve",
-      "meaning": "保护,保存,保留；专属物,专有物；保护,保留,保存",
-      "year": 2021,
-      "page": 53,
-      "confidence": 0.987
-    },
-    {
       "word": "adjust",
       "meaning": "调节,调整以适应",
       "year": 2021,
@@ -697,62 +674,6 @@
       "year": 2021,
       "page": 54,
       "confidence": 0.529
-    },
-    {
-      "word": "declare",
-      "meaning": "宣布,声明",
-      "year": 2021,
-      "page": 55,
-      "confidence": 0.651
-    },
-    {
-      "word": "undermine",
-      "meaning": "削弱,破坏",
-      "year": 2021,
-      "page": 55,
-      "confidence": 0.665
-    },
-    {
-      "word": "enact",
-      "meaning": "通过",
-      "year": 2021,
-      "page": 55,
-      "confidence": 0.715
-    },
-    {
-      "word": "abdication",
-      "meaning": "辞退,退位",
-      "year": 2021,
-      "page": 55,
-      "confidence": 0.622
-    },
-    {
-      "word": "explicit",
-      "meaning": "清楚的,明白的",
-      "year": 2021,
-      "page": 55,
-      "confidence": 0.589
-    },
-    {
-      "word": "diversify",
-      "meaning": "使...多样化",
-      "year": 2021,
-      "page": 55,
-      "confidence": 0.786
-    },
-    {
-      "word": "at the expense of",
-      "meaning": "以.....为代价",
-      "year": 2021,
-      "page": 55,
-      "confidence": 0.772
-    },
-    {
-      "word": "out of touch with",
-      "meaning": "与···.脱节",
-      "year": 2021,
-      "page": 55,
-      "confidence": 0.544
     },
     {
       "word": "inconclusive",
@@ -942,125 +863,6 @@
       "year": 2024,
       "page": 68,
       "confidence": 0.688
-    },
-    {
-      "word": "trial",
-      "meaning": "试验",
-      "year": 2025,
-      "page": 69,
-      "confidence": 0.644
-    },
-    {
-      "word": "shipwreck",
-      "meaning": "海难;沉船",
-      "year": 2025,
-      "page": 69,
-      "confidence": 0.515
-    },
-    {
-      "word": "cliche",
-      "meaning": "陈词滥调",
-      "year": 2025,
-      "page": 69,
-      "confidence": 0.627
-    },
-    {
-      "word": "fluency",
-      "meaning": "流利",
-      "year": 2025,
-      "page": 69,
-      "confidence": 0.659
-    },
-    {
-      "word": "inspiration",
-      "meaning": "灵感,启发",
-      "year": 2025,
-      "page": 69,
-      "confidence": 0.569
-    },
-    {
-      "word": "net-zero",
-      "meaning": "净零排放",
-      "year": 2025,
-      "page": 70,
-      "confidence": 0.637
-    },
-    {
-      "word": "inevitable",
-      "meaning": "不可避免的",
-      "year": 2025,
-      "page": 70,
-      "confidence": 0.752
-    },
-    {
-      "word": "energy intensive",
-      "meaning": "能源集约型的",
-      "year": 2025,
-      "page": 70,
-      "confidence": 0.682
-    },
-    {
-      "word": "turn....into",
-      "meaning": "把.....·转变为",
-      "year": 2025,
-      "page": 70,
-      "confidence": 0.724
-    },
-    {
-      "word": "thrive",
-      "meaning": "靠·····而繁荣",
-      "year": 2025,
-      "page": 70,
-      "confidence": 0.645
-    },
-    {
-      "word": "piracy",
-      "meaning": "盗版",
-      "year": 2025,
-      "page": 70,
-      "confidence": 0.522
-    },
-    {
-      "word": "estimate",
-      "meaning": "预估,估计",
-      "year": 2025,
-      "page": 70,
-      "confidence": 0.649
-    },
-    {
-      "word": "passage",
-      "meaning": "通过",
-      "year": 2025,
-      "page": 71,
-      "confidence": 0.647
-    },
-    {
-      "word": "detective",
-      "meaning": "侦探",
-      "year": 2025,
-      "page": 71,
-      "confidence": 0.545
-    },
-    {
-      "word": "surpass",
-      "meaning": "超过",
-      "year": 2025,
-      "page": 71,
-      "confidence": 0.753
-    },
-    {
-      "word": "confront",
-      "meaning": "面对,绵连",
-      "year": 2025,
-      "page": 71,
-      "confidence": 0.798
-    },
-    {
-      "word": "check",
-      "meaning": "遏制,抑制",
-      "year": 2025,
-      "page": 71,
-      "confidence": 0.786
     }
   ],
   "note": "未标记的条目也可能存在识别误差；可在网站查看对应原图。"
