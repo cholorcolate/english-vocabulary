@@ -46350,7 +46350,7 @@
     {
       "word": "preserve",
       "pos": "v./n.",
-      "meaning": "保护,保存,保留；专属物,专有物；保护,保留,保存",
+      "meaning": "保护，保留，保存；专属物，专有物",
       "year": 2021,
       "kind": "word",
       "sources": [
@@ -46370,8 +46370,8 @@
           "column": 0
         }
       ],
-      "review": true,
-      "confidence": 0.987,
+      "review": false,
+      "confidence": 1.0,
       "id": "3844b34c9a9d93d2"
     },
     {
@@ -47762,8 +47762,8 @@
           "column": 0
         }
       ],
-      "review": true,
-      "confidence": 0.651,
+      "review": false,
+      "confidence": 1.0,
       "id": "98db541f663b6ba7"
     },
     {
@@ -47976,8 +47976,8 @@
           "column": 0
         }
       ],
-      "review": true,
-      "confidence": 0.665,
+      "review": false,
+      "confidence": 1.0,
       "id": "71a3842e95b4bb9a"
     },
     {
@@ -47993,8 +47993,8 @@
           "column": 0
         }
       ],
-      "review": true,
-      "confidence": 0.715,
+      "review": false,
+      "confidence": 1.0,
       "id": "4c1070f28036bdbc"
     },
     {
@@ -48010,8 +48010,8 @@
           "column": 0
         }
       ],
-      "review": true,
-      "confidence": 0.622,
+      "review": false,
+      "confidence": 1.0,
       "id": "62c194cc2f2a9b34"
     },
     {
@@ -48027,8 +48027,8 @@
           "column": 0
         }
       ],
-      "review": true,
-      "confidence": 0.589,
+      "review": false,
+      "confidence": 1.0,
       "id": "60a4de3c0f079dc0"
     },
     {
@@ -48231,8 +48231,8 @@
           "column": 1
         }
       ],
-      "review": true,
-      "confidence": 0.786,
+      "review": false,
+      "confidence": 1.0,
       "id": "f05b119ab9a973ac"
     },
     {
@@ -48333,8 +48333,8 @@
           "column": 1
         }
       ],
-      "review": true,
-      "confidence": 0.772,
+      "review": false,
+      "confidence": 1.0,
       "id": "dd9113dc8df87c23"
     },
     {
@@ -48486,8 +48486,8 @@
           "column": 1
         }
       ],
-      "review": true,
-      "confidence": 0.544,
+      "review": false,
+      "confidence": 1.0,
       "id": "c7b40424f01785ff"
     },
     {
@@ -60098,8 +60098,8 @@
           "column": 0
         }
       ],
-      "review": true,
-      "confidence": 0.644,
+      "review": false,
+      "confidence": 1.0,
       "id": "ab0455da533f7eef"
     },
     {
@@ -60115,8 +60115,8 @@
           "column": 0
         }
       ],
-      "review": true,
-      "confidence": 0.515,
+      "review": false,
+      "confidence": 1.0,
       "id": "e138a08b3a534e85"
     },
     {
@@ -60149,8 +60149,8 @@
           "column": 0
         }
       ],
-      "review": true,
-      "confidence": 0.627,
+      "review": false,
+      "confidence": 1.0,
       "id": "a52013651d2aaa7f"
     },
     {
@@ -60285,8 +60285,8 @@
           "column": 0
         }
       ],
-      "review": true,
-      "confidence": 0.659,
+      "review": false,
+      "confidence": 1.0,
       "id": "415f352fcae8467b"
     },
     {
@@ -60404,8 +60404,8 @@
           "column": 0
         }
       ],
-      "review": true,
-      "confidence": 0.569,
+      "review": false,
+      "confidence": 1.0,
       "id": "53c5fb7a028a99f6"
     },
     {
@@ -61140,8 +61140,8 @@
           "column": 0
         }
       ],
-      "review": true,
-      "confidence": 0.637,
+      "review": false,
+      "confidence": 1.0,
       "id": "cea9362c834228b4"
     },
     {
@@ -61361,8 +61361,8 @@
           "column": 0
         }
       ],
-      "review": true,
-      "confidence": 0.752,
+      "review": false,
+      "confidence": 1.0,
       "id": "c41be4743edde5b4"
     },
     {
@@ -61446,8 +61446,8 @@
           "column": 1
         }
       ],
-      "review": true,
-      "confidence": 0.682,
+      "review": false,
+      "confidence": 1.0,
       "id": "da7d851fd0135a02"
     },
     {
@@ -61519,9 +61519,9 @@
       "id": "7b07d792f960e737"
     },
     {
-      "word": "turn....into",
+      "word": "turn ... into ...",
       "pos": "",
-      "meaning": "把.....·转变为",
+      "meaning": "把……转变为……",
       "year": 2025,
       "kind": "word",
       "sources": [
@@ -61531,14 +61531,14 @@
           "column": 1
         }
       ],
-      "review": true,
-      "confidence": 0.724,
+      "review": false,
+      "confidence": 1.0,
       "id": "478dd31e774b57b2"
     },
     {
-      "word": "thrive",
-      "pos": "n.",
-      "meaning": "靠·····而繁荣",
+      "word": "thrive on",
+      "pos": "",
+      "meaning": "靠……而繁荣",
       "year": 2025,
       "kind": "word",
       "sources": [
@@ -61548,8 +61548,8 @@
           "column": 1
         }
       ],
-      "review": true,
-      "confidence": 0.645,
+      "review": false,
+      "confidence": 1.0,
       "id": "514d2160ceaa18c4"
     },
     {
@@ -61803,8 +61803,8 @@
           "column": 1
         }
       ],
-      "review": true,
-      "confidence": 0.522,
+      "review": false,
+      "confidence": 1.0,
       "id": "2edf2f91260253a1"
     },
     {
@@ -61820,8 +61820,8 @@
           "column": 1
         }
       ],
-      "review": true,
-      "confidence": 0.649,
+      "review": false,
+      "confidence": 1.0,
       "id": "698430c627b27521"
     },
     {
@@ -61854,8 +61854,8 @@
           "column": 0
         }
       ],
-      "review": true,
-      "confidence": 0.647,
+      "review": false,
+      "confidence": 1.0,
       "id": "5ab9e45ec4a527d3"
     },
     {
@@ -61871,8 +61871,8 @@
           "column": 0
         }
       ],
-      "review": true,
-      "confidence": 0.545,
+      "review": false,
+      "confidence": 1.0,
       "id": "a05d8bf3887147d1"
     },
     {
@@ -61905,14 +61905,14 @@
           "column": 0
         }
       ],
-      "review": true,
-      "confidence": 0.753,
+      "review": false,
+      "confidence": 1.0,
       "id": "c33794ce45569af5"
     },
     {
       "word": "confront",
       "pos": "v.",
-      "meaning": "面对,绵连",
+      "meaning": "面对；面临",
       "year": 2025,
       "kind": "word",
       "sources": [
@@ -61922,8 +61922,8 @@
           "column": 0
         }
       ],
-      "review": true,
-      "confidence": 0.798,
+      "review": false,
+      "confidence": 1.0,
       "id": "b22fe44db188f39b"
     },
     {
@@ -61956,8 +61956,8 @@
           "column": 0
         }
       ],
-      "review": true,
-      "confidence": 0.786,
+      "review": false,
+      "confidence": 1.0,
       "id": "fac3c67ef5e390fd"
     },
     {
