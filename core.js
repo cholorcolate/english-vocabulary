@@ -8,7 +8,8 @@ const LEGACY_IDS={
  '051ba5c767205813':'14f5576b84e67954'  // vague, 2019
 };
 export function dateKey(time=Date.now()){const d=new Date(time);return `${d.getFullYear()}-${String(d.getMonth()+1).padStart(2,'0')}-${String(d.getDate()).padStart(2,'0')}`;}
-export function emptyState(){return {version:1,progress:{},favorites:[],history:{},settings:{goal:30,batch:20,voice:'en-US',rate:0.85,shuffle:true},session:null};}
+export function emptyState(){return {version:1,progress:{},favorites:[],history:{},settings:{goal:30,batch:20,voice:'en-US',rate:0.85,shuffle:true},session:null,starPromptSeen:false};}
+export function shouldShowStarPrompt(state,learnedCount){return !state.starPromptSeen&&learnedCount>=100;}
 export function normalizeAnswer(s){return s.toLowerCase().normalize('NFKC').replace(/[’‘]/g,"'").replace(/[.…]+/g,' ').replace(/\s+/g,' ').trim();}
 export function makeChoices(words,answer,random=Math.random){
  const senses=meaning=>meaning.split(/[；;,，、/（）()]/).map(part=>part.replace(/[^\u4e00-\u9fff]/g,'')).filter(part=>part.length>=2);
@@ -34,6 +35,7 @@ export function statusOf(p,now=Date.now()){if(!p)return 'new';if(p.due<=now)retu
 export function validateState(value,ids){
  if(!value||value.version!==1||typeof value.progress!=='object'||Array.isArray(value.progress)||!value.progress||!Array.isArray(value.favorites)||!value.history||typeof value.history!=='object'||Array.isArray(value.history))throw Error('备份格式不正确，请选择本网站导出的 JSON 文件。');
  const out=emptyState();
+ out.starPromptSeen=value.starPromptSeen===true;
  const currentId=id=>ids.has(id)?id:(ids.has(LEGACY_IDS[id])?LEGACY_IDS[id]:null);
  for(const [oldId,p]of Object.entries(value.progress)){const id=currentId(oldId);if(!id)continue;if(!p||!['reps','interval','lapses','seen','last','due'].every(k=>Number.isFinite(p[k])&&p[k]>=0))throw Error('备份中的学习记录无效。');if(!out.progress[id]||p.last>out.progress[id].last)out.progress[id]={reps:p.reps,interval:p.interval,lapses:p.lapses,seen:p.seen,last:p.last,due:p.due};}
  out.favorites=[...new Set(value.favorites.map(currentId).filter(Boolean))];
