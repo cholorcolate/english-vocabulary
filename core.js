@@ -10,6 +10,18 @@ const LEGACY_IDS={
 export function dateKey(time=Date.now()){const d=new Date(time);return `${d.getFullYear()}-${String(d.getMonth()+1).padStart(2,'0')}-${String(d.getDate()).padStart(2,'0')}`;}
 export function emptyState(){return {version:1,progress:{},favorites:[],history:{},settings:{goal:30,batch:20,voice:'en-US',rate:0.85,shuffle:true},session:null};}
 export function normalizeAnswer(s){return s.toLowerCase().normalize('NFKC').replace(/[’‘]/g,"'").replace(/[.…]+/g,' ').replace(/\s+/g,' ').trim();}
+export function makeChoices(words,answer,random=Math.random){
+ const senses=meaning=>meaning.split(/[；;,，、/（）()]/).map(part=>part.replace(/[^\u4e00-\u9fff]/g,'')).filter(part=>part.length>=2);
+ const answerSenses=senses(answer.meaning);
+ const candidates=words.filter(w=>w.id!==answer.id&&w.word.toLowerCase()!==answer.word.toLowerCase()&&w.meaning!==answer.meaning&&
+  !senses(w.meaning).some(part=>answerSenses.some(correct=>part.includes(correct)||correct.includes(part))));
+ for(let i=candidates.length-1;i>0;i--){const j=Math.floor(random()*(i+1));[candidates[i],candidates[j]]=[candidates[j],candidates[i]];}
+ candidates.sort((a,b)=>Number(b.year===answer.year&&b.pos===answer.pos)-Number(a.year===answer.year&&a.pos===answer.pos));
+ const options=[answer];
+ for(const candidate of candidates){if(options.length===3)break;if(!options.some(option=>option.meaning===candidate.meaning))options.push(candidate);}
+ for(let i=options.length-1;i>0;i--){const j=Math.floor(random()*(i+1));[options[i],options[j]]=[options[j],options[i]];}
+ return options;
+}
 export function schedule(previous,grade,now=Date.now()){
  const p=previous||{reps:0,interval:0,lapses:0,seen:0};
  let interval=0,reps=p.reps||0,lapses=p.lapses||0;
@@ -27,7 +39,7 @@ export function validateState(value,ids){
  out.favorites=[...new Set(value.favorites.map(currentId).filter(Boolean))];
  for(const [day,h]of Object.entries(value.history)){if(!/^\d{4}-\d{2}-\d{2}$/.test(day)||!h||!Number.isFinite(h.reviews)||h.reviews<0||!Number.isFinite(h.correct)||h.correct<0||h.correct>h.reviews||!Array.isArray(h.ids))throw Error('备份中的统计记录无效。');out.history[day]={reviews:h.reviews,correct:h.correct,ids:[...new Set(h.ids.map(currentId).filter(Boolean))]};}
  const s=value.settings||{};out.settings={goal:Math.min(500,Math.max(1,Math.round(Number(s.goal)||30))),batch:Math.min(100,Math.max(5,Math.round(Number(s.batch)||20))),voice:s.voice==='en-GB'?'en-GB':'en-US',rate:[0.65,0.85,1].includes(s.rate)?s.rate:0.85,shuffle:s.shuffle!==false};
- if(value.session&&Array.isArray(value.session.queue)){const q=value.session.queue.map(currentId).filter(Boolean);const n=value.session.index;if(q.length<=1000&&Number.isInteger(n)&&n>=0&&n<=q.length)out.session={queue:q,index:n,year:String(value.session.year||'all'),mode:['cards','spell','listen'].includes(value.session.mode)?value.session.mode:'cards',correct:Number(value.session.correct)||0,answered:Number(value.session.answered)||0};}
+ if(value.session&&Array.isArray(value.session.queue)){const q=value.session.queue.map(currentId).filter(Boolean);const n=value.session.index;if(q.length<=1000&&Number.isInteger(n)&&n>=0&&n<=q.length)out.session={queue:q,index:n,year:String(value.session.year||'all'),mode:value.session.mode==='listen'?'choice':['cards','choice','spell'].includes(value.session.mode)?value.session.mode:'cards',correct:Number(value.session.correct)||0,answered:Number(value.session.answered)||0};}
  return out;
 }
 export function makeQueue(words,state,{year='all',kind='all',now=Date.now(),random=Math.random}={}){
