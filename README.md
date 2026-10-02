@@ -20,4 +20,4 @@
 
 ## 数据与部署
 
-公开词库保存在 `data/vocabulary.json`，网站可通过 GitHub Pages 从 `main` 分支根目录发布。图片仅保存在本机，不包含在仓库或公开网页中。
+公开词库保存在 `data/vocabulary.json`，网站可通过 GitHub Pages 从 `main` 分支根目录发布。
